@@ -130,6 +130,7 @@ async function cargarPreguntas() {
 // 2. Ejecuta: generarHash('tu-nueva-clave').then(h => console.log(h))
 // 3. Reemplaza el valor de CLAVE_HASH abajo
 const CLAVE_HASH = '089258f6c4c07a50b03892907580e7dbead828c64ac8c9fe4f522463acfb056a';
+const STORAGE_KEY_ACCESO = 'usicamm_acceso';
 const ACCESO_VIGENCIA_DIAS = 30;  // tras X días sin entrar pide clave de nuevo
 
 async function generarHash(texto) {
