@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Notas internas / drafts
+context.md
+*.draft.md
+TODO.md
+NOTES.md
+
+# Archivos fuente / material de trabajo (no necesarios para la app)
+inicialpreescolar/
+examples/
+*.pdf
+
+# Backups
+preguntas-v*.json
+*.bak
+*.backup
+
+# Capturas / imágenes de trabajo
+image.png
+image*.png
+*screenshot*
+
+# Logs y temporales
+*.log
+build_output.log
+*.tmp
+node_modules/
+
+# OS
+Thumbs.db
+desktop.ini

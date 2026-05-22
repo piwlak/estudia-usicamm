@@ -1,0 +1,426 @@
+{
+  "Marco normativo": [
+    {
+      "sigla": "Artículo 3° constitucional",
+      "termino": "Artículo 3° de la Constitución",
+      "definicion": "Establece el derecho a la educación. Caracteriza la educación como universal, inclusiva, pública, gratuita, laica, democrática, nacional, humanista, equitativa, intercultural, integral y de excelencia. Reconoce a las maestras y maestros como agentes fundamentales del proceso educativo y el derecho a su sistema integral de formación, capacitación y actualización."
+    },
+    {
+      "sigla": "LGE",
+      "termino": "Ley General de Educación",
+      "definicion": "Ley federal vigente que regula la educación que imparte el Estado mexicano. Reglamenta el artículo 3° constitucional. Establece principios de gratuidad, universalidad, inclusión, laicidad, excelencia y equidad. Reformada en 2019 con la NEM."
+    },
+    {
+      "sigla": "LGDNNA",
+      "termino": "Ley General de los Derechos de Niñas, Niños y Adolescentes",
+      "definicion": "Ley federal que reconoce a niñas, niños y adolescentes como titulares de derechos. Principios rectores: interés superior de la niñez, no discriminación, vida libre de violencia, derecho a la participación, derecho a ser escuchados conforme a su edad y madurez."
+    },
+    {
+      "sigla": "USICAMM",
+      "termino": "Unidad del Sistema para la Carrera de las Maestras y los Maestros",
+      "definicion": "Órgano administrativo desconcentrado de la SEP encargado de la admisión, promoción y reconocimiento del personal docente, técnico docente, directivo y de supervisión en educación básica y media superior."
+    },
+    {
+      "sigla": "ADEB",
+      "termino": "Admisión Docente en Educación Básica",
+      "definicion": "Proceso a cargo de la USICAMM para la admisión al servicio docente en educación básica. Incluye examen de conocimientos y aptitudes, valoración del perfil profesional y verificación documental."
+    },
+    {
+      "sigla": "SEP",
+      "termino": "Secretaría de Educación Pública",
+      "definicion": "Dependencia federal responsable de regir el sistema educativo nacional."
+    },
+    {
+      "sigla": "SEN",
+      "termino": "Sistema Educativo Nacional",
+      "definicion": "Conjunto de instituciones, autoridades, planes, programas, métodos, materiales y normas que integran la prestación del servicio educativo."
+    },
+    {
+      "sigla": "DOF",
+      "termino": "Diario Oficial de la Federación",
+      "definicion": "Publicación oficial donde aparecen leyes, reglamentos, acuerdos secretariales y demás disposiciones que rigen el sistema educativo (entre otros)."
+    },
+    {
+      "sigla": "Acuerdo 14/12/23",
+      "termino": "Acuerdo de Convivencia Escolar (DOF, dic. 2023)",
+      "definicion": "Acuerdo de la SEP que establece lineamientos para la convivencia escolar, incluyendo el protocolo de prevención, detección y atención del acoso escolar y otras formas de violencia en escuelas de educación básica."
+    },
+    {
+      "sigla": "Acuerdo del CTE",
+      "termino": "Acuerdo de los Consejos Técnicos Escolares",
+      "definicion": "Acuerdo que regula la organización y funcionamiento del CTE. Establece su finalidad como espacio de toma de decisiones colegiadas para la mejora educativa, su autonomía profesional y la integración del colectivo."
+    },
+    {
+      "sigla": "Acuerdo Alimentos DOF 2024",
+      "termino": "Acuerdo sobre alimentos saludables (DOF, sep. 2024)",
+      "definicion": "Establece lineamientos para la preparación y expendio de alimentos y bebidas en escuelas. Prohíbe productos con sellos de advertencia, fomenta estilos de vida saludables y articula educación alimentaria con difusión a las familias."
+    }
+  ],
+  "Plan y programas": [
+    {
+      "sigla": "NEM",
+      "termino": "Nueva Escuela Mexicana",
+      "definicion": "Concepción humanista de la educación impulsada por la SEP a partir de 2019. Reorienta el currículo hacia la formación integral, la equidad, la inclusión, el reconocimiento de la diversidad y el vínculo escuela-comunidad."
+    },
+    {
+      "sigla": "Plan 2022",
+      "termino": "Plan de Estudio 2022 para la educación preescolar, primaria y secundaria",
+      "definicion": "Plan curricular vigente que organiza el trayecto formativo en 6 fases (1 a 6) y articula 4 campos formativos y 7 ejes articuladores. Sustituye al Plan 2017."
+    },
+    {
+      "sigla": "Niveles de concreción",
+      "termino": "Niveles de concreción curricular (Plan 2022)",
+      "definicion": "Tres niveles: (1) Programa Sintético, nivel nacional elaborado por la SEP; (2) Programa Analítico, nivel escolar elaborado por el colectivo docente; (3) Planeación didáctica, nivel del aula elaborada por cada docente para su grupo."
+    },
+    {
+      "sigla": "Programa Sintético",
+      "termino": "Programa Sintético del campo formativo",
+      "definicion": "Documento curricular nacional, elaborado por la SEP, que enuncia los Contenidos y Procesos de Desarrollo de Aprendizaje de cada campo formativo en cada fase. Es flexible e inacabado: el colectivo lo contextualiza en el Programa Analítico."
+    },
+    {
+      "sigla": "Programa Analítico",
+      "termino": "Programa Analítico del colectivo docente",
+      "definicion": "Segundo nivel de concreción curricular del Plan 2022. Documento elaborado por el colectivo docente de cada escuela a partir de la lectura crítica de la realidad de su comunidad-territorio. Adapta y contextualiza el Programa Sintético."
+    },
+    {
+      "sigla": "Codiseño",
+      "termino": "Codiseño curricular",
+      "definicion": "Proceso pedagógico permanente mediante el cual el colectivo docente codiseña el Programa Analítico tomando como base el Programa Sintético y articulando los contenidos con la realidad de su escuela y comunidad. Fortalece la autonomía profesional docente."
+    },
+    {
+      "sigla": "Lectura de la realidad",
+      "termino": "Lectura crítica de la realidad",
+      "definicion": "Diagnóstico que el colectivo docente realiza del contexto de su escuela y comunidad-territorio (problemáticas, recursos, saberes locales) como base para elaborar el Programa Analítico."
+    },
+    {
+      "sigla": "Contenidos",
+      "termino": "Contenidos del Programa Sintético",
+      "definicion": "Enunciados nacionales que organizan los saberes a abordar en cada campo formativo y fase. Se articulan con los Procesos de Desarrollo de Aprendizaje (PDA)."
+    },
+    {
+      "sigla": "PDA",
+      "termino": "Procesos de Desarrollo de Aprendizaje",
+      "definicion": "Procesos progresivos que describen cómo se construye el aprendizaje a lo largo de una fase. Mantienen relación con los Contenidos del Programa Sintético y orientan la práctica didáctica."
+    },
+    {
+      "sigla": "Trayecto formativo",
+      "termino": "Trayecto formativo",
+      "definicion": "Continuidad del aprendizaje a lo largo de las fases del Plan 2022, desde Educación Inicial hasta Secundaria. Implica articulación entre fases, no rupturas."
+    },
+    {
+      "sigla": "Campos formativos",
+      "termino": "Campos formativos del Plan 2022",
+      "definicion": "Cuatro: (1) Lenguajes; (2) Saberes y Pensamiento Científico; (3) Ética, Naturaleza y Sociedades; (4) De lo Humano y lo Comunitario. Estructuran el trabajo curricular en todas las fases (1 a 6)."
+    },
+    {
+      "sigla": "Ejes articuladores",
+      "termino": "Ejes articuladores del Plan 2022",
+      "definicion": "Siete temas transversales que cruzan todos los campos formativos: inclusión, pensamiento crítico, interculturalidad crítica, igualdad de género, vida saludable, apropiación de las culturas a través de la lectura y la escritura, y artes y experiencias estéticas."
+    },
+    {
+      "sigla": "Fase 1",
+      "termino": "Fase 1 — Educación Inicial",
+      "definicion": "De 0 a 3 años. Acompañamiento del desarrollo en el cuidado cariñoso, los vínculos afectivos y la crianza compartida con las familias."
+    },
+    {
+      "sigla": "Fase 2",
+      "termino": "Fase 2 — Educación Preescolar",
+      "definicion": "1°, 2° y 3° de preescolar (aprox. 3-6 años). Su actividad rectora es el juego."
+    },
+    {
+      "sigla": "Fase 3",
+      "termino": "Fase 3 — 1° y 2° de Primaria",
+      "definicion": "Primer y segundo grado de educación primaria. Continuidad con la Fase 2 a través de los mismos campos formativos y ejes articuladores."
+    },
+    {
+      "sigla": "Perfil de egreso",
+      "termino": "Perfil de egreso de la educación básica",
+      "definicion": "Articula los rasgos del aprendizaje hacia los que tienden los procesos formativos derivados del artículo 3° constitucional. Orienta los campos formativos y los ejes articuladores."
+    },
+    {
+      "sigla": "Proyecto comunitario",
+      "termino": "Proyecto comunitario / Proyecto integrador",
+      "definicion": "Estrategia didáctica del Plan 2022 que articula contenidos curriculares con problemáticas y saberes de la comunidad-territorio. Forma parte de la concreción local del currículo."
+    },
+    {
+      "sigla": "Planeación didáctica",
+      "termino": "Planeación didáctica",
+      "definicion": "Tercer nivel de concreción curricular. Instrumento que cada docente elabora para organizar el trabajo con su grupo. Es flexible, se ajusta durante su puesta en práctica y se retroalimenta de la evaluación formativa."
+    }
+  ],
+  "Diversidad e inclusión": [
+    {
+      "sigla": "Pluralidad étnica",
+      "termino": "Pluralidad étnica y cultural",
+      "definicion": "Reconocimiento explícito en el artículo 2° constitucional y en el Plan 2022 de que México es una nación pluricultural sustentada originalmente en sus pueblos indígenas y afromexicanos. La educación debe partir de esta diversidad como riqueza, no como obstáculo, e integrarla al trabajo curricular cotidiano."
+    },
+    {
+      "sigla": "Interculturalidad crítica",
+      "termino": "Interculturalidad crítica",
+      "definicion": "Eje articulador del Plan 2022. Va más allá del reconocimiento folclórico de las culturas: implica cuestionar las relaciones de poder, las jerarquías culturales y las desigualdades históricas entre pueblos, promoviendo el diálogo en condiciones de equidad."
+    },
+    {
+      "sigla": "Pueblos originarios",
+      "termino": "Pueblos originarios / indígenas",
+      "definicion": "Pueblos descendientes de las poblaciones que habitaban el territorio mexicano antes de la colonización y que conservan instituciones sociales, económicas, culturales y políticas propias. La educación debe respetar y promover sus lenguas, saberes y formas de vida."
+    },
+    {
+      "sigla": "Afromexicano",
+      "termino": "Pueblos afromexicanos",
+      "definicion": "Pueblos descendientes de personas africanas traídas en condiciones de esclavitud y de las comunidades que se conformaron en México. Reconocidos en la Constitución desde 2019 como parte de la pluralidad étnica y cultural de la nación."
+    },
+    {
+      "sigla": "EIB",
+      "termino": "Educación Intercultural Bilingüe",
+      "definicion": "Modalidad educativa que se imparte en zonas con presencia de pueblos indígenas. Reconoce la lengua materna y la cultura propia como base del aprendizaje y promueve el bilingüismo y la interculturalidad."
+    },
+    {
+      "sigla": "Decolonialidad",
+      "termino": "Perspectiva decolonial",
+      "definicion": "Enfoque teórico que cuestiona la herencia del colonialismo en las relaciones sociales, los saberes y las instituciones. En el Plan 2022 sustenta la inclusión decolonial, el diálogo de saberes y la interculturalidad crítica."
+    },
+    {
+      "sigla": "Inclusión",
+      "termino": "Inclusión (eje articulador del Plan 2022)",
+      "definicion": "Va más allá de incorporar a estudiantes con discapacidad o de poblaciones excluidas. Implica transformar las relaciones pedagógicas, los contenidos y las prácticas escolares, eliminando barreras estructurales para el aprendizaje y la participación."
+    },
+    {
+      "sigla": "Inclusión vs Integración",
+      "termino": "Inclusión vs Integración",
+      "definicion": "Integrar consiste en aceptar la presencia del estudiante con discapacidad en el aula regular. Incluir, en cambio, exige transformar el aula misma para que todas las personas puedan aprender y participar; el estudiante no se adapta a la escuela, la escuela se transforma."
+    },
+    {
+      "sigla": "USAER",
+      "termino": "Unidad de Servicios de Apoyo a la Educación Regular",
+      "definicion": "Servicio que apoya el proceso de inclusión de estudiantes con discapacidad u otras condiciones en escuelas regulares mediante la asesoría a docentes y la atención directa al alumnado."
+    },
+    {
+      "sigla": "Igualdad de género",
+      "termino": "Igualdad de género (eje articulador)",
+      "definicion": "Parte de reconocer que las desigualdades de género son una condición histórica y social, no un rasgo cultural inmutable. La violencia hacia las mujeres se sustenta en desigualdades que pueden transformarse mediante la educación."
+    },
+    {
+      "sigla": "Diálogo de saberes",
+      "termino": "Diálogo de saberes",
+      "definicion": "Articulación entre el conocimiento científico y los saberes comunitarios, ancestrales, indígenas, afromexicanos y otros, sin jerarquizarlos. Principio del Plan 2022 que sustenta la interculturalidad crítica."
+    }
+  ],
+  "Vida escolar": [
+    {
+      "sigla": "CTE",
+      "termino": "Consejo Técnico Escolar",
+      "definicion": "Órgano colegiado integrado por la persona directora y la totalidad del personal docente del plantel. Espacio de decisión, planeación y formación profesional. En la NEM se concibe como Comunidad de Aprendizaje."
+    },
+    {
+      "sigla": "CA",
+      "termino": "Comunidad de Aprendizaje",
+      "definicion": "Concepción del CTE en la NEM: colectivo docente que reflexiona críticamente sobre su práctica, construye acuerdos y se forma de manera dialógica para mejorar la educación; aborda problemáticas de la práctica con compromiso comunitario."
+    },
+    {
+      "sigla": "PEMC",
+      "termino": "Programa Escolar de Mejora Continua",
+      "definicion": "Documento de planeación institucional elaborado por el colectivo escolar (con participación de la comunidad) que orienta la mejora del plantel. Distinto del Programa Analítico (este último es curricular)."
+    },
+    {
+      "sigla": "Comunidad-territorio",
+      "termino": "Comunidad-territorio",
+      "definicion": "Categoría central del Plan 2022. La escuela se concibe en relación con su entorno social, cultural, político y geográfico. La práctica docente y la planeación se construyen en diálogo con esta realidad, no al margen."
+    },
+    {
+      "sigla": "Aprendizaje dialógico",
+      "termino": "Aprendizaje dialógico",
+      "definicion": "Modelo de aprendizaje basado en el diálogo igualitario entre los participantes (docentes, estudiantes, familias, comunidad). Sustenta el trabajo del CTE como Comunidad de Aprendizaje."
+    },
+    {
+      "sigla": "Comité de Convivencia",
+      "termino": "Comité de Convivencia Escolar",
+      "definicion": "Órgano del plantel encargado de la prevención, detección y atención de situaciones de violencia y acoso escolar. Articula la acción institucional con familias y autoridades cuando es necesario."
+    },
+    {
+      "sigla": "Cuidado cariñoso",
+      "termino": "Cuidado cariñoso y sensible",
+      "definicion": "Concepto eje de la Educación Inicial (Fase 1). Práctica de crianza basada en la responsividad afectiva, la sensibilidad a las necesidades del bebé/niño pequeño y el establecimiento de vínculos seguros."
+    },
+    {
+      "sigla": "Crianza compartida",
+      "termino": "Crianza compartida",
+      "definicion": "Corresponsabilidad entre la familia, la institución educativa y la comunidad en el desarrollo del niño en sus primeros años. Principio rector de la Educación Inicial."
+    }
+  ],
+  "Teoría educativa y aprendizaje": [
+    {
+      "sigla": "Vygotsky",
+      "termino": "Lev Vygotsky (1896-1934)",
+      "definicion": "Psicólogo soviético, autor de la teoría sociohistórica del desarrollo. Postula que las funciones psicológicas superiores se construyen socialmente, mediadas por instrumentos culturales (lenguaje). Conceptos clave: ZDP, mediación, interiorización, herramientas de la mente."
+    },
+    {
+      "sigla": "Bodrova-Leong",
+      "termino": "Elena Bodrova y Deborah Leong",
+      "definicion": "Investigadoras estadounidenses que desarrollan la propuesta educativa 'Herramientas de la mente' a partir de Vygotsky. Aplican sus principios al trabajo en preescolar: juego con planeación, habla privada, andamiaje del docente y mediación."
+    },
+    {
+      "sigla": "Meece",
+      "termino": "Judith Meece",
+      "definicion": "Autora estadounidense especializada en desarrollo del niño y motivación escolar. Sus textos sobre el desarrollo cognitivo (incluyendo Piaget) son referencia para la formación docente USICAMM en educación básica."
+    },
+    {
+      "sigla": "Piaget",
+      "termino": "Jean Piaget (1896-1980)",
+      "definicion": "Psicólogo suizo, autor de la teoría del desarrollo cognitivo. Describe cuatro etapas: sensoriomotora (0-2), preoperatoria (2-7), operatoria concreta (7-11) y operatoria formal (11+). Conceptos clave: esquema, asimilación, acomodación, conservación, descentración."
+    },
+    {
+      "sigla": "Montaño Sánchez",
+      "termino": "Lilia Antonia Montaño Sánchez",
+      "definicion": "Autora referida en la bibliografía USICAMM. Aborda la cultura escolar como entramado complejo de relaciones, su transformación a lo largo del tiempo y la articulación entre escuela, familias y comunidad como núcleo de relaciones pedagógicas."
+    },
+    {
+      "sigla": "Díaz-Barriga",
+      "termino": "Frida Díaz-Barriga",
+      "definicion": "Pedagoga mexicana, especialista en evaluación formativa, estrategias de enseñanza y aprendizaje significativo. Articula la evaluación formativa con dos dimensiones: la del estudiante (autoevaluación, reflexión) y la del docente (ajuste de la enseñanza)."
+    },
+    {
+      "sigla": "OCDE",
+      "termino": "Organización para la Cooperación y el Desarrollo Económicos",
+      "definicion": "Organismo internacional. Sus principios sobre la naturaleza del aprendizaje (centrado en el aprendiz, social, motivacional, sensible a las diferencias individuales, esfuerzo arduo sin sobrecarga) son referencia en la bibliografía USICAMM."
+    },
+    {
+      "sigla": "ZDP",
+      "termino": "Zona de Desarrollo Próximo",
+      "definicion": "Concepto de Vygotsky: distancia entre lo que la persona puede hacer sola (Zona de Desarrollo Real) y lo que puede hacer con ayuda de otra persona más experimentada. La enseñanza eficaz opera en la ZDP."
+    },
+    {
+      "sigla": "ZDR",
+      "termino": "Zona de Desarrollo Real",
+      "definicion": "Lo que la persona ya puede hacer por sí misma sin mediación. Punto de partida del aprendizaje, no su meta."
+    },
+    {
+      "sigla": "Andamiaje",
+      "termino": "Andamiaje (scaffolding)",
+      "definicion": "Apoyo que el docente o adulto ofrece al estudiante durante el aprendizaje (preguntas guía, modelado, materiales) y que se retira progresivamente conforme el estudiante adquiere autonomía."
+    },
+    {
+      "sigla": "Habla privada",
+      "termino": "Habla privada (Vygotsky / Bodrova-Leong)",
+      "definicion": "Lenguaje dirigido a uno mismo que media externamente la autorregulación y se internaliza progresivamente para producir control voluntario de la conducta y las emociones. Herramienta de la mente."
+    },
+    {
+      "sigla": "Herramientas de la mente",
+      "termino": "Herramientas de la mente",
+      "definicion": "Instrumentos culturales (lenguaje, símbolos, mediadores externos) que las personas usan para regular su pensamiento y conducta. Concepto vygotskiano que Bodrova y Leong llevan al trabajo en preescolar."
+    },
+    {
+      "sigla": "Conservación",
+      "termino": "Conservación (Piaget)",
+      "definicion": "Capacidad cognitiva de comprender que la cantidad de un objeto se mantiene aunque cambie su forma o disposición espacial. Característica del pensamiento operatorio concreto, ausente en el preoperatorio."
+    },
+    {
+      "sigla": "Preoperatorio",
+      "termino": "Pensamiento preoperatorio",
+      "definicion": "Etapa del desarrollo cognitivo según Piaget (aprox. 2-7 años). Pensamiento simbólico pero todavía centrado, sin reversibilidad ni conservación."
+    },
+    {
+      "sigla": "Aprendizaje significativo",
+      "termino": "Aprendizaje significativo (Ausubel)",
+      "definicion": "Aprendizaje que se construye relacionando el contenido nuevo con los conocimientos previos del estudiante. Requiere intencionalidad del aprendiz y materiales potencialmente significativos."
+    },
+    {
+      "sigla": "Aprendizaje situado",
+      "termino": "Aprendizaje situado",
+      "definicion": "Perspectiva que sostiene que el aprendizaje es inseparable del contexto en el que ocurre. Se aprende participando en prácticas culturales concretas, no en abstracciones descontextualizadas."
+    },
+    {
+      "sigla": "Conocimientos previos",
+      "termino": "Conocimientos previos",
+      "definicion": "Saberes y experiencias con los que el estudiante llega al aula. La OCDE y el Plan 2022 los consideran punto de partida obligado de la enseñanza, no obstáculo a sustituir."
+    },
+    {
+      "sigla": "Evaluación formativa",
+      "termino": "Evaluación formativa",
+      "definicion": "Evaluación continua orientada a mejorar el aprendizaje. Articula la dimensión del estudiante (autoevaluación, reflexión sobre lo aprendido) y la del docente (ajuste de la enseñanza). Distinta de la evaluación sumativa (calificación final)."
+    },
+    {
+      "sigla": "Apego seguro",
+      "termino": "Apego seguro",
+      "definicion": "Vínculo afectivo estable y predecible que el bebé construye con sus cuidadores principales. Base para el desarrollo socioemocional posterior. Eje del trabajo en Educación Inicial."
+    }
+  ],
+  "Cultura de paz y convivencia": [
+    {
+      "sigla": "Cultura de paz",
+      "termino": "Cultura de paz",
+      "definicion": "Conjunto de valores, actitudes y prácticas que rechazan la violencia y previenen los conflictos atacando sus causas. Más amplia que la mera ausencia de agresión: implica construir relaciones respetuosas y solidarias."
+    },
+    {
+      "sigla": "Conflicto",
+      "termino": "Conflicto (en la educación para la paz)",
+      "definicion": "Oportunidad para crecer y aprender, no algo que evitar. Su comprensión, tipos, causas y la transformación positiva de la convivencia son contenidos centrales de la educación para la paz."
+    },
+    {
+      "sigla": "Mediación",
+      "termino": "Mediación de conflictos",
+      "definicion": "Técnica de resolución en la que una tercera persona, sin imponer la solución, guía a las partes para que dialoguen y construyan acuerdos a partir de la escucha activa y la empatía."
+    },
+    {
+      "sigla": "Acoso escolar",
+      "termino": "Acoso escolar (bullying)",
+      "definicion": "Comportamiento agresivo, intencional y repetido, en el que existe un desequilibrio de poder entre quien agrede y quien es agredido. Incluye agresión física, verbal, psicológica, social o digital."
+    },
+    {
+      "sigla": "Testigos",
+      "termino": "Testigos del acoso escolar",
+      "definicion": "Personas que presencian un episodio de acoso. Se clasifican en activos (intervienen para detener), pasivos (observan sin actuar) y reforzadores (apoyan al agresor con risas o seguimiento). Su rol es clave para sostener o detener el acoso."
+    },
+    {
+      "sigla": "Tejido social",
+      "termino": "Reconstrucción del tejido social",
+      "definicion": "Tercer eje del manual 'Eduquemos para la paz'. Restauración de los vínculos comunitarios después de procesos de violencia o ruptura social, mediante la educación y el trabajo colectivo."
+    },
+    {
+      "sigla": "Regulación emocional",
+      "termino": "Regulación emocional",
+      "definicion": "Capacidad de identificar, modular y expresar las propias emociones. En la resolución de conflictos permite que las personas dialoguen sin que las emociones desborden o impidan la escucha."
+    },
+    {
+      "sigla": "Vínculos seguros",
+      "termino": "Vínculos seguros",
+      "definicion": "Relaciones afectivas estables y predecibles entre el niño y los adultos significativos. Base del bienestar emocional en preescolar. Se construyen acompañando al niño a reconocer y nombrar lo que siente."
+    }
+  ],
+  "Otros": [
+    {
+      "sigla": "Estrategia Vida Saludable",
+      "termino": "Estrategia Nacional Vida Saludable",
+      "definicion": "Estrategia intersectorial que articula vida saludable con sus determinantes sociales (alimentación, vida libre de adicciones, bienestar físico y emocional, contexto comunitario). Se concreta como Proyecto Comunitario en el plantel."
+    },
+    {
+      "sigla": "Vida saludable",
+      "termino": "Vida saludable (eje articulador)",
+      "definicion": "Eje del Plan 2022. Aborda la salud como hecho social: incluye alimentación, movimiento, juego al aire libre, bienestar emocional y uso responsable de pantallas, articulado con familias y comunidad."
+    },
+    {
+      "sigla": "Pensamiento crítico",
+      "termino": "Pensamiento crítico (eje articulador)",
+      "definicion": "Capacidad de analizar, problematizar y cuestionar la realidad y los saberes establecidos. En el Plan 2022 atraviesa todos los campos formativos."
+    },
+    {
+      "sigla": "Apropiación de las culturas",
+      "termino": "Apropiación de las culturas a través de la lectura y la escritura",
+      "definicion": "Eje articulador del Plan 2022. Que niñas, niños y adolescentes accedan a las culturas mediante prácticas de lectura y escritura, reconociendo la diversidad lingüística y participando en una comunidad letrada amplia."
+    },
+    {
+      "sigla": "Artes y experiencias estéticas",
+      "termino": "Artes y experiencias estéticas (eje articulador)",
+      "definicion": "Eje del Plan 2022 que reconoce las artes como vía de conocimiento y expresión, no como adorno o complemento decorativo del currículo."
+    },
+    {
+      "sigla": "Equidad",
+      "termino": "Equidad educativa",
+      "definicion": "Distinta de la igualdad: implica dar a cada quien lo que necesita para que pueda ejercer su derecho a la educación en condiciones reales de oportunidad. Atender desigualdades estructurales requiere desigualdad de medios para llegar a igualdad de resultados."
+    },
+    {
+      "sigla": "Currículum oculto",
+      "termino": "Currículum oculto",
+      "definicion": "Conjunto de mensajes, valores y prácticas que la escuela transmite sin que figuren en el currículo formal (rutinas, jerarquías, lenguaje, organización del espacio). Puede reproducir desigualdades si no se reflexiona críticamente sobre él."
+    }
+  ]
+}

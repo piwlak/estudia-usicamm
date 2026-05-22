@@ -1,0 +1,356 @@
+{
+  "Plan de Estudio 2022": {
+    "titulo": "Plan de Estudio 2022 (NEM)",
+    "que_es": "Plan curricular vigente para preescolar, primaria y secundaria. Es el documento marco de la Nueva Escuela Mexicana (NEM).",
+    "ideas_clave": [
+      "Organiza el trayecto formativo en 6 fases (1 a 6), desde Educación Inicial hasta Secundaria.",
+      "Articula 4 campos formativos (Lenguajes; Saberes y Pensamiento Científico; Ética, Naturaleza y Sociedades; De lo Humano y lo Comunitario).",
+      "Atraviesa el currículo con 7 ejes articuladores transversales: inclusión, pensamiento crítico, interculturalidad crítica, igualdad de género, vida saludable, apropiación de las culturas, y artes y experiencias estéticas.",
+      "Concibe a la escuela en relación con la comunidad-territorio: el aprendizaje se construye en diálogo con el contexto social, cultural y político.",
+      "Reconoce el diálogo de saberes: articula conocimiento científico con saberes comunitarios, ancestrales, indígenas y afromexicanos sin jerarquizarlos.",
+      "Desarrolla tres niveles de concreción curricular: Programa Sintético (nacional, SEP), Programa Analítico (escolar, colectivo docente) y Planeación didáctica (aula)."
+    ],
+    "no_es": "No es un programa rígido ni un listado cerrado de contenidos. No sustituye al artículo 3° constitucional ni a la LGE: los concreta curricularmente.",
+    "errores_comunes": "Pensar que los campos formativos solo aplican en preescolar y se reemplazan por asignaturas en primaria. Confundir Programa Sintético con Programa Analítico. Suponer que el aula está separada de la comunidad."
+  },
+  "Programa Sintético Fase 2": {
+    "titulo": "Programa Sintético Fase 2 (Preescolar)",
+    "que_es": "Documento curricular nacional, elaborado por la SEP, que enuncia los Contenidos y los Procesos de Desarrollo de Aprendizaje (PDA) para preescolar (1°, 2° y 3°). Es flexible e inacabado.",
+    "ideas_clave": [
+      "Su actividad rectora es el juego: medio privilegiado para el aprendizaje y el desarrollo en preescolar.",
+      "Los PDA describen procesos progresivos por los que el aprendizaje se construye a lo largo de la fase, no logros cerrados al cierre del bimestre.",
+      "Los Contenidos son nacionales pero se contextualizan en el Programa Analítico del colectivo docente.",
+      "Articula los 4 campos formativos: Lenguajes, Saberes y Pensamiento Científico, Ética/Naturaleza/Sociedades, De lo Humano y lo Comunitario.",
+      "El codiseño es proceso pedagógico permanente y constitutivo del trabajo, no opcional.",
+      "Trabaja en relación con la comunidad-territorio: lectura de la realidad de la escuela como punto de partida."
+    ],
+    "no_es": "No prescribe orden estricto ni metodología obligatoria. No es un libreto a seguir literalmente. No es una lista de actividades en orden cronológico fijo.",
+    "errores_comunes": "Reducir el campo de Saberes y Pensamiento Científico a memorización. Considerar el codiseño como opcional. Trabajar el campo de Ética como inculcación de reglas de obediencia."
+  },
+  "Programa Sintético Fase 3": {
+    "titulo": "Programa Sintético Fase 3 (1° y 2° de Primaria)",
+    "que_es": "Documento curricular nacional para los primeros dos grados de educación primaria. Mantiene la lógica del Plan 2022 y la continuidad con la Fase 2.",
+    "ideas_clave": [
+      "Mantiene los 4 campos formativos y los 7 ejes articuladores: NO se sustituyen por asignaturas tradicionales al cruzar a primaria.",
+      "Articula con la Fase 2: el colectivo retoma críticamente lo trabajado en preescolar para construir continuidad en los PDA.",
+      "El estudio sistemático aparece como actividad central, sin abandonar el juego como mediador del aprendizaje.",
+      "Es flexible e inacabado, igual que el Programa Sintético de la Fase 2; el colectivo lo contextualiza en el Programa Analítico.",
+      "Se trabaja en proyectos comunitarios que articulan contenidos curriculares con problemáticas de la comunidad-territorio."
+    ],
+    "no_es": "No es independiente del trabajo previo en preescolar. No vuelve a las asignaturas tradicionales del Plan 2017 ni elimina los campos formativos.",
+    "errores_comunes": "Pensar que en Fase 3 cambia la estructura curricular nacional. Ignorar la continuidad con preescolar."
+  },
+  "Programa Analítico (Fichero)": {
+    "titulo": "Programa Analítico (Fichero)",
+    "que_es": "Segundo nivel de concreción curricular del Plan 2022. Documento elaborado por el colectivo docente de cada escuela a partir de la lectura crítica de la realidad de su comunidad-territorio.",
+    "ideas_clave": [
+      "Es de y para el colectivo docente, no para autoridades externas.",
+      "Es flexible y sin formato único: cada escuela define el suyo según su contexto.",
+      "Se elabora cada ciclo escolar a partir de una lectura crítica de la realidad de la escuela y la comunidad.",
+      "Articula los Contenidos del Programa Sintético con las problemáticas y saberes locales.",
+      "Toda escuela tiene un contexto específico y la contextualización siempre es pertinente, sin importar la apariencia de homogeneidad.",
+      "Familias y actores comunitarios pueden aportar al diagnóstico y a la lectura de la realidad, enriqueciendo el trabajo del colectivo sin sustituirlo."
+    ],
+    "no_es": "No es un trámite administrativo. No requiere supervisión o aprobación previa de personas ajenas al colectivo. No tiene formato único impuesto desde fuera. No es opcional.",
+    "errores_comunes": "Que la supervisora exija formato único. Que la directora pida un formato uniforme. Saltarse el codiseño 'porque la escuela es homogénea'."
+  },
+  "Programa Analítico (CTE 2025-2026)": {
+    "titulo": "Programa Analítico (orientaciones CTE 2025-2026)",
+    "que_es": "Orientaciones del Consejo Técnico Escolar para la elaboración del Programa Analítico durante el ciclo 2025-2026.",
+    "ideas_clave": [
+      "El CTE es el espacio del colectivo para codiseñar el Programa Analítico de manera colegiada.",
+      "Las planeaciones didácticas deben partir de los Contenidos del Programa Analítico, donde el colectivo ya contextualizó los del Programa Sintético.",
+      "El proceso es permanente: se actualiza cada ciclo a partir de la lectura crítica de la realidad.",
+      "El colectivo docente lo elabora con autonomía profesional, en diálogo con el contexto."
+    ],
+    "no_es": "No se elabora una sola vez para usarse igual cada ciclo posterior.",
+    "errores_comunes": "Reusar el Programa Analítico del ciclo anterior sin actualización. Saltarse el codiseño en CTE."
+  },
+  "Planeación didáctica (CTE 2025-2026)": {
+    "titulo": "Planeación didáctica (orientaciones CTE 2025-2026)",
+    "que_es": "Tercer nivel de concreción curricular: instrumento que cada docente elabora para organizar el trabajo cotidiano con su grupo.",
+    "ideas_clave": [
+      "Es flexible: permite ajustes ante imprevistos y se enriquece durante su puesta en práctica.",
+      "Se retroalimenta de la evaluación formativa en un ciclo continuo de mejora.",
+      "Parte de los Contenidos del Programa Analítico del colectivo, no directamente del Programa Sintético.",
+      "Es un instrumento profesional, no un trámite administrativo entregable y olvidable."
+    ],
+    "no_es": "No es un documento rígido. No se entrega y se olvida. No se sigue al pie de la letra cuando la realidad del aula pide ajustes.",
+    "errores_comunes": "Tratarla como entrega administrativa sin uso real. Negarse a ajustar durante la práctica por 'no comprometer rigor'."
+  },
+  "Planificación didáctica (Monetti y Molina)": {
+    "titulo": "Planificación didáctica (Monetti y Molina)",
+    "que_es": "Marco teórico sobre la planificación como proceso profesional reflexivo del docente.",
+    "ideas_clave": [
+      "Planificar es una actividad profesional e intelectual del docente, no un trámite burocrático.",
+      "La planificación articula intenciones, contenidos, estrategias y evaluación de manera coherente.",
+      "Es hipotética: anticipa lo que se espera que ocurra, pero la práctica real obliga a reconstruir constantemente.",
+      "Implica decisiones pedagógicas fundamentadas en el conocimiento del grupo, del contexto y de los contenidos."
+    ],
+    "no_es": "No es la copia de un formato. No es producto cerrado: es proceso abierto.",
+    "errores_comunes": "Confundir planificación con simple llenado de formato administrativo."
+  },
+  "CTE como Comunidad de Aprendizaje": {
+    "titulo": "El CTE como Comunidad de Aprendizaje",
+    "que_es": "Concepción del Consejo Técnico Escolar dentro de la NEM: colectivo docente que reflexiona críticamente sobre su práctica para mejorar la educación.",
+    "ideas_clave": [
+      "Aborda las problemáticas de la práctica docente de manera reflexiva y crítica, llegando a acuerdos colectivos.",
+      "Articula a centros y escuelas de organización completa y multigrado: el aprendizaje dialógico es compromiso comunitario para todas.",
+      "Implica un compromiso comunitario para la mejora educativa y para construir una sociedad más justa, crítica, solidaria, pacífica y sustentable.",
+      "Construirse o fortalecerse considera momentos: sensibilización, objetivo compartido, decisiones colaborativas, ambiente de confianza, respeto y apertura.",
+      "Toma decisiones colegiadas con autonomía profesional sobre lo pedagógico; la supervisión acompaña sin sustituir."
+    ],
+    "no_es": "No es solo un espacio administrativo. No se reduce a firmar actas y repartir circulares. No es exclusivo de escuelas multigrado ni opcional según el plantel.",
+    "errores_comunes": "Dedicar la sesión a lo administrativo. Considerar la propuesta como 'opcional'. Limitarla a multigrado."
+  },
+  "Acuerdo de Consejos Técnicos Escolares": {
+    "titulo": "Acuerdo de los Consejos Técnicos Escolares",
+    "que_es": "Acuerdo que regula la organización y funcionamiento del CTE.",
+    "ideas_clave": [
+      "Define al CTE como espacio de toma de decisiones colegiadas para la mejora educativa.",
+      "Lo integra la persona directora y la totalidad del personal docente del plantel.",
+      "Pueden participar otras figuras educativas (personal de apoyo, asesores técnico-pedagógicos) según las funciones del Consejo.",
+      "Reconoce la autonomía profesional del colectivo sobre lo pedagógico; la autoridad de zona acompaña, no sustituye decisiones."
+    ],
+    "no_es": "El CTE no es exclusivo de docentes solamente.",
+    "errores_comunes": "Pensar que la supervisora puede imponer estrategias al CTE."
+  },
+  "Proceso de mejora continua": {
+    "titulo": "Proceso de mejora continua",
+    "que_es": "Proceso cíclico de planeación, implementación, evaluación y comunicación que articula el trabajo del colectivo escolar para mejorar la educación.",
+    "ideas_clave": [
+      "Tiene fases: planeación, implementación, seguimiento y evaluación, y comunicación de avances y logros.",
+      "La comunicación cierra el ciclo: hace visibles a la comunidad los resultados, fortalece el compromiso colectivo y rinde cuentas.",
+      "Sin la fase de comunicación el ciclo queda abierto y el equipo pierde la posibilidad de aprender de su propio trabajo."
+    ],
+    "no_es": "No es una secuencia lineal donde basta implementar y olvidar. La comunicación no es 'opcional'.",
+    "errores_comunes": "Cumplir todas las fases salvo la comunicación, dejando el ciclo incompleto."
+  },
+  "Marco normativo: Constitución": {
+    "titulo": "Constitución (artículos 3° y 2°)",
+    "que_es": "Marco constitucional del derecho a la educación y de la pluralidad étnica y cultural de la nación.",
+    "ideas_clave": [
+      "Artículo 3°: la educación es universal, inclusiva, pública, gratuita, laica, democrática, nacional, humanista, equitativa, intercultural, integral y de excelencia.",
+      "Reconoce a las maestras y maestros como agentes fundamentales del proceso educativo y su derecho al sistema integral de formación, capacitación y actualización.",
+      "Artículo 2°: México es una nación pluricultural sustentada originalmente en sus pueblos indígenas y afromexicanos.",
+      "El Plan 2022 articula el currículo con estos preceptos; la LGE reglamenta el artículo 3°."
+    ],
+    "no_es": "No queda subordinado al Plan 2022. La Constitución es el marco superior que el Plan concreta curricularmente.",
+    "errores_comunes": "Suponer que el Plan 2022 puede modificar la interpretación operativa del artículo 3°."
+  },
+  "Marco normativo: Ley General de Educación": {
+    "titulo": "Ley General de Educación (LGE)",
+    "que_es": "Ley federal que reglamenta el artículo 3° constitucional. Regula la educación que imparte el Estado.",
+    "ideas_clave": [
+      "Establece el derecho a la educación con igualdad de oportunidades de aprendizaje, acceso, tránsito, permanencia y avance académico.",
+      "Artículo 5°: la educación se imparte sin discriminación; restringir el ingreso por nivel económico, condición social, origen, etc., contraviene este principio.",
+      "Artículo 20: las maestras y los maestros acompañarán a los educandos en sus trayectorias educativas, contribuyendo a su desarrollo integral, en el marco de la concepción humanista de la NEM.",
+      "Establece la educación inclusiva: el Estado y la escuela deben generar las condiciones, no excluir a estudiantes con discapacidad."
+    ],
+    "no_es": "No permite la exclusión de niños con discapacidad alegando 'falta de condiciones'. No es indiferente a los criterios de admisión.",
+    "errores_comunes": "Que la directora restrinja ingreso por nivel económico. Concentrarse 'solo en transmitir contenidos' sin acompañar al educando."
+  },
+  "Marco normativo: LGDNNA": {
+    "titulo": "Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "que_es": "Ley federal que reconoce a niñas, niños y adolescentes como titulares de derechos.",
+    "ideas_clave": [
+      "Principios rectores: interés superior de la niñez, no discriminación, vida libre de violencia, derecho a la participación.",
+      "Derecho de participación: niñas y niños tienen derecho a ser escuchados y tomados en cuenta conforme a su edad y madurez en los asuntos que les afectan.",
+      "El personal educativo tiene el deber de actuar ante situaciones de violencia (familiar o escolar) y dar parte conforme a los protocolos.",
+      "Los derechos no se suspenden ante medidas disciplinarias: toda actuación debe respetar la dignidad e integridad."
+    ],
+    "no_es": "No subordina los derechos a la disciplina escolar. No es un discurso ideal sin aplicación cuando hay que disciplinar.",
+    "errores_comunes": "Pensar que los padres pueden representar absolutamente la voluntad del hijo y excluirlo de actividades escolares 'porque es muy pequeño'."
+  },
+  "Vygotsky y desarrollo infantil (Bodrova-Leong)": {
+    "titulo": "Vygotsky y desarrollo infantil (Bodrova-Leong)",
+    "que_es": "Lectura aplicada de la teoría sociohistórica de Vygotsky al trabajo en preescolar, según Elena Bodrova y Deborah Leong.",
+    "ideas_clave": [
+      "El desarrollo es un proceso social: las funciones psicológicas superiores se construyen mediadas por instrumentos culturales (lenguaje).",
+      "Zona de Desarrollo Próximo (ZDP): distancia entre lo que la persona hace sola y lo que hace con ayuda. La enseñanza eficaz opera en la ZDP.",
+      "Zona de Desarrollo Real (ZDR): lo que ya hace por sí misma sin mediación; punto de partida, no meta.",
+      "El juego es central en preescolar pero requiere mediación del adulto: andamiaje, materiales, herramientas que enriquezcan el juego.",
+      "Habla privada: lenguaje dirigido a uno mismo que media externamente la autorregulación y se internaliza progresivamente.",
+      "Herramientas de la mente: instrumentos culturales que permiten regular el pensamiento y la conducta."
+    ],
+    "no_es": "El juego no se desarrolla mejor 'sin intervención del docente'. La mediación adulta no rompe la espontaneidad: la potencia.",
+    "errores_comunes": "Creer que basta dejar jugar libremente. Confundir ZDP con ZDR."
+  },
+  "Desarrollo del niño (Meece)": {
+    "titulo": "Desarrollo del niño (Meece)",
+    "que_es": "Lectura del desarrollo cognitivo y socioemocional del niño en edad escolar, especialmente desde la teoría piagetiana.",
+    "ideas_clave": [
+      "Etapas del desarrollo cognitivo según Piaget: sensoriomotora (0-2), preoperatoria (2-7), operatoria concreta (7-11), operatoria formal (11+).",
+      "Pensamiento preoperatorio: simbólico pero centrado, sin reversibilidad ni conservación. Característico del preescolar.",
+      "Conservación: capacidad de comprender que la cantidad se mantiene aunque cambie la forma. Aparece en operatoria concreta.",
+      "Las respuestas 'correctas' a edades tempranas pueden ser memorísticas o ecolálicas, no conceptuales.",
+      "El desarrollo no se determina únicamente por nivel socioeconómico: depende de procesos cognitivos universales con variación cultural."
+    ],
+    "no_es": "El niño que no conserva no tiene 'rezago': muestra el pensamiento característico de su etapa.",
+    "errores_comunes": "Canalizar a evaluación especializada al niño que no conserva a los 4 años. Atribuir las respuestas solo al capital cultural."
+  },
+  "Naturaleza del aprendizaje (OCDE)": {
+    "titulo": "Naturaleza del aprendizaje (OCDE)",
+    "que_es": "Marco teórico de la OCDE sobre la naturaleza del aprendizaje y los principios que orientan ambientes educativos eficaces.",
+    "ideas_clave": [
+      "El aprendizaje es centrado en el aprendiz: parte de sus conocimientos previos, motivación y emociones.",
+      "Es social por naturaleza: se construye en interacción con otros, mediado por herramientas y prácticas culturales.",
+      "Es sensible a las diferencias individuales: lo que funciona para un estudiante puede no funcionar para otro.",
+      "Demanda esfuerzo arduo y estímulos para todos, sin sobrecarga excesiva: atender diferencias para que cada quien avance.",
+      "La evaluación formativa retroalimenta el proceso, no solo lo califica al final."
+    ],
+    "no_es": "No se reduce a transmisión y memorización. La repetición de la misma actividad sin variar el contexto contraviene el principio.",
+    "errores_comunes": "Aplicar exigencia uniforme sin ajustes 'para no bajar el estándar'. Repetir hasta dominar sin atender el estado emocional o motivacional."
+  },
+  "Familias y comunidad (Montaño)": {
+    "titulo": "Familias y comunidad (Montaño Sánchez)",
+    "que_es": "Lectura de la cultura escolar y la relación escuela-familias-comunidad como entramado de relaciones complejas.",
+    "ideas_clave": [
+      "La escuela deja de ser santuario para reconocerse como núcleo de relaciones pedagógicas con familias y comunidad.",
+      "Las familias constituyen un puente entre escuela y comunidad y participan dentro del aula, no solo desde fuera.",
+      "Las relaciones escuela-familia son entramados complejos: aparecen escenas de colaboración, conflicto, omisión, participación o ausencia.",
+      "La cultura escolar se transforma al paso del tiempo: persisten algunas prácticas, otras cambian.",
+      "Analizar críticamente las formas de hacer y pensar en la institución es parte del trabajo docente reflexivo."
+    ],
+    "no_es": "No es cierto que las familias hayan 'abandonado generalizadamente' su responsabilidad: la realidad es más compleja.",
+    "errores_comunes": "Mantener prácticas tradicionales con familias 'porque siempre han funcionado'."
+  },
+  "Bienestar emocional en preescolar": {
+    "titulo": "Cómo favorecer el bienestar emocional en preescolar",
+    "que_es": "Cuadernillo SEP que orienta a docentes en el acompañamiento del desarrollo socioemocional de niñas y niños en preescolar.",
+    "ideas_clave": [
+      "Las emociones cruzan todas las vivencias y experiencias de aprendizaje: el bienestar emocional es base de la formación integral.",
+      "Acompañar a reconocer y nombrar lo que se siente, construir vínculos seguros y favorecer la conciencia emocional.",
+      "Construir estrategias para expresar las emociones sin agresión, no sancionarlas.",
+      "La colaboración escuela-familia es componente sustantivo: vínculos cotidianos, comunicación frecuente, corresponsabilidad.",
+      "El docente media las emociones cotidianas del aula: el habla privada (Vygotsky/Bodrova-Leong) es herramienta clave."
+    ],
+    "no_es": "Las emociones no son un asunto privado a dejar 'en casa'. El castigo no es la herramienta más eficaz.",
+    "errores_comunes": "Sancionar las emociones desbordadas. Limitar la colaboración con familias a juntas trimestrales."
+  },
+  "Cultura de paz (Fichero SEP)": {
+    "titulo": "Cultura de paz (Fichero SEP)",
+    "que_es": "Fichero SEP con actividades para promover la cultura de paz en preescolar.",
+    "ideas_clave": [
+      "Las competencias socioemocionales y la cultura de paz se construyen mediante actividades vivenciales y lúdicas, no por explicación teórica.",
+      "Contiene fichas como 'Semáforo de las emociones', 'Los ciegos y el elefante', 'De canicas y muñecas', 'Todas y todos en el mismo barco'.",
+      "Promueve la igualdad de género desde preescolar: la formación en igualdad inicia en las primeras etapas escolares.",
+      "Se enriquece con la participación de familias y la comunidad escolar dentro y fuera del aula.",
+      "La convivencia desde una cultura de paz se construye día a día en las relaciones del aula, no en eventos puntuales."
+    ],
+    "no_es": "No basta con una sesión mensual aislada. La sustitución por clase magistral rompe el sentido del fichero.",
+    "errores_comunes": "Pensar que la igualdad de género es solo para secundaria. Trabajar la cultura de paz una vez al mes en sesión especial."
+  },
+  "Educación para la paz (Eduquemos para la paz)": {
+    "titulo": "Eduquemos para la paz",
+    "que_es": "Manual que presenta el marco teórico y propuestas para la educación para la paz en escuelas.",
+    "ideas_clave": [
+      "Articula tres ejes: cultura de paz, gestión del conflicto y reconstrucción del tejido social.",
+      "El conflicto es una oportunidad para crecer y aprender, no algo que evitar.",
+      "La paz es construcción multidimensional, mucho más amplia que la mera ausencia de agresión física.",
+      "La educación para la paz aborda la comprensión del conflicto, sus tipos, causas y la transformación positiva de la convivencia.",
+      "Es responsabilidad de toda la comunidad escolar: docentes, directivos, estudiantes, familias y autoridades, no solo del director."
+    ],
+    "no_es": "Reducir la paz a 'no agredirse físicamente'. Pensar que es responsabilidad exclusiva del directivo.",
+    "errores_comunes": "Suprimir todo desacuerdo en la escuela como sinónimo de paz."
+  },
+  "Resolución de conflictos en centros escolares": {
+    "titulo": "Resolución de conflictos en centros escolares",
+    "que_es": "Documento que orienta técnicas de manejo y resolución pacífica de conflictos en la escuela.",
+    "ideas_clave": [
+      "Mediación: técnica en la cual el docente, sin imponer la solución, guía a las partes para que dialoguen y construyan acuerdos a partir de la escucha activa y la empatía.",
+      "El conflicto es inherente a las relaciones humanas y a la diversidad: negarlo o silenciarlo es una visión que el documento rechaza.",
+      "La regulación emocional permite que las personas en conflicto puedan dialogar, escuchar y sostener un proceso sin que las emociones desborden o impidan el diálogo.",
+      "El docente opera como facilitador del diálogo, no como contraparte ni como sancionador."
+    ],
+    "no_es": "Castigo grupal y retiro del objeto del conflicto NO es mediación.",
+    "errores_comunes": "Confundir mediación con negociación de la docente vs los niños."
+  },
+  "Acoso escolar (Guía para docentes)": {
+    "titulo": "Acoso escolar (Guía para docentes)",
+    "que_es": "Guía orientada a la detección, prevención e intervención frente al acoso escolar.",
+    "ideas_clave": [
+      "Acoso: comportamiento agresivo, intencional y repetido, con desequilibrio de poder.",
+      "Protagonistas: persona víctima, persona agresora y personas observadoras o testigos.",
+      "Testigos pueden ser activos (intervienen para detener), pasivos (observan sin actuar) o reforzadores (apoyan al agresor con risas, comentarios o seguimiento).",
+      "El rol del testigo es clave para sostener o detener el acoso: la intervención formativa los considera.",
+      "Atender los tres protagonistas, no solo a quien agrede."
+    ],
+    "no_es": "El testigo no es 'ajeno al fenómeno'.",
+    "errores_comunes": "Limitar la intervención a la dupla agresor-víctima."
+  },
+  "Acuerdo de erradicación del acoso escolar": {
+    "titulo": "Acuerdo de erradicación del acoso escolar (14/12/23)",
+    "que_es": "Acuerdo SEP-DOF que establece el protocolo de prevención, detección y atención del acoso escolar.",
+    "ideas_clave": [
+      "Detectado un posible caso de acoso, se debe activar el protocolo: notificar al Comité de Convivencia, intervenir, dar parte a la familia y dar seguimiento.",
+      "Bajo el principio de interés superior de la niñez (LGDNNA).",
+      "La familia es actor central en la atención: el Acuerdo prevé su notificación, participación y acompañamiento.",
+      "No se requiere que el niño agredido pida ayuda explícita: detectado el indicio, se activa el protocolo.",
+      "No se trata de 'cosa de niñas/niños' que se autorregula con el tiempo."
+    ],
+    "no_es": "No es discreción del personal docente decidir si activa o no el protocolo.",
+    "errores_comunes": "Resolver informalmente entre las partes sin notificar al Comité ni a la familia."
+  },
+  "Acuerdo de erradicación de la violencia sexual": {
+    "titulo": "Acuerdo de erradicación de la violencia sexual",
+    "que_es": "Acuerdo que establece el protocolo de prevención, detección y atención de la violencia sexual en escuelas.",
+    "ideas_clave": [
+      "Personal educativo tiene deber de denuncia ante indicios de violencia sexual contra niñas, niños o adolescentes.",
+      "Atender al interés superior de la niñez y dar parte conforme a los protocolos establecidos.",
+      "El derecho de niñas y niños a vivir libres de violencia es prioritario.",
+      "El plantel no debe permanecer ajeno: detectado el indicio, se actúa institucionalmente."
+    ],
+    "no_es": "Las relaciones intrafamiliares no son 'privadas' cuando hay violencia: el deber del personal incluye actuar.",
+    "errores_comunes": "Esperar a que el padre se retire y comentar la situación sin acciones formales."
+  },
+  "Entornos escolares seguros": {
+    "titulo": "Entornos Escolares Seguros",
+    "que_es": "Documento SEP con orientaciones para construir entornos escolares seguros.",
+    "ideas_clave": [
+      "Integra acciones formativas, preventivas, de prevención de riesgos, salvaguarda en ingreso y salida, manejo de crisis y mecanismos de denuncia y atención.",
+      "El control de objetos prohibidos es solo una dimensión más entre varias, no la única ni la principal.",
+      "Incluye un apartado específico de actuación ante una situación de riesgo en la cercanía de la escuela.",
+      "La seguridad escolar es competencia del plantel, articulada con familias y autoridades, no exclusiva de las familias."
+    ],
+    "no_es": "Asegurar que ningún objeto prohibido entre al plantel NO basta para tener una escuela segura.",
+    "errores_comunes": "Reducir la seguridad escolar a la dimensión material."
+  },
+  "Estrategia Nacional Vida Saludable": {
+    "titulo": "Estrategia Nacional Vida Saludable",
+    "que_es": "Estrategia intersectorial articulada como Proyecto Comunitario en el plantel.",
+    "ideas_clave": [
+      "Articula vida saludable con sus determinantes sociales: alimentación, vida libre de adicciones, bienestar físico y emocional, contexto comunitario.",
+      "Frente al uso excesivo de pantallas, propone proyectos comunitarios que articulen reflexión con familias, actividades de movimiento, juego al aire libre y consejos para uso responsable de internet.",
+      "Aborda la salud como hecho social, no como tema individual ni solo nutricional.",
+      "Involucra a las familias y a la comunidad: la escuela no actúa aislada."
+    ],
+    "no_es": "No se reduce a charlas sobre la pirámide alimentaria. No es asunto privado de las familias.",
+    "errores_comunes": "Reducir la Estrategia a alimentación. Considerar que el uso de pantallas en casa no es competencia de la escuela."
+  },
+  "Alimentación saludable (Acuerdo DOF 2024)": {
+    "titulo": "Alimentación saludable (Acuerdo DOF 2024)",
+    "que_es": "Acuerdo DOF 2024 sobre alimentos y bebidas en escuelas.",
+    "ideas_clave": [
+      "Orienta hacia el expendio de alimentos saludables, sin sellos de advertencia.",
+      "Fomenta estilos de vida saludables, educación alimentaria y difusión a las familias.",
+      "Aplica a todos los planteles, incluidos los de preescolar.",
+      "Articula la regulación del expendio con el fomento de estilos de vida saludables y la educación alimentaria.",
+      "Personal docente: vigilar y promover el cumplimiento, articular acciones de difusión, coordinar con autoridades educativas y de salud."
+    ],
+    "no_es": "La cooperativa NO puede vender productos con sellos de advertencia (papas fritas, refrescos, dulces) bajo el argumento de generar ingresos.",
+    "errores_comunes": "Pensar que el Acuerdo solo aplica a primaria y secundaria."
+  },
+  "Evaluación formativa (Díaz-Barriga)": {
+    "titulo": "Evaluación formativa (Díaz-Barriga)",
+    "que_es": "Marco teórico sobre la evaluación formativa como proceso continuo orientado a mejorar el aprendizaje.",
+    "ideas_clave": [
+      "Articula dos dimensiones: la del estudiante (autoevaluación, reflexión sobre lo aprendido y lo difícil) y la del docente (ajuste de la enseñanza).",
+      "Distinta de la evaluación sumativa (calificación final) y de la diagnóstica (inicio del ciclo): la formativa es continua durante el proceso.",
+      "La retroalimentación formativa requiere primero señalar los aspectos con buen planteamiento y luego describir con claridad los puntos a mejorar, evitando expresiones de rechazo.",
+      "Se retroalimenta con la planeación didáctica en un ciclo continuo de mejora."
+    ],
+    "no_es": "Tachar todos los errores en rojo no es retroalimentación formativa. Una evaluación sumativa al cierre no es formativa.",
+    "errores_comunes": "Confundir evaluación formativa con sumativa. Marcar todos los errores sin reconocer aciertos."
+  }
+}
