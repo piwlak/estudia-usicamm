@@ -177,6 +177,7 @@ function mostrarErrorCarga(e) {
 const CLAVES_AUTORIZADAS = {
   '089258f6c4c07a50b03892907580e7dbead828c64ac8c9fe4f522463acfb056a': 'Admin',
   '79ef4dbb7114e80241aa827fb5b62905c15203f65d27e94e2ae103de01a28a19': 'u_001',
+  'a4ce0038150263606bde31094d2fc69e0bedff2f4ca2ad60a827e5986ad0ab6b': 'u_002',
 };
 const STORAGE_KEY_ACCESO = 'usicamm_acceso';
 const ACCESO_VIGENCIA_DIAS = 30;  // tras X días sin entrar pide clave de nuevo
