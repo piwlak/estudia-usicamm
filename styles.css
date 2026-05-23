@@ -2484,3 +2484,289 @@ h1, h2, h3 { letter-spacing: -0.01em; }
   outline-offset: 2px;
   border-radius: 3px;
 }
+
+/* ============================================
+   Panel admin
+   ============================================ */
+.footer-admin {
+  background: rgba(255,255,255,0.15) !important;
+  padding: 0.2rem 0.6rem !important;
+  border-radius: 4px !important;
+  margin-left: 0.4rem;
+}
+.footer-admin:hover {
+  background: rgba(255,255,255,0.25) !important;
+}
+
+.admin-tabs {
+  display: flex;
+  gap: 0.4rem;
+  border-bottom: 2px solid var(--card-border);
+  margin-bottom: 1.3rem;
+  flex-wrap: wrap;
+}
+.admin-tab {
+  background: transparent;
+  border: 0;
+  padding: 0.6rem 1rem;
+  color: var(--card-text-soft);
+  font-size: 0.92rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: color 0.15s, border-color 0.15s;
+}
+.admin-tab:hover {
+  color: var(--card-text);
+}
+.admin-tab.activo {
+  color: #667eea;
+  border-bottom-color: #667eea;
+  font-weight: 600;
+}
+.admin-tab-content {
+  animation: fade-in-up 0.25s ease;
+}
+
+.admin-help {
+  font-size: 0.86rem;
+  color: var(--card-text-soft);
+  line-height: 1.55;
+  margin-bottom: 0.8rem;
+}
+.admin-help code {
+  background: rgba(102, 126, 234, 0.1);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.88em;
+}
+
+.form-grupo {
+  margin-bottom: 1rem;
+}
+.form-grupo label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--card-text);
+  margin-bottom: 0.35rem;
+}
+.form-grupo input,
+.form-grupo textarea {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  font-size: 0.92rem;
+  border: 1.5px solid var(--card-border);
+  border-radius: 7px;
+  background: var(--card-bg);
+  color: var(--card-text);
+  font-family: inherit;
+  resize: vertical;
+}
+.form-grupo input:focus,
+.form-grupo textarea:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.15);
+}
+
+.admin-resultado {
+  margin-top: 1.5rem;
+}
+.admin-resultado-card {
+  background: rgba(16, 185, 129, 0.08);
+  border: 1.5px solid rgba(16, 185, 129, 0.4);
+  border-radius: 10px;
+  padding: 1.2rem;
+}
+.admin-resultado-card h4 {
+  color: #059669;
+  margin: 0 0 0.8rem;
+  font-size: 1rem;
+}
+.admin-resultado-fila {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.8rem;
+  font-size: 0.9rem;
+}
+.admin-resultado-label {
+  color: var(--card-text-soft);
+  font-weight: 500;
+}
+.admin-clave-grande {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  padding: 0.4rem 0.7rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  color: #667eea;
+  user-select: all;
+}
+.admin-resultado-pasos {
+  background: rgba(255,255,255,0.5);
+  padding: 0.8rem 1rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+.admin-resultado-pasos ol {
+  margin: 0.4rem 0 0 1.2rem;
+  padding: 0;
+}
+.admin-resultado-pasos code {
+  background: rgba(102, 126, 234, 0.12);
+  padding: 0.05rem 0.3rem;
+  border-radius: 3px;
+  font-size: 0.85em;
+}
+
+.admin-usuarios-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.7rem;
+  margin-top: 0.8rem;
+  margin-bottom: 1rem;
+}
+.admin-usuario {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  font-size: 0.88rem;
+}
+.admin-usuario-revocado {
+  opacity: 0.62;
+}
+.admin-usuario-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+.admin-usuario-etiqueta {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+  color: var(--card-text-soft);
+  text-transform: lowercase;
+}
+.admin-usuario-nombre {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--card-text);
+}
+.admin-usuario-meta {
+  font-size: 0.78rem;
+  color: var(--card-text-soft);
+  margin-top: 0.15rem;
+}
+.admin-usuario-notas {
+  background: rgba(245, 158, 11, 0.06);
+  border-left: 2px solid #f59e0b;
+  padding: 0.4rem 0.6rem;
+  border-radius: 3px;
+  font-size: 0.82rem;
+  color: var(--card-text-soft);
+  margin: 0.5rem 0;
+  line-height: 1.4;
+}
+.admin-usuario-clave {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+.admin-clave-label {
+  font-size: 0.78rem;
+  color: var(--card-text-soft);
+}
+.admin-clave-valor {
+  background: rgba(102, 126, 234, 0.08);
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  user-select: all;
+}
+.admin-usuario-acciones {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+  border-top: 1px dashed var(--card-border);
+  flex-wrap: wrap;
+}
+.admin-usuario-fecha {
+  font-size: 0.76rem;
+  color: var(--card-text-soft);
+}
+
+.admin-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.18rem 0.55rem;
+  border-radius: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+.admin-badge-activo {
+  background: rgba(16, 185, 129, 0.12);
+  color: #059669;
+}
+.admin-badge-revocado {
+  background: rgba(107, 114, 128, 0.15);
+  color: #6b7280;
+}
+
+.btn-min {
+  background: rgba(102, 126, 234, 0.08);
+  border: 1px solid var(--card-border);
+  border-radius: 5px;
+  padding: 0.25rem 0.55rem;
+  font-size: 0.78rem;
+  cursor: pointer;
+  color: var(--card-text);
+  transition: background 0.15s;
+}
+.btn-min:hover {
+  background: rgba(102, 126, 234, 0.16);
+}
+.btn-peligro-min {
+  background: rgba(239, 68, 68, 0.08) !important;
+  color: #b91c1c !important;
+  border-color: rgba(239, 68, 68, 0.3) !important;
+}
+.btn-peligro-min:hover {
+  background: rgba(239, 68, 68, 0.18) !important;
+}
+
+.admin-textarea {
+  width: 100%;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+  padding: 0.8rem;
+  border: 1.5px solid var(--card-border);
+  border-radius: 7px;
+  background: rgba(102, 126, 234, 0.04);
+  color: var(--card-text);
+  resize: vertical;
+}
+
+.admin-acciones-doble {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.7rem;
+  flex-wrap: wrap;
+}

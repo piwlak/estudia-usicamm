@@ -110,16 +110,45 @@ async function cargarPreguntas() {
     mostrarPantallaBienvenida();
     return;
   }
-  const res = await fetch('preguntas.json');
-  todasPreguntas = await res.json();
-  renderFiltros();
-  renderPlaylists();
-  renderHistorial();
-  actualizarResumenSeleccion();
-  verificarExamenGuardado();
-  configurarAtajosTeclado();
-  renderBienvenidaStat();
-  ocultarAppLoading();
+  try {
+    const res = await fetch('preguntas.json');
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status} al cargar preguntas.json`);
+    }
+    todasPreguntas = await res.json();
+    if (!Array.isArray(todasPreguntas) || todasPreguntas.length === 0) {
+      throw new Error('preguntas.json vacío o con formato inválido');
+    }
+    renderFiltros();
+    renderPlaylists();
+    renderHistorial();
+    actualizarResumenSeleccion();
+    verificarExamenGuardado();
+    configurarAtajosTeclado();
+    renderBienvenidaStat();
+    actualizarBotonAdmin();
+    ocultarAppLoading();
+  } catch (e) {
+    console.error('[cargarPreguntas] Error:', e);
+    mostrarErrorCarga(e);
+  }
+}
+
+function mostrarErrorCarga(e) {
+  const el = document.getElementById('app-loading');
+  if (!el) return;
+  el.innerHTML = `
+    <div class="loading-logo" style="background:#ef4444;color:white">!</div>
+    <div style="color:white;font-size:1rem;font-weight:600;margin-bottom:0.4rem;text-align:center;max-width:90%">No se pudo cargar el banco de preguntas</div>
+    <div style="color:rgba(255,255,255,0.85);font-size:0.85rem;text-align:center;max-width:90%;margin-bottom:1rem;line-height:1.5">${e.message || 'Error desconocido'}</div>
+    <div style="color:rgba(255,255,255,0.7);font-size:0.78rem;text-align:center;max-width:90%;line-height:1.5">
+      Posibles causas:<br>
+      • Service worker con caché vieja: abre DevTools → Application → Unregister<br>
+      • Archivo preguntas.json no subido al repo<br>
+      • Hard refresh: Cmd/Ctrl+Shift+R
+    </div>
+    <button onclick="window.location.reload()" style="margin-top:1.2rem;background:white;color:#667eea;border:0;padding:0.6rem 1.4rem;border-radius:8px;font-weight:600;cursor:pointer">Recargar página</button>`;
+  el.classList.remove('fade-out');
 }
 
 // ============================================
@@ -127,9 +156,16 @@ async function cargarPreguntas() {
 // ============================================
 // Hash SHA-256 de la clave de acceso. Para cambiarla:
 // 1. Abre la consola del navegador
-// 2. Ejecuta: generarHash('tu-nueva-clave').then(h => console.log(h))
-// 3. Reemplaza el valor de CLAVE_HASH abajo
-const CLAVE_HASH = '089258f6c4c07a50b03892907580e7dbead828c64ac8c9fe4f522463acfb056a';
+// 2. Ejecuta: generarClavesUsuario(['Juan', 'María', 'Pedro'])
+// 3. Copia las líneas generadas al objeto CLAVES_AUTORIZADAS abajo
+//
+// Cada entrada es {hash_SHA-256: 'Etiqueta'}. Cada persona usa su propia clave.
+// La etiqueta es para identificar la sesión (no se comparte públicamente).
+//
+// Para REVOCAR: borra la línea correspondiente y haz git push.
+const CLAVES_AUTORIZADAS = {
+  '089258f6c4c07a50b03892907580e7dbead828c64ac8c9fe4f522463acfb056a': 'Admin',
+};
 const STORAGE_KEY_ACCESO = 'usicamm_acceso';
 const ACCESO_VIGENCIA_DIAS = 30;  // tras X días sin entrar pide clave de nuevo
 
@@ -210,7 +246,39 @@ function sha256Pure(input) {
   }
   return Array.from(H).map(n => (n >>> 0).toString(16).padStart(8, '0')).join('');
 }
-window.generarHash = generarHash;  // Disponible en consola para regenerar hash
+window.generarHash = generarHash;  // Disponible en consola para generar hashes individuales
+
+// Utilidad para generar claves de usuarios desde la consola.
+// Uso:
+//   generarClavesUsuario(['Juan', 'María'])              // genera claves random
+//   generarClavesUsuario([['Juan', 'mi-clave-juan']])    // con claves específicas
+window.generarClavesUsuario = async function(items) {
+  if (!Array.isArray(items)) {
+    console.error("Uso: generarClavesUsuario(['Juan', 'María']) o generarClavesUsuario([['Juan', 'clave-juan'], ...])");
+    return;
+  }
+  console.log('%cClaves generadas — copia las líneas a CLAVES_AUTORIZADAS en app.js:', 'font-weight:bold;color:#667eea;font-size:13px');
+  console.log('');
+  const resultado = [];
+  for (const item of items) {
+    let nombre, clave;
+    if (Array.isArray(item)) {
+      [nombre, clave] = item;
+    } else {
+      nombre = item;
+      const slug = String(nombre).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      clave = slug + '-' + Math.random().toString(36).slice(2, 8);
+    }
+    const hash = await generarHash(clave);
+    console.log(`  '${hash}': '${nombre}',`);
+    console.log(`%c    └─ clave para ${nombre}: ${clave}`, 'color:#10b981;font-weight:600');
+    resultado.push({ nombre, clave, hash });
+  }
+  console.log('');
+  console.log('%c⚠ Manda a cada persona SU clave (la línea verde), no el hash. El hash se queda en el código.', 'color:#f59e0b;font-weight:600');
+  console.log('%cDespués: copia las líneas, pégalas en CLAVES_AUTORIZADAS, git push.', 'color:#6b7280');
+  return resultado;
+};
 
 function verificarAcceso() {
   const acceso = leerLS(STORAGE_KEY_ACCESO, null);
@@ -220,7 +288,14 @@ function verificarAcceso() {
     localStorage.removeItem(STORAGE_KEY_ACCESO);
     return false;
   }
-  return acceso.hash === CLAVE_HASH;
+  // Verifica que el hash siga vigente (puede haber sido revocado)
+  return acceso.hash in CLAVES_AUTORIZADAS;
+}
+
+function obtenerEtiquetaSesion() {
+  const acceso = leerLS(STORAGE_KEY_ACCESO, null);
+  if (!acceso || !acceso.hash) return null;
+  return CLAVES_AUTORIZADAS[acceso.hash] || null;
 }
 
 function mostrarPantallaBienvenida() {
@@ -248,7 +323,7 @@ async function intentarAcceder(e) {
   }
 
   const hash = await generarHash(clave);
-  if (hash !== CLAVE_HASH) {
+  if (!(hash in CLAVES_AUTORIZADAS)) {
     errorDiv.textContent = 'Clave incorrecta. Pídesela al autor.';
     errorDiv.classList.remove('oculto');
     input.value = '';
@@ -260,9 +335,10 @@ async function intentarAcceder(e) {
     card.classList.add('shake');
     return;
   }
+  const etiqueta = CLAVES_AUTORIZADAS[hash];
 
   // Acceso concedido
-  escribirLS(STORAGE_KEY_ACCESO, { hash, fecha: Date.now() });
+  escribirLS(STORAGE_KEY_ACCESO, { hash, etiqueta, fecha: Date.now() });
   document.getElementById('pantalla-bienvenida').classList.add('oculto');
   // Cargar la app
   document.getElementById('app-loading')?.classList.remove('fade-out');
@@ -272,7 +348,7 @@ async function intentarAcceder(e) {
   loadingEl.innerHTML = `<div class="loading-logo">U</div><div class="loading-spinner"></div><div class="loading-texto">Cargando…</div>`;
   if (!document.getElementById('app-loading')) document.body.prepend(loadingEl);
   cargarPreguntas();
-  toast('Bienvenido', 'success');
+  toast(`Bienvenido${etiqueta && etiqueta !== 'Admin' ? ', ' + etiqueta : ''}`, 'success');
 }
 
 function cerrarSesionAcceso() {
@@ -288,9 +364,14 @@ function cerrarSesionAcceso() {
 }
 
 function abrirAcercaDe() {
+  const etiqueta = obtenerEtiquetaSesion();
+  const sesionInfo = etiqueta
+    ? `<p style="margin-bottom: 0.7rem;"><strong>Sesión actual:</strong> ${etiqueta}</p>`
+    : '';
   abrirModal({
     titulo: 'Acerca de Estudia USICAMM',
     cuerpo: `
+      ${sesionInfo}
       <p style="margin-bottom: 0.7rem;"><strong>Versión:</strong> v2026.05 · 520 reactivos · Educación Inicial y Preescolar.</p>
       <p style="margin-bottom: 0.7rem;"><strong>Qué es:</strong> simulador de práctica para el examen de Admisión Docente USICAMM, ciclo 2026-2027.</p>
       <p style="margin-bottom: 0.7rem;"><strong>Qué NO es:</strong> No es oficial, no está respaldado por USICAMM ni SEP, no garantiza aprobación, no es una réplica del examen real.</p>
@@ -309,6 +390,371 @@ function ocultarAppLoading() {
   if (!el) return;
   el.classList.add('fade-out');
   setTimeout(() => el.remove(), 350);
+}
+
+function actualizarBotonAdmin() {
+  const btn = document.getElementById('footer-admin');
+  if (!btn) return;
+  if (esAdmin()) {
+    btn.classList.remove('oculto');
+  } else {
+    btn.classList.add('oculto');
+  }
+}
+
+// ============================================
+//   Panel de administración (solo Admin)
+// ============================================
+const STORAGE_KEY_ADMIN = 'usicamm_admin_db';
+
+function esAdmin() {
+  return obtenerEtiquetaSesion() === 'Admin';
+}
+
+function getAdminDB() {
+  return leerLS(STORAGE_KEY_ADMIN, { usuarios: [], proximoNumero: 1 });
+}
+
+function setAdminDB(db) {
+  escribirLS(STORAGE_KEY_ADMIN, db);
+}
+
+function abrirAdmin() {
+  if (!esAdmin()) {
+    toast('Acceso restringido. Solo el administrador puede entrar al panel.', 'error');
+    return;
+  }
+  mostrarPantalla('pantalla-admin');
+  adminTab('usuarios');
+}
+
+function cerrarAdmin() {
+  volverInicio();
+}
+
+function adminTab(tab) {
+  ['usuarios', 'agregar', 'config'].forEach(t => {
+    document.getElementById('tab-' + t)?.classList.toggle('activo', t === tab);
+    document.getElementById('admin-tab-' + t)?.classList.toggle('oculto', t !== tab);
+  });
+  if (tab === 'usuarios') renderAdminUsuarios();
+  if (tab === 'config') adminRefrescarExport();
+  if (tab === 'agregar') {
+    document.getElementById('admin-resultado-nuevo').classList.add('oculto');
+    ['admin-nuevo-nombre', 'admin-nuevo-email', 'admin-nuevo-clave', 'admin-nuevo-notas'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.value = '';
+    });
+  }
+}
+
+function renderAdminUsuarios() {
+  const div = document.getElementById('admin-usuarios-lista');
+  const db = getAdminDB();
+  const activos = db.usuarios.filter(u => u.activo);
+  const revocados = db.usuarios.filter(u => !u.activo);
+
+  if (db.usuarios.length === 0) {
+    div.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-state-icon">👥</div>
+        <div class="empty-state-titulo">Sin usuarios todavía</div>
+        <div class="empty-state-mensaje">Agrega tu primer usuario en la pestaña "Agregar". Aparecerá aquí con su etiqueta anónima.</div>
+        <button class="empty-state-cta" onclick="adminTab('agregar')">Agregar usuario</button>
+      </div>`;
+    return;
+  }
+
+  let html = '';
+  if (activos.length > 0) {
+    html += `<h3>Activos (${activos.length})</h3><div class="admin-usuarios-grid">`;
+    activos.forEach(u => {
+      html += `
+        <div class="admin-usuario admin-usuario-activo">
+          <div class="admin-usuario-header">
+            <div>
+              <div class="admin-usuario-etiqueta">${u.etiqueta}</div>
+              <div class="admin-usuario-nombre">${u.nombre}</div>
+              ${u.email ? `<div class="admin-usuario-meta">${u.email}</div>` : ''}
+            </div>
+            <span class="admin-badge admin-badge-activo">Activo</span>
+          </div>
+          <div class="admin-usuario-clave">
+            <span class="admin-clave-label">Clave:</span>
+            <code class="admin-clave-valor" id="clave-${u.etiqueta}">••••••••</code>
+            <button class="btn-min" onclick="adminToggleClave('${u.etiqueta}')">👁 Ver</button>
+            <button class="btn-min" onclick="adminCopiarClave('${u.etiqueta}')">📋 Copiar</button>
+          </div>
+          ${u.notas ? `<div class="admin-usuario-notas">📝 ${u.notas}</div>` : ''}
+          <div class="admin-usuario-acciones">
+            <span class="admin-usuario-fecha">Creado ${new Date(u.creado).toLocaleDateString('es-MX')}</span>
+            <button class="btn-min btn-peligro-min" onclick="adminRevocar('${u.etiqueta}')">Revocar</button>
+          </div>
+        </div>`;
+    });
+    html += '</div>';
+  }
+
+  if (revocados.length > 0) {
+    html += `<h3 style="margin-top:1.6rem">Revocados (${revocados.length})</h3><div class="admin-usuarios-grid">`;
+    revocados.forEach(u => {
+      html += `
+        <div class="admin-usuario admin-usuario-revocado">
+          <div class="admin-usuario-header">
+            <div>
+              <div class="admin-usuario-etiqueta">${u.etiqueta}</div>
+              <div class="admin-usuario-nombre">${u.nombre}</div>
+            </div>
+            <span class="admin-badge admin-badge-revocado">Revocado</span>
+          </div>
+          <div class="admin-usuario-acciones">
+            <span class="admin-usuario-fecha">Revocado ${u.revocado ? new Date(u.revocado).toLocaleDateString('es-MX') : ''}</span>
+            <div>
+              <button class="btn-min" onclick="adminReactivar('${u.etiqueta}')">Reactivar</button>
+              <button class="btn-min btn-peligro-min" onclick="adminEliminar('${u.etiqueta}')">Eliminar</button>
+            </div>
+          </div>
+        </div>`;
+    });
+    html += '</div>';
+  }
+
+  div.innerHTML = html;
+}
+
+async function adminGenerarUsuario() {
+  const nombre = document.getElementById('admin-nuevo-nombre').value.trim();
+  const email = document.getElementById('admin-nuevo-email').value.trim();
+  let clave = document.getElementById('admin-nuevo-clave').value.trim();
+  const notas = document.getElementById('admin-nuevo-notas').value.trim();
+
+  if (!nombre) {
+    toast('Escribe el nombre de la persona', 'warn');
+    return;
+  }
+
+  const db = getAdminDB();
+  if (!clave) {
+    const slug = nombre.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 20);
+    clave = (slug || 'user') + '-' + Math.random().toString(36).slice(2, 8);
+  }
+
+  // Verificar que la clave no exista ya
+  const hash = await generarHash(clave);
+  if (db.usuarios.some(u => u.hash === hash && u.activo)) {
+    toast('Esa clave ya está en uso. Genera otra.', 'error');
+    return;
+  }
+
+  const etiqueta = 'u_' + String(db.proximoNumero).padStart(3, '0');
+  const usuario = {
+    etiqueta,
+    nombre,
+    email,
+    notas,
+    clave,
+    hash,
+    creado: Date.now(),
+    activo: true
+  };
+  db.usuarios.push(usuario);
+  db.proximoNumero++;
+  setAdminDB(db);
+
+  // Mostrar resultado
+  const resultado = document.getElementById('admin-resultado-nuevo');
+  resultado.innerHTML = `
+    <div class="admin-resultado-card">
+      <h4>✓ Acceso generado para ${nombre}</h4>
+      <div class="admin-resultado-fila">
+        <span class="admin-resultado-label">Etiqueta:</span>
+        <code>${etiqueta}</code>
+      </div>
+      <div class="admin-resultado-fila">
+        <span class="admin-resultado-label">Clave para mandar a ${nombre}:</span>
+        <code class="admin-clave-grande">${clave}</code>
+        <button class="btn-min" onclick="adminCopiarTexto('${clave.replace(/'/g, "\\'")}')">📋 Copiar clave</button>
+      </div>
+      <div class="admin-resultado-pasos">
+        <strong>Siguientes pasos:</strong>
+        <ol>
+          <li>Manda la clave a ${nombre} de forma privada (mensaje individual).</li>
+          <li>Ve a la pestaña <strong>Exportar / Importar</strong> y copia el bloque <code>CLAVES_AUTORIZADAS</code>.</li>
+          <li>Pega ese bloque en <code>app.js</code> reemplazando el actual.</li>
+          <li>Haz <code>git push</code>. En 1-3 minutos la persona podrá entrar.</li>
+        </ol>
+      </div>
+      <button onclick="adminTab('config')">📤 Ir a exportar →</button>
+    </div>
+  `;
+  resultado.classList.remove('oculto');
+  toast(`Usuario ${etiqueta} (${nombre}) generado`, 'success');
+}
+
+function adminToggleClave(etiqueta) {
+  const db = getAdminDB();
+  const u = db.usuarios.find(x => x.etiqueta === etiqueta);
+  if (!u) return;
+  const el = document.getElementById('clave-' + etiqueta);
+  if (!el) return;
+  if (el.textContent === '••••••••') {
+    el.textContent = u.clave;
+  } else {
+    el.textContent = '••••••••';
+  }
+}
+
+function adminCopiarClave(etiqueta) {
+  const db = getAdminDB();
+  const u = db.usuarios.find(x => x.etiqueta === etiqueta);
+  if (!u) return;
+  adminCopiarTexto(u.clave);
+}
+
+function adminCopiarTexto(texto) {
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(texto).then(() => toast('Copiado al portapapeles', 'success'));
+  } else {
+    const ta = document.createElement('textarea');
+    ta.value = texto;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+    toast('Copiado al portapapeles', 'success');
+  }
+}
+
+function adminRevocar(etiqueta) {
+  const db = getAdminDB();
+  const u = db.usuarios.find(x => x.etiqueta === etiqueta);
+  if (!u) return;
+  confirmar({
+    titulo: `Revocar acceso de ${u.nombre}`,
+    mensaje: `Esto marca a ${u.etiqueta} (${u.nombre}) como revocado. Tendrás que actualizar el código y hacer push para que el cambio surta efecto.`,
+    textoConfirmar: 'Revocar',
+    peligro: true,
+    onConfirmar: () => {
+      u.activo = false;
+      u.revocado = Date.now();
+      setAdminDB(db);
+      renderAdminUsuarios();
+      toast(`${u.etiqueta} marcado como revocado. No olvides actualizar el código.`, 'warn');
+    }
+  });
+}
+
+function adminReactivar(etiqueta) {
+  const db = getAdminDB();
+  const u = db.usuarios.find(x => x.etiqueta === etiqueta);
+  if (!u) return;
+  u.activo = true;
+  delete u.revocado;
+  setAdminDB(db);
+  renderAdminUsuarios();
+  toast(`${u.etiqueta} reactivado`, 'success');
+}
+
+function adminEliminar(etiqueta) {
+  const db = getAdminDB();
+  const u = db.usuarios.find(x => x.etiqueta === etiqueta);
+  if (!u) return;
+  confirmar({
+    titulo: `Eliminar permanentemente`,
+    mensaje: `Esto borra todos los datos de ${u.etiqueta} (${u.nombre}). No se podrá recuperar. Solo aplica a la base privada de tu navegador; en el código siguen apareciendo si no lo actualizas.`,
+    textoConfirmar: 'Eliminar permanentemente',
+    peligro: true,
+    onConfirmar: () => {
+      db.usuarios = db.usuarios.filter(x => x.etiqueta !== etiqueta);
+      setAdminDB(db);
+      renderAdminUsuarios();
+      toast(`${u.etiqueta} eliminado`, 'info');
+    }
+  });
+}
+
+function adminRefrescarExport() {
+  const db = getAdminDB();
+  const ta = document.getElementById('admin-export');
+  if (!ta) return;
+
+  // El admin actual (el que está logueado) siempre se incluye
+  const adminActual = leerLS(STORAGE_KEY_ACCESO, null);
+  const lineas = [];
+  if (adminActual && adminActual.hash) {
+    lineas.push(`  '${adminActual.hash}': 'Admin',`);
+  }
+
+  // Solo usuarios activos
+  db.usuarios.filter(u => u.activo).forEach(u => {
+    lineas.push(`  '${u.hash}': '${u.etiqueta}',`);
+  });
+
+  ta.value = `const CLAVES_AUTORIZADAS = {\n${lineas.join('\n')}\n};`;
+}
+
+function adminCopiarExport() {
+  const ta = document.getElementById('admin-export');
+  if (!ta || !ta.value) return;
+  adminCopiarTexto(ta.value);
+}
+
+function adminExportarBackup() {
+  const db = getAdminDB();
+  const blob = new Blob([JSON.stringify(db, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `usicamm-admin-backup-${new Date().toISOString().slice(0, 10)}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+  toast('Backup descargado. Guárdalo en sitio seguro.', 'success');
+}
+
+function adminImportarBackup(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    try {
+      const datos = JSON.parse(e.target.result);
+      if (!datos || !Array.isArray(datos.usuarios)) {
+        toast('Archivo inválido. No parece un backup de admin.', 'error');
+        return;
+      }
+      confirmar({
+        titulo: 'Importar backup',
+        mensaje: `Esto reemplaza tu base privada actual con ${datos.usuarios.length} usuarios del archivo. ¿Continuar?`,
+        textoConfirmar: 'Reemplazar',
+        peligro: true,
+        onConfirmar: () => {
+          setAdminDB(datos);
+          renderAdminUsuarios();
+          adminRefrescarExport();
+          toast('Backup importado correctamente', 'success');
+        }
+      });
+    } catch (err) {
+      toast('No se pudo leer el archivo: ' + err.message, 'error');
+    }
+  };
+  reader.readAsText(file);
+  event.target.value = '';  // permite re-importar el mismo archivo
+}
+
+function adminBorrarTodo() {
+  confirmar({
+    titulo: 'Borrar toda la base privada',
+    mensaje: 'Esto elimina permanentemente todos los datos de tu base privada (nombres, claves, etc.). Considera exportar un backup antes. Esta acción no afecta el código publicado en GitHub Pages.',
+    textoConfirmar: 'Sí, borrar todo',
+    peligro: true,
+    onConfirmar: () => {
+      localStorage.removeItem(STORAGE_KEY_ADMIN);
+      renderAdminUsuarios();
+      adminRefrescarExport();
+      toast('Base privada borrada', 'info');
+    }
+  });
 }
 
 // ============================================
@@ -406,7 +852,7 @@ function pedirTexto(opciones) {
 // ============================================
 //   Navegación entre pantallas
 // ============================================
-const PANTALLAS = ['pantalla-inicio', 'pantalla-config-examen', 'pantalla-playlists', 'pantalla-examen', 'pantalla-resultados', 'pantalla-dashboard', 'pantalla-glosario', 'pantalla-repaso', 'pantalla-flashcards'];
+const PANTALLAS = ['pantalla-inicio', 'pantalla-config-examen', 'pantalla-playlists', 'pantalla-examen', 'pantalla-resultados', 'pantalla-dashboard', 'pantalla-glosario', 'pantalla-repaso', 'pantalla-flashcards', 'pantalla-admin'];
 
 function mostrarPantalla(id) {
   PANTALLAS.forEach(p => {

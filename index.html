@@ -10,7 +10,7 @@
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#667eea">
   <meta name="description" content="Simulador de examen tipo USICAMM para Admisión Docente · Educación Inicial y Preescolar · Ciclo 2026-2027. 520 reactivos, flashcards, glosario, plan de estudio.">
-  <link rel="stylesheet" href="styles.css?v=13">
+  <link rel="stylesheet" href="styles.css?v=16">
 </head>
 <body>
   <div id="app-loading" class="app-loading">
@@ -171,6 +171,69 @@
       </div>
     </div>
 
+    <div id="pantalla-admin" class="oculto">
+      <div class="info-card">
+        <div class="dashboard-header">
+          <h2>🛠️ Panel de administración</h2>
+          <button class="btn-secundario" onclick="cerrarAdmin()">← Volver</button>
+        </div>
+        <p class="config-intro">Gestiona los accesos de tu círculo. Los nombres reales solo se guardan aquí, en tu navegador. En el código público solo aparecen etiquetas anónimas (u_001, u_002...).</p>
+
+        <div class="admin-tabs">
+          <button class="admin-tab activo" onclick="adminTab('usuarios')" id="tab-usuarios">👥 Usuarios</button>
+          <button class="admin-tab" onclick="adminTab('agregar')" id="tab-agregar">➕ Agregar</button>
+          <button class="admin-tab" onclick="adminTab('config')" id="tab-config">📤 Exportar / Importar</button>
+        </div>
+
+        <div id="admin-tab-usuarios" class="admin-tab-content">
+          <div id="admin-usuarios-lista"></div>
+        </div>
+
+        <div id="admin-tab-agregar" class="admin-tab-content oculto">
+          <h3>Generar acceso para una persona nueva</h3>
+          <div class="form-grupo">
+            <label>Nombre (privado, solo se guarda aquí)</label>
+            <input type="text" id="admin-nuevo-nombre" placeholder="Ej. Juan Pérez">
+          </div>
+          <div class="form-grupo">
+            <label>Email u otro contacto (opcional, privado)</label>
+            <input type="text" id="admin-nuevo-email" placeholder="opcional, para recordar a quién mandaste la clave">
+          </div>
+          <div class="form-grupo">
+            <label>Clave (déjalo vacío para que se genere automáticamente)</label>
+            <input type="text" id="admin-nuevo-clave" placeholder="Se genera random si lo dejas vacío">
+          </div>
+          <div class="form-grupo">
+            <label>Notas (opcional, privado)</label>
+            <textarea id="admin-nuevo-notas" rows="2" placeholder="Cualquier nota privada que quieras recordar"></textarea>
+          </div>
+          <button onclick="adminGenerarUsuario()">Generar acceso</button>
+          <div id="admin-resultado-nuevo" class="admin-resultado oculto"></div>
+        </div>
+
+        <div id="admin-tab-config" class="admin-tab-content oculto">
+          <h3>📤 Exportar para publicar</h3>
+          <p class="admin-help">Cuando agregues o revoques accesos, copia este bloque y pégalo en <code>app.js</code> reemplazando el actual <code>CLAVES_AUTORIZADAS</code>. Después: <code>git push</code>.</p>
+          <textarea id="admin-export" class="admin-textarea" readonly rows="8"></textarea>
+          <div class="admin-acciones-doble">
+            <button class="btn-secundario" onclick="adminCopiarExport()">📋 Copiar al portapapeles</button>
+            <button class="btn-secundario" onclick="adminRefrescarExport()">🔄 Refrescar</button>
+          </div>
+
+          <h3 style="margin-top: 2rem">💾 Backup de la base privada</h3>
+          <p class="admin-help">Tu base privada (nombres, emails, claves) vive solo en este navegador. Exporta este JSON si vas a usar otro dispositivo o como respaldo. <strong>No subas este JSON al repo</strong>; contiene los datos privados.</p>
+          <div class="admin-acciones-doble">
+            <button class="btn-secundario" onclick="adminExportarBackup()">⬇ Descargar backup (.json)</button>
+            <button class="btn-secundario" onclick="document.getElementById('admin-import-file').click()">⬆ Importar backup</button>
+            <input type="file" id="admin-import-file" accept=".json" style="display:none" onchange="adminImportarBackup(event)">
+          </div>
+
+          <h3 style="margin-top: 2rem; color: #ef4444">⚠️ Zona peligrosa</h3>
+          <button class="btn-peligro" onclick="adminBorrarTodo()">Borrar toda la base privada</button>
+        </div>
+      </div>
+    </div>
+
     <div id="pantalla-playlists" class="oculto">
       <div class="info-card">
         <div class="dashboard-header">
@@ -295,6 +358,7 @@
       <span>520 reactivos</span>
       <span class="footer-sep">·</span>
       <button class="footer-link" onclick="abrirAcercaDe()">Acerca de</button>
+      <button class="footer-link footer-admin oculto" id="footer-admin" onclick="abrirAdmin()">🛠️ Admin</button>
       <span class="footer-sep">·</span>
       <button class="footer-link" onclick="cerrarSesionAcceso()">Salir</button>
     </div>
@@ -313,6 +377,6 @@
     </div>
   </div>
 
-  <script src="app.js?v=14"></script>
+  <script src="app.js?v=16"></script>
 </body>
 </html>

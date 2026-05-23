@@ -1,5 +1,5 @@
 // Service Worker para funcionamiento offline (estrategia network-first para activos críticos)
-const CACHE_NAME = 'usicamm-v14';
+const CACHE_NAME = 'usicamm-v16';
 const ARCHIVOS = [
   './',
   'index.html',
