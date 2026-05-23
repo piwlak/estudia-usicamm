@@ -76,6 +76,17 @@ function escribirLS(clave, valor) {
   try { localStorage.setItem(clave, JSON.stringify(valor)); } catch {}
 }
 
+// Escapa HTML para evitar inyección al renderizar datos del usuario
+function escHTML(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 function getNotas() { return leerLS(STORAGE_KEY_NOTAS, {}); }
 function setNota(idPregunta, texto) {
   const notas = getNotas();
@@ -340,13 +351,17 @@ async function intentarAcceder(e) {
   // Acceso concedido
   escribirLS(STORAGE_KEY_ACCESO, { hash, etiqueta, fecha: Date.now() });
   document.getElementById('pantalla-bienvenida').classList.add('oculto');
-  // Cargar la app
-  document.getElementById('app-loading')?.classList.remove('fade-out');
-  const loadingEl = document.createElement('div');
-  loadingEl.className = 'app-loading';
-  loadingEl.id = 'app-loading';
-  loadingEl.innerHTML = `<div class="loading-logo">U</div><div class="loading-spinner"></div><div class="loading-texto">Cargando…</div>`;
-  if (!document.getElementById('app-loading')) document.body.prepend(loadingEl);
+  // Mostrar pantalla de carga mientras se cargan las preguntas
+  let loading = document.getElementById('app-loading');
+  if (!loading) {
+    loading = document.createElement('div');
+    loading.id = 'app-loading';
+    loading.className = 'app-loading';
+    loading.innerHTML = '<div class="loading-logo">U</div><div class="loading-spinner"></div><div class="loading-texto">Cargando…</div>';
+    document.body.prepend(loading);
+  } else {
+    loading.classList.remove('fade-out');
+  }
   cargarPreguntas();
   toast(`Bienvenido${etiqueta && etiqueta !== 'Admin' ? ', ' + etiqueta : ''}`, 'success');
 }
@@ -473,22 +488,22 @@ function renderAdminUsuarios() {
         <div class="admin-usuario admin-usuario-activo">
           <div class="admin-usuario-header">
             <div>
-              <div class="admin-usuario-etiqueta">${u.etiqueta}</div>
-              <div class="admin-usuario-nombre">${u.nombre}</div>
-              ${u.email ? `<div class="admin-usuario-meta">${u.email}</div>` : ''}
+              <div class="admin-usuario-etiqueta">${escHTML(u.etiqueta)}</div>
+              <div class="admin-usuario-nombre">${escHTML(u.nombre)}</div>
+              ${u.email ? `<div class="admin-usuario-meta">${escHTML(u.email)}</div>` : ''}
             </div>
             <span class="admin-badge admin-badge-activo">Activo</span>
           </div>
           <div class="admin-usuario-clave">
             <span class="admin-clave-label">Clave:</span>
-            <code class="admin-clave-valor" id="clave-${u.etiqueta}">••••••••</code>
-            <button class="btn-min" onclick="adminToggleClave('${u.etiqueta}')">👁 Ver</button>
-            <button class="btn-min" onclick="adminCopiarClave('${u.etiqueta}')">📋 Copiar</button>
+            <code class="admin-clave-valor" id="clave-${escHTML(u.etiqueta)}">••••••••</code>
+            <button class="btn-min" onclick="adminToggleClave('${escHTML(u.etiqueta)}')">👁 Ver</button>
+            <button class="btn-min" onclick="adminCopiarClave('${escHTML(u.etiqueta)}')">📋 Copiar</button>
           </div>
-          ${u.notas ? `<div class="admin-usuario-notas">📝 ${u.notas}</div>` : ''}
+          ${u.notas ? `<div class="admin-usuario-notas">📝 ${escHTML(u.notas)}</div>` : ''}
           <div class="admin-usuario-acciones">
             <span class="admin-usuario-fecha">Creado ${new Date(u.creado).toLocaleDateString('es-MX')}</span>
-            <button class="btn-min btn-peligro-min" onclick="adminRevocar('${u.etiqueta}')">Revocar</button>
+            <button class="btn-min btn-peligro-min" onclick="adminRevocar('${escHTML(u.etiqueta)}')">Revocar</button>
           </div>
         </div>`;
     });
@@ -502,16 +517,16 @@ function renderAdminUsuarios() {
         <div class="admin-usuario admin-usuario-revocado">
           <div class="admin-usuario-header">
             <div>
-              <div class="admin-usuario-etiqueta">${u.etiqueta}</div>
-              <div class="admin-usuario-nombre">${u.nombre}</div>
+              <div class="admin-usuario-etiqueta">${escHTML(u.etiqueta)}</div>
+              <div class="admin-usuario-nombre">${escHTML(u.nombre)}</div>
             </div>
             <span class="admin-badge admin-badge-revocado">Revocado</span>
           </div>
           <div class="admin-usuario-acciones">
             <span class="admin-usuario-fecha">Revocado ${u.revocado ? new Date(u.revocado).toLocaleDateString('es-MX') : ''}</span>
             <div>
-              <button class="btn-min" onclick="adminReactivar('${u.etiqueta}')">Reactivar</button>
-              <button class="btn-min btn-peligro-min" onclick="adminEliminar('${u.etiqueta}')">Eliminar</button>
+              <button class="btn-min" onclick="adminReactivar('${escHTML(u.etiqueta)}')">Reactivar</button>
+              <button class="btn-min btn-peligro-min" onclick="adminEliminar('${escHTML(u.etiqueta)}')">Eliminar</button>
             </div>
           </div>
         </div>`;
@@ -565,20 +580,20 @@ async function adminGenerarUsuario() {
   const resultado = document.getElementById('admin-resultado-nuevo');
   resultado.innerHTML = `
     <div class="admin-resultado-card">
-      <h4>✓ Acceso generado para ${nombre}</h4>
+      <h4>✓ Acceso generado para ${escHTML(nombre)}</h4>
       <div class="admin-resultado-fila">
         <span class="admin-resultado-label">Etiqueta:</span>
-        <code>${etiqueta}</code>
+        <code>${escHTML(etiqueta)}</code>
       </div>
       <div class="admin-resultado-fila">
-        <span class="admin-resultado-label">Clave para mandar a ${nombre}:</span>
-        <code class="admin-clave-grande">${clave}</code>
+        <span class="admin-resultado-label">Clave para mandar a ${escHTML(nombre)}:</span>
+        <code class="admin-clave-grande">${escHTML(clave)}</code>
         <button class="btn-min" onclick="adminCopiarTexto('${clave.replace(/'/g, "\\'")}')">📋 Copiar clave</button>
       </div>
       <div class="admin-resultado-pasos">
         <strong>Siguientes pasos:</strong>
         <ol>
-          <li>Manda la clave a ${nombre} de forma privada (mensaje individual).</li>
+          <li>Manda la clave a ${escHTML(nombre)} de forma privada (mensaje individual).</li>
           <li>Ve a la pestaña <strong>Exportar / Importar</strong> y copia el bloque <code>CLAVES_AUTORIZADAS</code>.</li>
           <li>Pega ese bloque en <code>app.js</code> reemplazando el actual.</li>
           <li>Haz <code>git push</code>. En 1-3 minutos la persona podrá entrar.</li>
@@ -855,6 +870,14 @@ function pedirTexto(opciones) {
 const PANTALLAS = ['pantalla-inicio', 'pantalla-config-examen', 'pantalla-playlists', 'pantalla-examen', 'pantalla-resultados', 'pantalla-dashboard', 'pantalla-glosario', 'pantalla-repaso', 'pantalla-flashcards', 'pantalla-admin'];
 
 function mostrarPantalla(id) {
+  // Si salimos del examen sin finalizar, detenemos el timer del simulacro
+  const enExamen = !document.getElementById('pantalla-examen').classList.contains('oculto');
+  if (enExamen && id !== 'pantalla-examen' && id !== 'pantalla-resultados') {
+    if (timerInterval) {
+      clearInterval(timerInterval);
+      timerInterval = null;
+    }
+  }
   PANTALLAS.forEach(p => {
     const el = document.getElementById(p);
     if (el) el.classList.add('oculto');
@@ -1448,6 +1471,8 @@ function reportarPregunta() {
 //   Atajos de teclado
 // ============================================
 function configurarAtajosTeclado() {
+  if (window.__atajosConfigurados) return;  // Evitar registrar listeners duplicados
+  window.__atajosConfigurados = true;
   document.addEventListener('keydown', e => {
     // Evitar interferir con inputs/textarea
     if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') return;
@@ -2657,8 +2682,8 @@ function renderPlaylists() {
   cont.innerHTML = playlists.map((p, i) => `
     <div class="playlist-item">
       <div class="playlist-info">
-        <div class="playlist-nombre">${p.nombre}</div>
-        <div class="playlist-detalle">${describirFiltros(p.filtros)}</div>
+        <div class="playlist-nombre">${escHTML(p.nombre)}</div>
+        <div class="playlist-detalle">${escHTML(describirFiltros(p.filtros))}</div>
       </div>
       <div class="playlist-acciones">
         <button class="btn-toolbar" onclick="cargarPlaylist(${i})">Cargar</button>
