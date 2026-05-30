@@ -9,6 +9,7 @@ export default function RegistroPage() {
   const [nombre, setNombre] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [nivel, setNivel] = useState("inicial-preescolar");
   const [acepto, setAcepto] = useState(false);
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
@@ -26,11 +27,11 @@ export default function RegistroPage() {
 
     setLoading(true);
 
-    const { error } = await supabase.auth.signUp({
+    const { data, error } = await supabase.auth.signUp({
       email,
       password,
       options: {
-        data: { nombre },
+        data: { nombre, nivel_activo: nivel },
       },
     });
 
@@ -38,6 +39,14 @@ export default function RegistroPage() {
       setError(error.message);
       setLoading(false);
     } else {
+      if (data.user) {
+        await (supabase.from("perfiles") as any)
+          .update({
+            nivel_activo: nivel,
+            niveles_acceso: [nivel],
+          })
+          .eq("id", data.user.id);
+      }
       router.push("/dashboard");
       router.refresh();
     }
@@ -130,6 +139,28 @@ export default function RegistroPage() {
               className="w-full px-4 py-2.5 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white focus:ring-2 focus:ring-[var(--primary)] focus:border-transparent outline-none transition"
               placeholder="Mínimo 6 caracteres"
             />
+          </div>
+
+          <div>
+            <label
+              htmlFor="nivel"
+              className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1"
+            >
+              ¿Qué nivel vas a presentar?
+            </label>
+            <select
+              id="nivel"
+              value={nivel}
+              onChange={(e) => setNivel(e.target.value)}
+              className="w-full px-4 py-2.5 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-white focus:ring-2 focus:ring-[var(--primary)] focus:border-transparent outline-none transition"
+            >
+              <option value="inicial-preescolar">Inicial y Preescolar</option>
+              <option value="primaria">Primaria</option>
+              <option value="telesecundaria">Telesecundaria</option>
+            </select>
+            <p className="mt-1 text-xs text-slate-400 dark:text-slate-500">
+              Puedes cambiar de nivel después desde el menú.
+            </p>
           </div>
 
           <label className="flex items-start gap-2 cursor-pointer">
