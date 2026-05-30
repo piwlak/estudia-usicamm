@@ -20,6 +20,9 @@
     "stripe": "^22.1.1",
     "zustand": "^5.0.0"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.0",
     "@types/node": "^22.0.0",
