@@ -5,7 +5,7 @@ import OfflineBanner from "@/components/pwa/OfflineBanner";
 export const metadata: Metadata = {
   title: "Estudia USICAMM — Simulador de Admisión Docente",
   description:
-    "Plataforma profesional de estudio para el examen de Admisión Docente USICAMM. Educación Inicial, Preescolar, Primaria y Telesecundaria.",
+    "Plataforma profesional de estudio para el examen de Admisión Docente USICAMM. Inicial y Preescolar, Primaria y Telesecundaria.",
   manifest: "/manifest.json",
 };
 
