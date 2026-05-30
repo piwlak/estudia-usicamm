@@ -127,7 +127,7 @@ export default function NuevaPreguntaPage() {
               onChange={(e) => updateField("nivel_id", e.target.value)}
               className="w-full border border-slate-300 dark:border-slate-600 rounded-lg px-3 py-2 text-sm bg-white dark:bg-slate-700 text-slate-900 dark:text-white focus:ring-2 focus:ring-indigo-500 focus:outline-none"
             >
-              <option value="inicial-preescolar">Inicial/Preescolar</option>
+              <option value="inicial-preescolar">Inicial y Preescolar</option>
               <option value="primaria">Primaria</option>
               <option value="telesecundaria">Telesecundaria</option>
             </select>
