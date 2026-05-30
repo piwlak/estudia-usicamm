@@ -1,3 +1,3 @@
 {
-    "installCommand": "npx pnpm@latest install"
+    "installCommand": "npx pnpm@9 install"
 }
