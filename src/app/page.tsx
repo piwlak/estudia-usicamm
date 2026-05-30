@@ -60,13 +60,13 @@ export default function LandingPage() {
             <div className="p-6 rounded-2xl bg-white dark:bg-slate-800 shadow-md border border-slate-100 dark:border-slate-700 hover:shadow-lg transition-shadow">
               <div className="text-3xl mb-3">📖</div>
               <h3 className="text-lg font-bold text-slate-900 dark:text-slate-100">Primaria</h3>
-              <p className="text-2xl font-extrabold text-[var(--primary)] mt-1">220+</p>
+              <p className="text-2xl font-extrabold text-[var(--primary)] mt-1">420+</p>
               <p className="text-sm text-slate-500 dark:text-slate-400">reactivos disponibles</p>
             </div>
             <div className="p-6 rounded-2xl bg-white dark:bg-slate-800 shadow-md border border-slate-100 dark:border-slate-700 hover:shadow-lg transition-shadow">
               <div className="text-3xl mb-3">🏫</div>
               <h3 className="text-lg font-bold text-slate-900 dark:text-slate-100">Telesecundaria</h3>
-              <p className="text-2xl font-extrabold text-[var(--primary)] mt-1">220+</p>
+              <p className="text-2xl font-extrabold text-[var(--primary)] mt-1">420+</p>
               <p className="text-sm text-slate-500 dark:text-slate-400">reactivos disponibles</p>
             </div>
           </div>
