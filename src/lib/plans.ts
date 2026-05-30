@@ -19,10 +19,13 @@ export const PLANS = {
     currency: "MXN",
     interval: "year" as const,
     features: [
-      "Todo lo del plan mensual",
-      "Ahorro de 33% vs mensual",
-      "Acceso a todos los niveles",
-      "Soporte prioritario",
+      "Exámenes ilimitados",
+      "Modo simulacro cronometrado",
+      "Flashcards interactivas",
+      "Resúmenes completos",
+      "Progreso detallado por dimensión",
+      "Hasta 100 preguntas por examen",
+      "Ahorro de 33% vs plan mensual",
     ],
   },
 } as const;
