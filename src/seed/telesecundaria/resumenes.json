@@ -1,0 +1,198 @@
+{
+  "Plan de Estudio 2022 en Telesecundaria": {
+    "titulo": "Plan de Estudio 2022 en Telesecundaria",
+    "que_es": "El Plan 2022 aplicado a la modalidad de telesecundaria. Fase 6 (1°, 2° y 3° de secundaria) con las particularidades de la modalidad: docente unitario, contexto rural, vinculación comunitaria.",
+    "ideas_clave": [
+      "La Fase 6 cubre los tres grados de secundaria, incluida telesecundaria, con los mismos 4 campos formativos y 7 ejes articuladores.",
+      "En telesecundaria el docente atiende todos los campos formativos (a diferencia de secundaria general donde hay un docente por asignatura).",
+      "El Programa Analítico se elabora considerando el contexto rural/semiurbano específico de la comunidad donde se ubica la telesecundaria.",
+      "Los proyectos comunitarios son estrategia central: articulan el currículo con problemáticas reales de la comunidad rural.",
+      "El codiseño puede ser individual (docente unitario) o colectivo (con telesecundarias de la zona a través del CTE de zona).",
+      "La tecnología educativa apoya pero no sustituye al docente: materiales audiovisuales, recursos digitales cuando hay conectividad."
+    ],
+    "no_es": "No es un Plan diferente al de secundaria general. No es educación de segunda categoría. No elimina los campos formativos.",
+    "errores_comunes": "Pensar que la telesecundaria tiene un currículo distinto al de secundaria. Reducir la modalidad a 'ver televisión educativa'."
+  },
+  "Modalidad de Telesecundaria": {
+    "titulo": "Características de la modalidad de Telesecundaria",
+    "que_es": "Modalidad de educación secundaria diseñada para comunidades rurales, semiurbanas o de difícil acceso donde no es viable una secundaria general o técnica.",
+    "ideas_clave": [
+      "Un solo docente atiende todos los campos formativos y frecuentemente dos o tres grados simultáneamente (multigrado).",
+      "Se ubica mayoritariamente en comunidades rurales, indígenas o semiurbanas con poblaciones pequeñas.",
+      "La telesecundaria es frecuentemente la única institución educativa en la comunidad y un centro de vida comunitaria.",
+      "El docente requiere dominio pedagógico amplio: planear para múltiples campos, diferenciar por grado, vincular con la comunidad.",
+      "La organización multigrado no es limitante sino oportunidad: colaboración entre grados, tutoría entre pares, aprendizaje autónomo.",
+      "Los recursos pueden ser limitados (conectividad, materiales, infraestructura): la planeación se adapta a lo disponible."
+    ],
+    "no_es": "No es una secundaria incompleta. No se reduce a poner videos. No es inferior a la secundaria general.",
+    "errores_comunes": "Asumir que el docente de telesecundaria solo facilita material audiovisual. Pensar que la modalidad es temporal mientras se construye una secundaria general."
+  },
+  "Desarrollo del adolescente (12-15 años)": {
+    "titulo": "Desarrollo del adolescente en telesecundaria",
+    "que_es": "Comprensión del desarrollo físico, cognitivo, emocional y social del adolescente como base para la intervención pedagógica en telesecundaria.",
+    "ideas_clave": [
+      "Pensamiento operatorio formal (Piaget): razonamiento abstracto, hipotético-deductivo. El adolescente formula hipótesis y considera múltiples variables.",
+      "Construcción de identidad (Erikson): exploración de valores, creencias y roles. Crisis normativa que requiere acompañamiento, no represión.",
+      "El grupo de pares es referente central: necesidad de pertenencia que la escuela puede canalizar hacia el trabajo colaborativo.",
+      "La autorregulación está en desarrollo: el córtex prefrontal madura durante la adolescencia. El docente apoya la construcción de esta capacidad.",
+      "En contexto rural: la identidad se construye en tensión entre la cultura comunitaria y las influencias externas (medios, migración, urbanización).",
+      "La metacognición se fortalece: el adolescente puede pensar sobre su propio pensamiento, planificar y evaluar sus estrategias de aprendizaje."
+    ],
+    "no_es": "La adolescencia no es una etapa de 'rebeldía patológica'. Los cambios conductuales no son indisciplina.",
+    "errores_comunes": "Interpretar la búsqueda de autonomía como indisciplina. No ofrecer espacios de participación genuina al adolescente."
+  },
+  "Desarrollo socioemocional del adolescente": {
+    "titulo": "Desarrollo socioemocional en telesecundaria",
+    "que_es": "Acompañamiento del desarrollo emocional y social del adolescente en el contexto de la telesecundaria rural.",
+    "ideas_clave": [
+      "Las emociones en la adolescencia son intensas y fluctuantes: no son 'drama' sino expresión de un desarrollo en curso.",
+      "La regulación emocional se construye con apoyo, no con castigo: el docente modela estrategias de regulación.",
+      "En contextos rurales con pocos pares, el grupo escolar es especialmente importante para el desarrollo social del adolescente.",
+      "La empatía compleja se desarrolla: capacidad de comprender perspectivas diferentes, incluso de personas ausentes o culturas distintas.",
+      "La identidad de género y la sexualidad emergen como temas: la escuela acompaña con información y respeto, no con silencio o juicio.",
+      "El bienestar emocional es condición para el aprendizaje: un adolescente en estrés o ansiedad no puede aprender efectivamente."
+    ],
+    "no_es": "No es asunto privado del adolescente. No se resuelve con 'mano dura'. No es una asignatura aislada.",
+    "errores_comunes": "Desestimar las emociones adolescentes como 'hormonas'. Sancionar la expresión emocional en vez de acompañarla."
+  },
+  "Evaluación formativa con adolescentes": {
+    "titulo": "Evaluación formativa en telesecundaria",
+    "que_es": "Evaluación continua adaptada a la modalidad multigrado y a las características del adolescente.",
+    "ideas_clave": [
+      "Con adolescentes se potencia la autoevaluación y la metacognición: reflexionar sobre cómo se aprende, no solo qué se aprende.",
+      "La coevaluación entre pares aprovecha la importancia del grupo: criterios claros, retroalimentación respetuosa entre compañeros.",
+      "En multigrado, estudiantes de grados superiores pueden evaluar formativamente a los de grados inferiores (tutoría entre pares).",
+      "Instrumentos variados: portafolios, rúbricas, proyectos, presentaciones, registros de proceso — no solo exámenes escritos.",
+      "La retroalimentación es específica y constructiva: primero logros, luego áreas de mejora con orientación clara.",
+      "La evaluación diferenciada por grado es necesaria en contexto multigrado: misma actividad, diferentes niveles de profundidad."
+    ],
+    "no_es": "No es solo el examen al final del bimestre. No es idéntica para todos los grados en multigrado.",
+    "errores_comunes": "Evaluar solo con examen escrito. No diferenciar criterios por grado en grupo multigrado."
+  },
+  "Planeación didáctica contextualizada": {
+    "titulo": "Planeación didáctica en telesecundaria",
+    "que_es": "Organización del trabajo docente adaptada a la modalidad unitaria/bidocente y al contexto rural.",
+    "ideas_clave": [
+      "En multigrado se planea por secuencias que integran actividades diferenciadas por grado pero en torno a un mismo tema o proyecto.",
+      "La planeación parte de la lectura crítica de la realidad: problemáticas comunitarias, recursos disponibles, características del grupo.",
+      "Los proyectos comunitarios permiten integrar campos formativos: un solo proyecto puede abordar Lenguajes, Saberes Científicos y Ética.",
+      "El tiempo es recurso escaso: la planeación optimiza momentos de trabajo autónomo, colaborativo y dirigido.",
+      "La flexibilidad es constitutiva: la planeación se ajusta a imprevistos, actividades comunitarias, clima y contexto.",
+      "Los materiales disponibles condicionan la planeación: se adapta a lo existente, no se paraliza por lo faltante."
+    ],
+    "no_es": "No es copiar la planeación de secundaria general. No es llenar un formato sin usar realmente en la práctica.",
+    "errores_comunes": "Planear como si fuera un solo grado cuando es multigrado. No contextualizar al entorno rural."
+  },
+  "Inclusión en telesecundaria": {
+    "titulo": "Inclusión educativa en telesecundaria",
+    "que_es": "Atención a la diversidad en el contexto específico de la telesecundaria rural: estudiantes indígenas, con discapacidad, migrantes, en situación de trabajo.",
+    "ideas_clave": [
+      "La telesecundaria frecuentemente es la única opción educativa: excluir a un estudiante es negarle el derecho a la educación por completo.",
+      "Estudiantes hablantes de lenguas indígenas: la lengua materna es recurso para el aprendizaje, el bilingüismo se fortalece.",
+      "El DUA permite atender diferentes niveles sin diseñar una clase para cada estudiante: múltiples formas de acceder y expresar.",
+      "Estudiantes en situación de migración estacional: la planeación considera la intermitencia y garantiza continuidad.",
+      "La discapacidad en contexto rural puede estar sin diagnóstico: el docente identifica barreras y ajusta sin esperar evaluación externa.",
+      "La interculturalidad no es tema aparte: los saberes comunitarios (agrícolas, artesanales, medicinales) son contenido curricular."
+    ],
+    "no_es": "No es solo integrar al estudiante 'diferente'. No requiere especialista para iniciar la atención.",
+    "errores_comunes": "Esperar diagnóstico formal para hacer ajustes. No reconocer la lengua indígena como recurso pedagógico."
+  },
+  "Interculturalidad y lenguas indígenas": {
+    "titulo": "Interculturalidad y lenguas en telesecundaria",
+    "que_es": "Reconocimiento y valoración de la diversidad cultural y lingüística en telesecundarias rurales con presencia de pueblos indígenas.",
+    "ideas_clave": [
+      "La interculturalidad crítica cuestiona las jerarquías culturales: el saber indígena no es inferior al científico, dialogan.",
+      "Las lenguas indígenas son recursos para el aprendizaje: la alfabetización en lengua materna fortalece la segunda lengua.",
+      "Los saberes comunitarios (agricultura, artesanías, medicina tradicional, cosmovisión) se integran como contenido legítimo del currículo.",
+      "En comunidades indígenas, las familias y los ancianos son portadores de saberes que enriquecen el Programa Analítico.",
+      "La perspectiva decolonial sustenta este enfoque: cuestionar qué saberes se validan y cuáles se invisibilizan.",
+      "No es celebración folclórica: es transformar las relaciones de poder epistemológico en la escuela."
+    ],
+    "no_es": "No es solo celebrar fechas culturales. No es imponer el español sobre la lengua materna.",
+    "errores_comunes": "Reducir la interculturalidad a eventos. Considerar la lengua indígena como obstáculo para el aprendizaje."
+  },
+  "Pensamiento crítico y científico": {
+    "titulo": "Pensamiento crítico y científico en adolescentes",
+    "que_es": "Desarrollo de la capacidad de analizar, cuestionar, experimentar y argumentar, aprovechando el pensamiento formal del adolescente.",
+    "ideas_clave": [
+      "El pensamiento formal permite formular hipótesis, diseñar experimentos mentales y razonar con variables múltiples.",
+      "El pensamiento crítico se ejerce, no se enseña como contenido: se construye cuestionando, analizando fuentes, argumentando.",
+      "El campo de Saberes y Pensamiento Científico promueve hacer ciencia: observar, preguntar, experimentar, registrar, comunicar.",
+      "En contexto rural, la ciencia se conecta con problemáticas locales: agua, suelo, biodiversidad, salud, producción agrícola.",
+      "La argumentación es competencia clave: construir y evaluar argumentos con evidencias, distinguir opinión de dato.",
+      "El uso de tecnología (cuando disponible) permite acceder a información, verificar datos y comunicar hallazgos."
+    ],
+    "no_es": "No es memorizar conceptos científicos. No se limita a repetir el método científico como receta.",
+    "errores_comunes": "Enseñar ciencia como memorización de definiciones. No vincular con problemáticas locales."
+  },
+  "Prevención de violencia escolar": {
+    "titulo": "Prevención de violencia en telesecundaria",
+    "que_es": "Estrategias de prevención, detección y atención de la violencia escolar adaptadas al contexto de la telesecundaria rural.",
+    "ideas_clave": [
+      "El ciberacoso existe incluso en contextos rurales: el acceso a teléfonos móviles es cada vez más amplio entre adolescentes.",
+      "En comunidades pequeñas el acoso puede ser más visible pero también más difícil de denunciar por la cercanía entre familias.",
+      "Ante violencia sexual, el docente tiene deber de denuncia. En contextos de aislamiento, la escuela puede ser el único espacio de detección.",
+      "La mediación entre pares es viable con adolescentes: estudiantes capacitados facilitan la resolución de conflictos.",
+      "La prevención de adicciones es especialmente relevante: adolescencia + contextos con presencia de sustancias + aislamiento.",
+      "El Acuerdo 14/12/23 aplica igual en telesecundaria: detectado un caso, se activa el protocolo sin discrecionalidad."
+    ],
+    "no_es": "No es discrecional activar el protocolo. No se minimiza porque 'es comunidad chica y se arregla solo'.",
+    "errores_comunes": "Resolver informalmente sin protocolo porque todos se conocen. No considerar el ciberacoso en contextos rurales."
+  },
+  "Trabajo con familias en contextos rurales": {
+    "titulo": "Trabajo con familias en telesecundaria",
+    "que_es": "Estrategias de vinculación escuela-familia adaptadas a las características de las comunidades rurales.",
+    "ideas_clave": [
+      "Las familias rurales pueden tener jornadas laborales extensas, baja escolaridad o movilidad estacional: la comunicación se adapta.",
+      "La telesecundaria es frecuentemente espacio de encuentro comunitario: asambleas, eventos, vinculación con autoridades locales.",
+      "Las familias son portadoras de saberes (agrícolas, artesanales, culturales) que enriquecen el Programa Analítico.",
+      "La corresponsabilidad educativa se construye con respeto: no culpabilizar a familias por limitaciones estructurales.",
+      "La comunicación frecuente y accesible (no solo juntas formales) fortalece el vínculo: visitas, mensajes, participación en proyectos.",
+      "En situaciones de violencia familiar, el docente actúa conforme al protocolo: el deber de protección al adolescente es prioritario."
+    ],
+    "no_es": "No es responsabilizar a las familias de todo. No es comunicación solo cuando hay problemas.",
+    "errores_comunes": "Citar a familias solo para quejas. No adaptar horarios/medios a las realidades laborales rurales."
+  },
+  "Uso de tecnología educativa": {
+    "titulo": "Tecnología educativa en telesecundaria",
+    "que_es": "Integración pedagógica de herramientas tecnológicas y audiovisuales en la modalidad de telesecundaria.",
+    "ideas_clave": [
+      "La tecnología es herramienta, no fin: apoya al docente en la enseñanza multigrado y diversifica las formas de acceso al conocimiento.",
+      "Materiales audiovisuales SEP: videos y programas diseñados para telesecundaria que complementan la intervención del docente.",
+      "La conectividad puede ser limitada o inexistente: la planeación no depende de internet sino que lo aprovecha cuando está disponible.",
+      "Los recursos offline (videos descargados, materiales impresos, bibliotecas escolares) son tan válidos como los digitales.",
+      "El uso responsable de tecnología es contenido formativo: pensamiento crítico ante la información digital, ciberciudadanía.",
+      "En multigrado, la tecnología permite trabajo autónomo mientras el docente atiende otro grado."
+    ],
+    "no_es": "No es poner videos sin mediación pedagógica. No requiere internet permanente para funcionar.",
+    "errores_comunes": "Depender exclusivamente de la tecnología para la clase. Usar videos como sustituto del docente sin procesamiento posterior."
+  },
+  "CTE y vinculación comunitaria": {
+    "titulo": "CTE y vinculación comunitaria en telesecundaria",
+    "que_es": "Organización del Consejo Técnico Escolar y la vinculación con la comunidad en el contexto específico de la telesecundaria.",
+    "ideas_clave": [
+      "En telesecundarias unitarias, el CTE funciona como consejo de zona con otras telesecundarias: espacio de intercambio y formación entre pares.",
+      "La vinculación comunitaria es más intensa que en contextos urbanos: la telesecundaria es espacio público central de la comunidad.",
+      "El PEMC se elabora con participación directa de familias y autoridades comunitarias: la comunidad conoce sus necesidades.",
+      "La autonomía profesional es especialmente relevante: el docente unitario toma decisiones sin equipo directivo in situ.",
+      "Las sesiones de CTE de zona permiten compartir experiencias, estrategias multigrado y materiales entre docentes aislados.",
+      "El proceso de mejora continua incluye la comunicación de resultados a la comunidad: rendición de cuentas y fortalecimiento del vínculo."
+    ],
+    "no_es": "No es trabajo en aislamiento total. No se reduce a reuniones administrativas de zona.",
+    "errores_comunes": "No aprovechar el CTE de zona como espacio de formación entre pares. No comunicar avances a la comunidad."
+  },
+  "Marco normativo específico": {
+    "titulo": "Marco normativo para telesecundaria",
+    "que_es": "Disposiciones legales y normativas que enmarcan el trabajo docente en telesecundaria.",
+    "ideas_clave": [
+      "El Artículo 3° constitucional garantiza educación de calidad en todas las modalidades: la telesecundaria no es excepción.",
+      "La LGE establece que la educación se imparte sin discriminación por condición social, origen o ubicación geográfica.",
+      "La LGDNNA aplica en su totalidad: interés superior de la niñez, derecho a participación, vida libre de violencia.",
+      "Los protocolos de convivencia escolar (Acuerdo 14/12/23) aplican igual en telesecundaria que en cualquier modalidad.",
+      "El derecho de los adolescentes a ser escuchados conforme a su edad y madurez es especialmente relevante en la toma de decisiones escolares.",
+      "El deber de denuncia ante indicios de violencia no se relativiza por el contexto rural o la cercanía con las familias."
+    ],
+    "no_es": "No hay excepciones normativas por ser modalidad rural. Los derechos no se suspenden por contexto.",
+    "errores_comunes": "Asumir que ciertos protocolos no aplican en comunidades pequeñas. Relativizar derechos del adolescente por usos y costumbres."
+  }
+}

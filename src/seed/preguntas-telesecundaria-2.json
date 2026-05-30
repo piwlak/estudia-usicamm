@@ -1,0 +1,2059 @@
+[
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es la principal característica de una rúbrica analítica frente a una rúbrica holística?",
+    "opciones": [
+      "Evalúa el desempeño global del estudiante con un solo nivel de logro",
+      "Desglosa el desempeño en criterios específicos con niveles independientes para cada uno",
+      "Se aplica exclusivamente para exámenes escritos de opción múltiple"
+    ],
+    "respuesta": 1,
+    "explicacion": "La rúbrica analítica descompone la tarea en dimensiones o criterios, cada uno con sus propios niveles de desempeño, lo que permite retroalimentación específica.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La coevaluación entre adolescentes tiene como propósito principal:",
+    "opciones": [
+      "Que los estudiantes califiquen a sus compañeros para asignar notas finales",
+      "Desarrollar la capacidad de dar y recibir retroalimentación constructiva entre pares",
+      "Sustituir la evaluación del docente cuando este no puede revisar todos los trabajos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La coevaluación busca que los estudiantes desarrollen habilidades metacognitivas y de retroalimentación, no reemplaza la función evaluadora del docente.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria pide a sus alumnos de tercer grado que seleccionen sus mejores trabajos del bimestre, escriban una reflexión sobre cada uno explicando qué aprendieron, y los organicen en una carpeta digital compartida.",
+    "pregunta": "¿Qué instrumento de evaluación formativa está empleando el docente?",
+    "opciones": [
+      "Portafolio de evidencias con elementos de autoevaluación",
+      "Lista de cotejo para verificar entrega de tareas",
+      "Examen de desempeño práctico"
+    ],
+    "respuesta": 0,
+    "explicacion": "El portafolio implica selección deliberada de evidencias y reflexión metacognitiva del estudiante sobre su propio aprendizaje.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la forma más efectiva de utilizar la autoevaluación con adolescentes en telesecundaria?",
+    "opciones": [
+      "Proporcionar criterios claros previamente y guiar la reflexión con preguntas orientadoras",
+      "Permitir que cada alumno se asigne la calificación que considere justa sin criterios específicos",
+      "Aplicarla solo al final del ciclo escolar como resumen del desempeño anual"
+    ],
+    "respuesta": 0,
+    "explicacion": "La autoevaluación requiere criterios explícitos y andamiaje para que el adolescente desarrolle juicio crítico sobre su propio desempeño.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En una telesecundaria rural, la maestra diseña una rúbrica analítica para evaluar presentaciones orales. Los criterios son: contenido, organización, lenguaje corporal y uso de apoyos visuales. Antes de las presentaciones, comparte la rúbrica con los alumnos y la explica.",
+    "pregunta": "¿Qué principio de evaluación formativa se evidencia al compartir la rúbrica previamente?",
+    "opciones": [
+      "Transparencia de criterios para que el estudiante oriente su desempeño",
+      "Estandarización de la evaluación para obtener datos comparativos",
+      "Reducción de la carga administrativa del docente al calificar"
+    ],
+    "respuesta": 0,
+    "explicacion": "Compartir criterios antes de la tarea permite al estudiante autorregular su aprendizaje y saber qué se espera de él.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El portafolio digital como herramienta de evaluación formativa se distingue porque:",
+    "opciones": [
+      "Permite únicamente almacenar fotografías de trabajos manuales",
+      "Integra evidencias diversas con reflexiones del estudiante que muestran su progreso a lo largo del tiempo",
+      "Funciona exclusivamente como archivo de calificaciones numéricas"
+    ],
+    "respuesta": 1,
+    "explicacion": "El portafolio digital reúne evidencias variadas acompañadas de reflexión metacognitiva, mostrando la trayectoria de aprendizaje.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Las Barreras para el Aprendizaje y la Participación (BAP) se definen como:",
+    "opciones": [
+      "Las dificultades inherentes a la discapacidad del estudiante que impiden su aprendizaje",
+      "Los obstáculos del contexto escolar, áulico y socio-familiar que limitan el acceso, la participación y el aprendizaje",
+      "Las calificaciones reprobatorias que acumula un estudiante durante el ciclo escolar"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las BAP son obstáculos contextuales, no déficits del estudiante; se ubican en el entorno y pueden eliminarse con ajustes razonables.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019, p. 28."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El Diseño Universal para el Aprendizaje (DUA) propone tres principios fundamentales:",
+    "opciones": [
+      "Múltiples formas de representación, de acción y expresión, y de implicación (motivación)",
+      "Evaluación diagnóstica, formativa y sumativa en cada secuencia didáctica",
+      "Planeación anual, mensual y semanal del contenido curricular"
+    ],
+    "respuesta": 0,
+    "explicacion": "El DUA se estructura en tres principios que buscan eliminar barreras ofreciendo opciones variadas para acceder, demostrar y comprometerse con el aprendizaje.",
+    "cita": "CAST, Diseño Universal para el Aprendizaje, versión 2.2, 2018."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En una telesecundaria unitaria de una comunidad serrana, un alumno de segundo grado con discapacidad visual asiste a clases. El docente solo cuenta con los materiales televisivos estándar y libros de texto impresos.",
+    "pregunta": "Aplicando el DUA, ¿qué acción es más pertinente para el docente?",
+    "opciones": [
+      "Solicitar que el alumno sea canalizado a otra escuela con recursos especializados",
+      "Ofrecer múltiples formas de representación: describir verbalmente los contenidos visuales de la TV y proporcionar materiales en audio o relieve",
+      "Exentar al alumno de las actividades que involucren contenido televisivo"
+    ],
+    "respuesta": 1,
+    "explicacion": "El DUA indica ofrecer múltiples formas de representación; describir contenidos visuales y usar audio son ajustes razonables sin excluir al estudiante.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria identifica que 8 de sus 22 alumnos de primer grado presentan rezago educativo significativo: no dominan la lectura comprensiva ni operaciones básicas. La comunidad tiene alta marginación y muchos padres son analfabetas.",
+    "pregunta": "¿Cuál es la estrategia más adecuada desde el enfoque inclusivo?",
+    "opciones": [
+      "Separar a los 8 alumnos en un grupo aparte con contenidos de primaria hasta que se nivelen",
+      "Diseñar actividades diferenciadas dentro del mismo grupo que partan de sus saberes previos y avancen progresivamente",
+      "Reportar a los alumnos como candidatos a repetir el grado y esperar al siguiente ciclo"
+    ],
+    "respuesta": 1,
+    "explicacion": "La inclusión implica trabajar con actividades diferenciadas en el mismo grupo, sin segregar ni postergar la atención al rezago.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "En el contexto rural de telesecundaria, ¿cuál es el principal reto para implementar el DUA?",
+    "opciones": [
+      "La falta de recursos variados obliga al docente a ser creativo con materiales del entorno y la comunidad",
+      "El DUA no aplica en contextos rurales porque fue diseñado para escuelas urbanas con tecnología",
+      "Los estudiantes rurales no requieren ajustes porque todos tienen las mismas condiciones"
+    ],
+    "respuesta": 0,
+    "explicacion": "El DUA es un marco flexible; en contextos rurales se implementa usando recursos comunitarios, naturales y la creatividad docente.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Durante la adolescencia, la construcción de la identidad se caracteriza principalmente por:",
+    "opciones": [
+      "La consolidación definitiva de la personalidad que permanecerá sin cambios en la adultez",
+      "Un proceso de exploración, cuestionamiento y diferenciación respecto a las figuras de autoridad",
+      "La imitación completa de los modelos parentales sin cuestionamiento"
+    ],
+    "respuesta": 1,
+    "explicacion": "La adolescencia implica exploración identitaria activa donde el joven cuestiona normas y busca diferenciarse, sin que esto signifique ruptura definitiva.",
+    "cita": "Erikson, E. Identidad, juventud y crisis, 1968."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El autoconcepto en la adolescencia se define como:",
+    "opciones": [
+      "La percepción y valoración que el adolescente tiene de sí mismo en diversas dimensiones",
+      "La calificación que otros asignan al comportamiento del adolescente",
+      "El nivel de rendimiento académico que un alumno alcanza en sus materias"
+    ],
+    "respuesta": 0,
+    "explicacion": "El autoconcepto es la representación multidimensional que la persona construye sobre sí misma, incluyendo aspectos académicos, sociales y físicos.",
+    "cita": "SEP, Marco curricular 2022, Desarrollo socioemocional."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Un alumno de tercer grado de telesecundaria ha cambiado drásticamente su forma de vestir y hablar para parecerse a un grupo de compañeros mayores. Ha dejado de participar en actividades que antes disfrutaba y muestra incomodidad cuando se le pregunta su opinión personal.",
+    "pregunta": "Desde la perspectiva del desarrollo socioemocional, este comportamiento refleja:",
+    "opciones": [
+      "Un trastorno de personalidad que requiere atención psiquiátrica inmediata",
+      "La influencia de la presión de pares en la búsqueda de pertenencia, propia de la etapa adolescente",
+      "Falta de disciplina en el hogar que debe corregirse con sanciones escolares"
+    ],
+    "respuesta": 1,
+    "explicacion": "La necesidad de pertenencia al grupo de pares es característica de la adolescencia; la presión de pares puede llevar a modificar conductas para ser aceptado.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la mejor manera de abordar el proyecto de vida con adolescentes de telesecundaria en contextos de alta marginación?",
+    "opciones": [
+      "Evitar el tema porque genera frustración al mostrar oportunidades que no están a su alcance",
+      "Vincular aspiraciones personales con opciones reales del contexto, ampliando su visión sin negar su realidad",
+      "Enfocarse exclusivamente en carreras universitarias para motivarlos a salir de la comunidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "El proyecto de vida debe partir de la realidad del estudiante, ampliar horizontes y conectar con posibilidades concretas sin negar el contexto.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, una alumna de segundo grado presenta baja autoestima. Ha expresado que 'no sirve para nada' porque su familia le dice que las mujeres no necesitan estudiar. Su rendimiento ha bajado notablemente.",
+    "pregunta": "¿Qué acción del docente fortalece mejor el autoconcepto de la alumna?",
+    "opciones": [
+      "Asignarle roles de liderazgo en actividades donde demuestre competencia y reconocer sus logros específicos",
+      "Decirle que no haga caso a su familia y que estudiar es obligatorio por ley",
+      "Enviar un citatorio a los padres exigiéndoles que cambien su postura sobre la educación femenina"
+    ],
+    "respuesta": 0,
+    "explicacion": "Fortalecer el autoconcepto requiere experiencias de éxito y reconocimiento específico; las acciones confrontativas pueden ser contraproducentes.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según los protocolos de actuación, el acoso escolar (bullying) se distingue de un conflicto aislado porque:",
+    "opciones": [
+      "Es una conducta agresiva repetida, intencional y con desequilibrio de poder entre agresor y víctima",
+      "Ocurre una sola vez pero con gran intensidad física",
+      "Solo se presenta entre alumnos de diferentes grados escolares"
+    ],
+    "respuesta": 0,
+    "explicacion": "El acoso se caracteriza por repetición, intencionalidad y asimetría de poder; un evento aislado es un conflicto, no necesariamente acoso.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El ciberacoso entre adolescentes se define como:",
+    "opciones": [
+      "El uso de tecnologías digitales para hostigar, amenazar, humillar o excluir de forma repetida a otro",
+      "Cualquier uso de redes sociales por parte de menores de edad",
+      "La publicación de fotografías escolares sin autorización del docente"
+    ],
+    "respuesta": 0,
+    "explicacion": "El ciberacoso implica uso deliberado y repetido de medios digitales para dañar a otro; no cualquier actividad en línea constituye ciberacoso.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, varios alumnos crearon un grupo de WhatsApp donde publican memes ofensivos sobre una compañera, la insultan y comparten fotos de ella editadas de forma humillante. La alumna ha dejado de asistir a clases.",
+    "pregunta": "Según los protocolos, ¿cuál es la primera acción que debe tomar el docente?",
+    "opciones": [
+      "Confiscar los celulares de todos los alumnos como medida preventiva",
+      "Documentar la situación, brindar contención a la víctima y activar el protocolo de atención reportando a la dirección",
+      "Ignorar la situación porque ocurrió fuera del horario escolar y en dispositivos personales"
+    ],
+    "respuesta": 1,
+    "explicacion": "El protocolo establece documentar, proteger a la víctima y activar la ruta de atención; el ciberacoso entre compañeros es responsabilidad escolar aunque ocurra fuera.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "La cultura de paz en la escuela se construye principalmente mediante:",
+    "opciones": [
+      "La aplicación estricta de sanciones y expulsiones ante cualquier conflicto",
+      "El desarrollo de habilidades socioemocionales, diálogo, mediación y prácticas restaurativas",
+      "La eliminación de toda forma de competencia académica entre estudiantes"
+    ],
+    "respuesta": 1,
+    "explicacion": "La cultura de paz se fundamenta en la resolución pacífica de conflictos, prácticas restaurativas y desarrollo de competencias socioemocionales.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria nota que un alumno siempre está solo en el recreo, sus compañeros lo ignoran sistemáticamente y cuando intenta participar en equipos nadie lo acepta. El alumno muestra signos de tristeza pero no hay agresión física ni verbal directa.",
+    "pregunta": "Esta situación corresponde a:",
+    "opciones": [
+      "Un conflicto menor que se resolverá naturalmente con el tiempo",
+      "Exclusión social, una forma de violencia relacional que debe atenderse con intervención del docente",
+      "Preferencias normales de amistad entre adolescentes que no requieren intervención"
+    ],
+    "respuesta": 1,
+    "explicacion": "La exclusión social sistemática es una forma de violencia relacional; el docente debe intervenir aunque no haya agresión física o verbal explícita.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según la LGDNNA, el interés superior de la niñez implica que:",
+    "opciones": [
+      "Los derechos de niñas, niños y adolescentes deben ser considerados de manera prioritaria en las decisiones que les afecten",
+      "Los menores de edad tienen derecho a decidir autónomamente sobre todos los aspectos de su vida",
+      "Los padres tienen autoridad absoluta sobre las decisiones educativas de sus hijos"
+    ],
+    "respuesta": 0,
+    "explicacion": "El interés superior de la niñez es un principio rector que obliga a priorizar los derechos de NNA en toda decisión pública o privada que les involucre.",
+    "cita": "LGDNNA, Art. 2, 2014."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "De acuerdo con la LGDNNA, ¿cuál es la obligación del personal escolar cuando detecta una situación de vulneración de derechos de un alumno?",
+    "opciones": [
+      "Esperar a que los padres presenten una denuncia formal",
+      "Reportar de inmediato a las autoridades correspondientes (DIF, Ministerio Público o Procuraduría de protección)",
+      "Resolver la situación internamente sin involucrar a autoridades externas"
+    ],
+    "respuesta": 1,
+    "explicacion": "La LGDNNA establece la obligación de denuncia inmediata para todo servidor público que tenga conocimiento de vulneración de derechos de NNA.",
+    "cita": "LGDNNA, Art. 12 y 122, 2014."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Un alumno de telesecundaria llega constantemente con moretones y se muestra temeroso. Al preguntarle, dice que su padre lo golpea cuando no ayuda en el campo. El docente es el único adulto de la escuela y la comunidad es pequeña donde todos se conocen.",
+    "pregunta": "Según el marco normativo, ¿qué debe hacer el docente?",
+    "opciones": [
+      "Hablar primero con el padre para mediar y evitar problemas en la comunidad",
+      "Activar el protocolo de actuación y reportar a las autoridades de protección de NNA aunque tema represalias comunitarias",
+      "Documentar la situación pero no reportar para proteger la relación con la familia"
+    ],
+    "respuesta": 1,
+    "explicacion": "La ley obliga al reporte inmediato independientemente del contexto comunitario; la protección del menor prevalece sobre consideraciones sociales.",
+    "cita": "LGDNNA, Arts. 12, 47 y 122, 2014."
+  },
+  {
+    "fuente": "Protocolos de actuación escolar SEP-SIPINNA",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Los protocolos de actuación en casos de violencia escolar establecen como primer paso:",
+    "opciones": [
+      "Sancionar al agresor con suspensión inmediata",
+      "Identificar, documentar y brindar atención inmediata a la persona afectada",
+      "Convocar a asamblea de padres para exponer el caso públicamente"
+    ],
+    "respuesta": 1,
+    "explicacion": "El protocolo prioriza la protección y atención a la víctima, así como la documentación del hecho antes de cualquier medida disciplinaria.",
+    "cita": "SEP-SIPINNA, Protocolos de actuación escolar, 2020."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La LGDNNA reconoce que niñas, niños y adolescentes tienen derecho a ser ________ en todos los asuntos que les afecten.",
+    "opciones": [
+      "obedecidos",
+      "escuchados y tomados en cuenta",
+      "premiados"
+    ],
+    "respuesta": 1,
+    "explicacion": "El derecho a la participación y a ser escuchado es un principio fundamental de la LGDNNA, acorde con la Convención sobre los Derechos del Niño.",
+    "cita": "LGDNNA, Art. 2 y 71-74, 2014."
+  },
+  {
+    "fuente": "Protocolos de actuación escolar SEP-SIPINNA",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "Cuando un docente de telesecundaria conoce un caso de abuso sexual hacia un alumno, según la normativa debe:",
+    "opciones": [
+      "Investigar por su cuenta los hechos antes de reportar para tener evidencias suficientes",
+      "No interrogar al menor, no confrontar al presunto agresor y canalizar de inmediato a la autoridad competente",
+      "Informar primero a los padres del alumno para que ellos decidan si denuncian"
+    ],
+    "respuesta": 1,
+    "explicacion": "El protocolo prohíbe que el docente investigue o confronte; debe proteger al menor y canalizar a autoridades sin revictimizar.",
+    "cita": "SEP-SIPINNA, Protocolos de actuación en casos de abuso sexual, 2020."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La corresponsabilidad educativa entre familia y escuela en contextos rurales se refiere a:",
+    "opciones": [
+      "Que los padres asuman la enseñanza de contenidos curriculares en casa",
+      "La responsabilidad compartida donde familia y escuela colaboran desde sus respectivos roles para el desarrollo integral del alumno",
+      "Que la escuela sustituya las funciones de la familia cuando los padres están ausentes por migración"
+    ],
+    "respuesta": 1,
+    "explicacion": "La corresponsabilidad implica colaboración desde roles diferenciados; ni la familia enseña currículo ni la escuela sustituye funciones parentales.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una comunidad rural con alta migración, varios alumnos de telesecundaria viven con abuelos o tíos porque sus padres trabajan en Estados Unidos. Los tutores frecuentemente no asisten a reuniones escolares por sus labores agrícolas.",
+    "pregunta": "¿Cuál es la estrategia más pertinente para involucrar a estas familias?",
+    "opciones": [
+      "Condicionar la inscripción de los alumnos a la asistencia obligatoria de tutores a todas las reuniones",
+      "Flexibilizar horarios de reunión, usar medios alternativos de comunicación y reconocer a los cuidadores como interlocutores válidos",
+      "Asumir que estas familias no se interesan en la educación y trabajar solo con el alumno"
+    ],
+    "respuesta": 1,
+    "explicacion": "La inclusión de familias requiere flexibilidad y reconocimiento de las condiciones reales; los cuidadores son figuras legítimas de corresponsabilidad.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "Un alumno de primer grado de telesecundaria falta frecuentemente porque su padre lo lleva a trabajar en la cosecha de café. El padre argumenta que el ingreso es necesario para la subsistencia familiar y que el alumno 'ya sabe suficiente'.",
+    "pregunta": "Desde el marco normativo y el trabajo con familias, el docente debe:",
+    "opciones": [
+      "Aceptar la situación como parte de la cultura rural y solo registrar las inasistencias",
+      "Dialogar con la familia sobre el derecho a la educación, buscar alternativas flexibles y, si persiste, activar protocolos por posible trabajo infantil",
+      "Amenazar al padre con una denuncia inmediata por trabajo infantil para que deje de llevarse al alumno"
+    ],
+    "respuesta": 1,
+    "explicacion": "Se debe actuar con sensibilidad cultural pero firmeza normativa: el diálogo primero, buscar alternativas y, si es necesario, activar protocolos de protección.",
+    "cita": "LGDNNA, Art. 47; SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "En comunidades rurales con migración, ¿cómo debe el docente manejar el impacto emocional de la separación familiar en sus alumnos?",
+    "opciones": [
+      "No abordar el tema en clase para evitar que los alumnos se pongan tristes",
+      "Crear espacios seguros donde los adolescentes puedan expresar sus emociones y fortalecer redes de apoyo entre pares",
+      "Referir a todos los alumnos con padres migrantes a terapia psicológica externa"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente puede crear condiciones para la expresión emocional y el apoyo entre pares sin necesariamente requerir terapia externa para todos.",
+    "cita": "SEP, Marco curricular 2022, Desarrollo socioemocional."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El programa analítico en la Nueva Escuela Mexicana se construye a partir de:",
+    "opciones": [
+      "La copia textual del programa sintético sin modificaciones",
+      "La contextualización del programa sintético incorporando la realidad de la comunidad escolar",
+      "Un documento elaborado exclusivamente por las autoridades educativas estatales"
+    ],
+    "respuesta": 1,
+    "explicacion": "El programa analítico contextualiza el programa sintético a la realidad local, integrando saberes comunitarios y necesidades específicas de los estudiantes.",
+    "cita": "SEP, Avance del contenido para el libro del docente, 2022."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El codiseño en el contexto del programa analítico implica:",
+    "opciones": [
+      "Que los alumnos diseñen el currículo que quieren estudiar",
+      "La participación colaborativa de docentes, directivos y comunidad en la contextualización curricular",
+      "Que cada docente trabaje de forma individual sin considerar a los demás"
+    ],
+    "respuesta": 1,
+    "explicacion": "El codiseño es un proceso colaborativo donde participan diversos actores educativos para contextualizar el currículo a la realidad local.",
+    "cita": "SEP, Avance del contenido para el libro del docente, 2022."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria bidocente atiende primero y segundo grado simultáneamente. Necesita planear una secuencia del campo formativo Saberes y Pensamiento Científico sobre el tema del agua.",
+    "pregunta": "¿Cuál es la mejor estrategia de planeación para esta situación multigrado?",
+    "opciones": [
+      "Planear actividades completamente separadas para cada grado sin ningún punto de encuentro",
+      "Diseñar un proyecto común con actividades diferenciadas por nivel de complejidad que permitan trabajo conjunto en momentos clave",
+      "Enseñar solo los contenidos de primer grado y que segundo grado los repase como refuerzo"
+    ],
+    "respuesta": 1,
+    "explicacion": "En multigrado, un tema común con actividades diferenciadas permite atender ambos grados, optimizar tiempos y fomentar tutoría entre pares.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "En la planeación contextualizada, las adecuaciones para multigrado deben partir de ________ como eje articulador.",
+    "opciones": [
+      "el libro de texto como única fuente de contenido",
+      "una situación problemática o proyecto común significativo para ambos grados",
+      "los contenidos del grado superior imponiendo el mismo nivel a todos"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las situaciones problemáticas o proyectos comunes permiten articular contenidos de diferentes grados con niveles de profundidad diferenciados.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordena los pasos para elaborar el programa analítico en telesecundaria:",
+    "opciones": [
+      "1) Análisis del contexto comunitario, 2) Revisión del programa sintético, 3) Integración de contenidos locales y contextualización de los PDA",
+      "1) Copiar el programa sintético, 2) Añadir actividades extraescolares, 3) Presentarlo a supervisión",
+      "1) Diseñar exámenes, 2) Seleccionar temas del libro, 3) Calendarizar las sesiones televisivas"
+    ],
+    "respuesta": 0,
+    "explicacion": "El programa analítico requiere primero conocer el contexto, luego revisar el currículo nacional y finalmente integrar ambos en la contextualización.",
+    "cita": "SEP, Avance del contenido para el libro del docente, 2022."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En el modelo de telesecundaria, la televisión educativa cumple la función de:",
+    "opciones": [
+      "Sustituir completamente al docente en la explicación de contenidos",
+      "Ser un recurso mediador que complementa y enriquece la intervención pedagógica del docente",
+      "Entretener a los alumnos mientras el docente realiza trabajo administrativo"
+    ],
+    "respuesta": 1,
+    "explicacion": "La TV educativa es un mediador didáctico que complementa al docente; este sigue siendo quien articula, contextualiza y profundiza los contenidos.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En una telesecundaria la señal de TV se interrumpe frecuentemente por condiciones climáticas. El docente tiene acceso limitado a internet pero cuenta con una computadora con videos descargados y un proyector.",
+    "pregunta": "¿Cuál es la estrategia más adecuada para mantener la calidad educativa?",
+    "opciones": [
+      "Suspender clases los días que no hay señal televisiva hasta que se restablezca",
+      "Usar los videos descargados como recurso alternativo y complementar con actividades prácticas contextualizadas",
+      "Dictar los contenidos del libro de texto mientras se repara la señal"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente debe ser flexible y usar recursos alternativos disponibles; los videos descargados y actividades prácticas mantienen la mediación audiovisual.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es el uso más efectivo de las plataformas digitales en telesecundarias con conectividad limitada?",
+    "opciones": [
+      "Depender exclusivamente del internet en tiempo real para todas las actividades",
+      "Descargar contenidos previamente, trabajar offline y aprovechar momentos de conectividad para compartir productos",
+      "Abandonar toda herramienta digital y volver al modelo exclusivamente presencial tradicional"
+    ],
+    "respuesta": 1,
+    "explicacion": "En contextos de baja conectividad, la estrategia offline-first con descargas previas optimiza el uso de recursos digitales disponibles.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Los recursos audiovisuales en telesecundaria funcionan como mediadores del aprendizaje cuando el docente:",
+    "opciones": [
+      "Los reproduce sin intervención y pasa al siguiente tema",
+      "Los utiliza como detonadores de reflexión, diálogo y actividades que profundicen el contenido",
+      "Los usa exclusivamente para llenar tiempo cuando no tiene actividades planeadas"
+    ],
+    "respuesta": 1,
+    "explicacion": "La mediación implica que el docente articule el recurso audiovisual con preguntas, reflexiones y actividades que promuevan aprendizaje significativo.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La interculturalidad crítica en educación se distingue de la interculturalidad funcional porque:",
+    "opciones": [
+      "Solo celebra la diversidad cultural a través de festivales y eventos folclóricos",
+      "Cuestiona las relaciones de poder y las desigualdades estructurales entre culturas, promoviendo transformación social",
+      "Propone que cada cultura se eduque por separado sin contacto entre ellas"
+    ],
+    "respuesta": 1,
+    "explicacion": "La interculturalidad crítica va más allá del reconocimiento superficial; analiza y transforma las asimetrías de poder entre culturas.",
+    "cita": "Walsh, C. Interculturalidad crítica y educación intercultural, 2010."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En una telesecundaria ubicada en una comunidad nahua, el 60% de los alumnos son hablantes de náhuatl como lengua materna. El programa televisivo y los libros están exclusivamente en español. Varios alumnos tienen dificultades de comprensión.",
+    "pregunta": "¿Qué acción del docente refleja un enfoque intercultural pertinente?",
+    "opciones": [
+      "Exigir que los alumnos hablen solo español en la escuela para que se adapten al programa oficial",
+      "Incorporar el náhuatl como recurso pedagógico, usar explicaciones bilingües y validar los saberes comunitarios como contenido legítimo",
+      "Solicitar el traslado de los alumnos a una escuela indígena porque la telesecundaria no es para hablantes de lenguas originarias"
+    ],
+    "respuesta": 1,
+    "explicacion": "La interculturalidad implica usar la lengua materna como recurso, no como barrera; los saberes comunitarios enriquecen el currículo.",
+    "cita": "SEP, Marco curricular NEM, 2022; Ley General de Derechos Lingüísticos, Art. 11."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Los saberes comunitarios en el contexto de la NEM se consideran:",
+    "opciones": [
+      "Conocimientos inferiores que deben ser sustituidos por el conocimiento científico",
+      "Conocimientos válidos que dialogan con los contenidos curriculares y enriquecen el aprendizaje",
+      "Información folclórica útil solo para las clases de artes y educación física"
+    ],
+    "respuesta": 1,
+    "explicacion": "La NEM reconoce los saberes comunitarios como epistemologías válidas que dialogan con el conocimiento escolar en igualdad.",
+    "cita": "SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria en una comunidad mixteca quiere abordar el contenido de ecosistemas. En la comunidad existen conocimientos ancestrales sobre manejo sustentable del bosque y clasificación local de plantas medicinales.",
+    "pregunta": "¿Cómo integra estos saberes desde un enfoque intercultural?",
+    "opciones": [
+      "Los menciona brevemente como curiosidad antes de enseñar la clasificación científica 'correcta'",
+      "Establece un diálogo de saberes donde el conocimiento comunitario y el científico se complementan y enriquecen mutuamente",
+      "Los ignora porque no aparecen en el programa sintético oficial"
+    ],
+    "respuesta": 1,
+    "explicacion": "El diálogo de saberes posiciona el conocimiento comunitario y el científico como complementarios, no jerárquicos.",
+    "cita": "SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "La educación bilingüe en telesecundarias con presencia de pueblos originarios debe:",
+    "opciones": [
+      "Usar la lengua indígena solo como puente transitorio hacia el español y abandonarla progresivamente",
+      "Fortalecer ambas lenguas como recursos cognitivos y culturales, promoviendo el bilingüismo aditivo",
+      "Enseñar exclusivamente en lengua indígena rechazando el español como lengua colonial"
+    ],
+    "respuesta": 1,
+    "explicacion": "El bilingüismo aditivo fortalece ambas lenguas; la lengua materna no es solo puente sino recurso cognitivo y derecho cultural.",
+    "cita": "Ley General de Derechos Lingüísticos, 2003; SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La argumentación como habilidad del pensamiento crítico en adolescentes implica:",
+    "opciones": [
+      "Repetir datos memorizados de fuentes autorizadas sin cuestionarlos",
+      "Construir afirmaciones sustentadas en evidencias, razonamiento lógico y contra-argumentos",
+      "Expresar opiniones personales sin necesidad de fundamentarlas"
+    ],
+    "respuesta": 1,
+    "explicacion": "Argumentar requiere sustentar afirmaciones con evidencias y lógica, considerando posibles objeciones; va más allá de opinar o memorizar.",
+    "cita": "SEP, Programa Sintético Fase 6, Campo Saberes y Pensamiento Científico, 2023."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El método científico como herramienta didáctica en telesecundaria busca que los adolescentes:",
+    "opciones": [
+      "Memoricen los pasos del método para reproducirlos en exámenes escritos",
+      "Desarrollen la capacidad de formular preguntas, diseñar investigaciones y analizar evidencias",
+      "Realicen únicamente experimentos de laboratorio con equipo especializado"
+    ],
+    "respuesta": 1,
+    "explicacion": "El método científico como herramienta didáctica desarrolla habilidades de indagación; no se limita a memorizar pasos ni requiere laboratorio formal.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria quiere desarrollar el pensamiento crítico de sus alumnos sobre un tema de salud. Les muestra un video televisivo sobre remedios caseros y les pide que investiguen si la información presentada tiene sustento científico.",
+    "pregunta": "Esta actividad promueve principalmente:",
+    "opciones": [
+      "La memorización de datos sobre remedios caseros tradicionales",
+      "La capacidad de evaluar fuentes, distinguir afirmaciones con evidencia de aquellas sin sustento",
+      "El rechazo total a los conocimientos tradicionales de la comunidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "Evaluar críticamente la información implica distinguir afirmaciones basadas en evidencia de las que no la tienen, sin rechazar automáticamente lo tradicional.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En una telesecundaria sin laboratorio, el docente organiza una investigación sobre la calidad del agua del río comunitario. Los alumnos recolectan muestras, observan características físicas, entrevistan a pobladores sobre enfermedades y elaboran un informe con conclusiones.",
+    "pregunta": "¿Qué habilidades del pensamiento científico se desarrollan con esta actividad?",
+    "opciones": [
+      "Solo habilidades manuales de recolección de muestras",
+      "Observación, recolección de datos, análisis de información de múltiples fuentes y comunicación de hallazgos",
+      "Exclusivamente la habilidad de redacción de informes académicos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La investigación contextualizada integra múltiples habilidades científicas: observar, recopilar datos, analizar y comunicar resultados.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La resolución de problemas como estrategia didáctica requiere que el docente plantee situaciones que sean ________ para el estudiante.",
+    "opciones": [
+      "imposibles de resolver para generar frustración productiva",
+      "desafiantes pero alcanzables, vinculadas a su contexto real",
+      "exactamente iguales a los ejercicios resueltos del libro de texto"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los problemas deben estar en la zona de desarrollo próximo: retadores pero resolubles con esfuerzo, y significativos para el contexto del alumno.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden correcto del ciclo de evaluación formativa?",
+    "opciones": [
+      "1) Establecer criterios de logro, 2) Recopilar evidencias durante el proceso, 3) Retroalimentar para ajustar la enseñanza y el aprendizaje",
+      "1) Aplicar examen final, 2) Asignar calificación, 3) Reportar a padres de familia",
+      "1) Retroalimentar al alumno, 2) Diseñar la actividad, 3) Establecer criterios de evaluación"
+    ],
+    "respuesta": 0,
+    "explicacion": "El ciclo formativo inicia con criterios claros, continúa con recopilación de evidencias y cierra con retroalimentación que orienta mejoras.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria implementa la coevaluación en un proyecto de investigación. Proporciona a los alumnos una rúbrica simplificada y les pide evaluar el trabajo de un compañero. Sin embargo, los alumnos se ponen de acuerdo para darse las mejores calificaciones mutuamente.",
+    "pregunta": "¿Qué ajuste debe hacer el docente para mejorar la coevaluación?",
+    "opciones": [
+      "Eliminar definitivamente la coevaluación porque los adolescentes no son capaces de evaluar objetivamente",
+      "Modelar la retroalimentación constructiva, usar ejemplos de diferentes niveles y enfocar la coevaluación en comentarios cualitativos más que en calificaciones",
+      "Asignar aleatoriamente las evaluaciones sin que los alumnos sepan a quién evalúan"
+    ],
+    "respuesta": 1,
+    "explicacion": "La coevaluación requiere enseñanza explícita; modelar y priorizar retroalimentación cualitativa reduce la tendencia a inflación de calificaciones entre pares.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Los ajustes razonables en educación son ________ que se realizan para garantizar la participación de estudiantes con discapacidad sin imponer una carga desproporcionada a la institución.",
+    "opciones": [
+      "modificaciones curriculares permanentes y generalizadas para todo el grupo",
+      "modificaciones y adaptaciones necesarias y adecuadas específicas para cada caso",
+      "sanciones disciplinarias aplicadas cuando el alumno no cumple con los estándares"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los ajustes razonables son específicos, individualizados y proporcionales; se distinguen de las medidas universales (DUA) por su carácter particular.",
+    "cita": "Convención sobre los Derechos de las Personas con Discapacidad, Art. 2; ENEI 2019."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Una alumna con discapacidad motriz usa silla de ruedas en una telesecundaria rural cuyo edificio tiene escalones en todas las entradas y el baño no es accesible. La alumna depende de compañeros para entrar al aula.",
+    "pregunta": "¿Qué tipo de barrera para el aprendizaje y la participación predomina?",
+    "opciones": [
+      "Barrera actitudinal por parte de los compañeros que no quieren ayudarla",
+      "Barrera física o arquitectónica que limita el acceso autónomo a las instalaciones",
+      "Barrera curricular porque los contenidos no están adaptados a su condición"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las barreras físicas o arquitectónicas impiden el acceso y autonomía; son las más evidentes y requieren intervención institucional para su eliminación.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El principio de 'múltiples formas de acción y expresión' del DUA se aplica cuando el docente:",
+    "opciones": [
+      "Permite que todos los alumnos demuestren su aprendizaje solo a través de exámenes escritos",
+      "Ofrece opciones diversas para que los estudiantes expresen lo aprendido: oral, escrito, gráfico, corporal, digital",
+      "Reduce los contenidos para alumnos que no pueden escribir"
+    ],
+    "respuesta": 1,
+    "explicacion": "Múltiples formas de expresión significa ofrecer diversos medios para demostrar aprendizaje, no reducir contenidos ni limitarse a un solo formato.",
+    "cita": "CAST, Diseño Universal para el Aprendizaje, 2018."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La presión de pares en la adolescencia se manifiesta cuando:",
+    "opciones": [
+      "Un adolescente decide libremente sus actividades sin influencia del grupo",
+      "El grupo ejerce influencia directa o indirecta para que el adolescente adopte conductas, actitudes o decisiones para ser aceptado",
+      "Los docentes presionan académicamente a los alumnos para obtener mejores calificaciones"
+    ],
+    "respuesta": 1,
+    "explicacion": "La presión de pares es la influencia social del grupo hacia el individuo para conformarse a normas grupales a cambio de aceptación.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, un grupo de tercer grado presiona a un compañero nuevo para que consuma alcohol en las fiestas comunitarias. El alumno ha expresado al docente que no quiere pero teme ser rechazado.",
+    "pregunta": "¿Qué estrategia pedagógica es más pertinente?",
+    "opciones": [
+      "Prohibir que el alumno asista a fiestas comunitarias para alejarlo de la situación",
+      "Trabajar habilidades de asertividad y toma de decisiones autónomas, fortaleciendo su capacidad de resistir la presión",
+      "Exponer la situación ante todo el grupo para que los alumnos que presionan se avergüencen"
+    ],
+    "respuesta": 1,
+    "explicacion": "Desarrollar asertividad empodera al adolescente para tomar decisiones propias; las estrategias punitivas o de exposición pueden ser contraproducentes.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El proyecto de vida en la adolescencia es un proceso de ________ que integra metas personales, académicas y profesionales.",
+    "opciones": [
+      "planeación rígida e inamovible que determina el futuro del joven",
+      "construcción progresiva y flexible que se ajusta conforme el adolescente se conoce mejor",
+      "imposición adulta sobre lo que el adolescente debe ser en el futuro"
+    ],
+    "respuesta": 1,
+    "explicacion": "El proyecto de vida es dinámico y se reconstruye; no es un plan fijo ni una imposición externa sino una construcción personal progresiva.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden correcto del protocolo de actuación ante un caso de acoso escolar confirmado?",
+    "opciones": [
+      "1) Proteger a la víctima, 2) Documentar el caso, 3) Notificar a familias involucradas y autoridades, 4) Implementar medidas formativas y seguimiento",
+      "1) Expulsar al agresor, 2) Informar a medios de comunicación, 3) Citar a los padres, 4) Cerrar el caso",
+      "1) Confrontar al agresor públicamente, 2) Castigar a la víctima por no reportar antes, 3) Olvidar el incidente, 4) No documentar"
+    ],
+    "respuesta": 0,
+    "explicacion": "El protocolo sigue una ruta: proteger, documentar, notificar y dar seguimiento con medidas formativas, no punitivas extremas.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Las prácticas restaurativas en el ámbito escolar buscan principalmente:",
+    "opciones": [
+      "Castigar severamente al agresor para que sirva de ejemplo a los demás",
+      "Reparar el daño causado, restaurar las relaciones y responsabilizar al agresor de forma formativa",
+      "Perdonar automáticamente al agresor sin consecuencias para mantener la armonía"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las prácticas restaurativas priorizan reparar daño y restaurar relaciones; no son impunidad ni castigo extremo sino responsabilización formativa.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria descubre que un alumno está siendo extorsionado por compañeros mayores que le quitan su dinero diariamente amenazándolo con golpearlo si habla. La escuela está en una comunidad donde hay presencia de delincuencia organizada.",
+    "pregunta": "¿Cuál es la acción prioritaria del docente?",
+    "opciones": [
+      "Confrontar directamente a los agresores y sus familias en la comunidad",
+      "Proteger al alumno, documentar la situación y reportar a la dirección para activar protocolos que incluyan, si es necesario, la intervención de autoridades",
+      "Aconsejar al alumno que se defienda físicamente o que deje de traer dinero"
+    ],
+    "respuesta": 1,
+    "explicacion": "En contextos de riesgo, la prioridad es proteger al menor y activar las rutas institucionales; confrontar directamente puede poner en riesgo a todos.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "LGDNNA y Convención sobre los Derechos del Niño",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El derecho a la educación de NNA según la LGDNNA incluye que esta sea:",
+    "opciones": [
+      "Gratuita, laica, inclusiva, de calidad y que promueva el respeto a los derechos humanos",
+      "Exclusivamente académica, enfocada en resultados medibles y competitiva",
+      "Opcional para comunidades rurales donde el trabajo es prioridad familiar"
+    ],
+    "respuesta": 0,
+    "explicacion": "La LGDNNA establece las características de la educación como derecho: gratuita, laica, inclusiva, de calidad y formadora en derechos humanos.",
+    "cita": "LGDNNA, Art. 57, 2014."
+  },
+  {
+    "fuente": "LGDNNA y Convención sobre los Derechos del Niño",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Una alumna de 14 años de una telesecundaria comunica a su docente que está embarazada. Sus padres quieren retirarla de la escuela. La alumna desea seguir estudiando.",
+    "pregunta": "Según la LGDNNA, ¿qué debe garantizar la escuela?",
+    "opciones": [
+      "Respetar la decisión de los padres porque son los tutores legales",
+      "Garantizar la permanencia de la alumna en el sistema educativo, ya que el embarazo no es causa de exclusión escolar",
+      "Transferirla a un sistema de educación abierta para que no interfiera con la dinámica escolar"
+    ],
+    "respuesta": 1,
+    "explicacion": "La LGDNNA prohíbe la exclusión educativa por embarazo; la escuela debe garantizar la permanencia y realizar los ajustes necesarios.",
+    "cita": "LGDNNA, Art. 57, fracción VIII, 2014."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El trabajo infantil que afecta la asistencia escolar de adolescentes de telesecundaria es considerado por la normativa como:",
+    "opciones": [
+      "Una forma legítima de educación no formal que complementa la escolar",
+      "Una vulneración al derecho a la educación que requiere intervención institucional",
+      "Una práctica cultural que la escuela no debe cuestionar"
+    ],
+    "respuesta": 1,
+    "explicacion": "Cuando el trabajo impide el ejercicio del derecho a la educación, constituye una vulneración que requiere intervención conforme a la LGDNNA.",
+    "cita": "LGDNNA, Art. 47; Convenio 182 OIT."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la forma más respetuosa y efectiva de abordar la participación familiar en telesecundarias de comunidades indígenas?",
+    "opciones": [
+      "Realizar reuniones formales en español con formato de conferencia magistral del docente",
+      "Adaptar las formas de comunicación al contexto cultural, usar la lengua local cuando sea posible y reconocer las formas comunitarias de participación",
+      "Enviar citatorios escritos amenazando con reportar a los padres que no asistan"
+    ],
+    "respuesta": 1,
+    "explicacion": "La participación efectiva requiere pertinencia cultural: respetar lengua, formas organizativas comunitarias y establecer comunicación horizontal.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es el mayor desafío de la planeación didáctica contextualizada en telesecundaria unitaria?",
+    "opciones": [
+      "Que no existe currículo oficial para este tipo de escuelas",
+      "Articular contenidos de tres grados simultáneamente con un solo docente, tiempos limitados y recursos escasos",
+      "Que los alumnos de comunidades rurales no pueden aprender contenidos complejos"
+    ],
+    "respuesta": 1,
+    "explicacion": "El reto principal es la complejidad organizativa de atender tres grados con un docente; requiere planeación estratégica de tiempos y contenidos articulados.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria unitaria identifica que su comunidad enfrenta un problema de contaminación del río local. Decide diseñar un proyecto integrador donde los tres grados investiguen el problema desde diferentes campos formativos.",
+    "pregunta": "Este enfoque corresponde a la metodología de:",
+    "opciones": [
+      "Aprendizaje basado en proyectos comunitarios con enfoque interdisciplinario",
+      "Enseñanza tradicional por asignaturas con exámenes parciales",
+      "Aprendizaje memorístico con cuestionarios del libro de texto"
+    ],
+    "respuesta": 0,
+    "explicacion": "El proyecto comunitario interdisciplinario articula campos formativos en torno a un problema real, favoreciendo aprendizaje significativo y contextualizado.",
+    "cita": "SEP, Avance del contenido para el libro del docente, 2022."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, el docente graba con su celular entrevistas a ancianos de la comunidad sobre tradiciones y oficios. Luego las edita brevemente y las usa como recurso audiovisual en clase para el campo De lo Humano y lo Comunitario.",
+    "pregunta": "¿Qué valor pedagógico tiene esta práctica?",
+    "opciones": [
+      "Ninguno, porque no es un recurso producido profesionalmente por la SEP",
+      "Genera recursos audiovisuales contextualizados que vinculan saberes comunitarios con el currículo y dan protagonismo a la comunidad",
+      "Solo sirve como entretenimiento pero no tiene valor curricular"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los recursos audiovisuales creados localmente contextualizan el aprendizaje, validan saberes comunitarios y motivan a los alumnos por su cercanía.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "En el modelo de telesecundaria, el momento posterior a la visualización del programa televisivo se denomina fase de ________ y es donde el docente profundiza y contextualiza.",
+    "opciones": [
+      "transmisión",
+      "recepción pasiva",
+      "posaula o actividades de cierre y profundización"
+    ],
+    "respuesta": 2,
+    "explicacion": "La fase posterior al video es donde el docente interviene activamente para profundizar, contextualizar y generar aprendizaje significativo.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La Ley General de Derechos Lingüísticos establece que las lenguas indígenas son ________ al español en el territorio mexicano.",
+    "opciones": [
+      "inferiores",
+      "lenguas nacionales con la misma validez",
+      "dialectos subordinados"
+    ],
+    "respuesta": 1,
+    "explicacion": "La Ley reconoce a las lenguas indígenas como lenguas nacionales con la misma validez que el español; no son dialectos ni lenguas inferiores.",
+    "cita": "Ley General de Derechos Lingüísticos de los Pueblos Indígenas, Art. 4, 2003."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Un docente mestizo llega a una telesecundaria en comunidad tzeltal. No habla la lengua local. Nota que los alumnos entre ellos hablan tzeltal pero en clase guardan silencio o responden monosílabamente en español.",
+    "pregunta": "¿Qué acción promueve un ambiente intercultural inclusivo?",
+    "opciones": [
+      "Insistir en que hablen solo español porque es la lengua de instrucción oficial",
+      "Permitir y promover el uso del tzeltal en el aula, buscar apoyo de hablantes comunitarios y aprender frases básicas de la lengua",
+      "Ignorar la situación lingüística porque no es responsabilidad del docente de telesecundaria"
+    ],
+    "respuesta": 1,
+    "explicacion": "Validar la lengua materna en el aula, buscar mediadores lingüísticos y mostrar disposición de aprendizaje genera confianza y participación.",
+    "cita": "SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "Para desarrollar el pensamiento crítico en adolescentes de telesecundaria, lo más importante es que el docente:",
+    "opciones": [
+      "Proporcione todas las respuestas correctas para que los alumnos las memoricen",
+      "Formule preguntas abiertas que generen debate, análisis y búsqueda autónoma de respuestas fundamentadas",
+      "Evite temas controversiales para no generar conflictos en el aula"
+    ],
+    "respuesta": 1,
+    "explicacion": "El pensamiento crítico se desarrolla con preguntas que desafíen, no con respuestas dadas; el debate y la indagación son fundamentales.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordena las etapas de una indagación científica escolar:",
+    "opciones": [
+      "1) Formular pregunta de investigación, 2) Diseñar procedimiento de recolección de datos, 3) Analizar resultados y comunicar conclusiones",
+      "1) Comunicar conclusiones, 2) Recolectar datos, 3) Formular la pregunta",
+      "1) Buscar la respuesta en internet, 2) Copiarla en el cuaderno, 3) Entregar al docente"
+    ],
+    "respuesta": 0,
+    "explicacion": "La indagación científica sigue un orden lógico: pregunta, diseño de investigación, recolección, análisis y comunicación de hallazgos.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la diferencia fundamental entre evaluación formativa y evaluación sumativa?",
+    "opciones": [
+      "La formativa ocurre durante el proceso para mejorar el aprendizaje; la sumativa al final para certificar logros",
+      "La formativa usa números y la sumativa usa letras",
+      "La formativa es para alumnos de bajo rendimiento y la sumativa para alumnos avanzados"
+    ],
+    "respuesta": 0,
+    "explicacion": "La evaluación formativa es procesual y orientada a la mejora; la sumativa es conclusiva y certifica el nivel de logro alcanzado.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la diferencia entre integración educativa e inclusión educativa?",
+    "opciones": [
+      "Son sinónimos que se usan indistintamente en la normativa actual",
+      "La integración adapta al alumno al sistema existente; la inclusión transforma el sistema para atender la diversidad",
+      "La inclusión es solo para alumnos con discapacidad; la integración es para todos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La inclusión supera la integración: no es el alumno quien se adapta sino el sistema el que se transforma para responder a la diversidad.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La regulación emocional en adolescentes se refiere a la capacidad de:",
+    "opciones": [
+      "Reprimir todas las emociones negativas para mantener un comportamiento socialmente aceptable",
+      "Identificar, comprender y manejar las propias emociones de forma constructiva",
+      "Expresar todas las emociones sin filtro como forma de autenticidad personal"
+    ],
+    "respuesta": 1,
+    "explicacion": "Regular emociones no es reprimirlas ni expresarlas sin control, sino identificarlas, comprenderlas y canalizarlas constructivamente.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Un alumno de segundo grado de telesecundaria frecuentemente expresa que no tiene sentido planear el futuro porque 'en su comunidad nadie sale adelante'. Sus calificaciones son buenas pero no muestra interés en continuar estudiando.",
+    "pregunta": "¿Qué intervención docente es más pertinente?",
+    "opciones": [
+      "Ignorar sus comentarios porque tiene buen rendimiento académico",
+      "Trabajar la construcción de proyecto de vida mostrando referentes cercanos que ampliaron sus oportunidades y conectar sus fortalezas con posibilidades reales",
+      "Decirle que tiene la obligación de seguir estudiando y que su actitud es incorrecta"
+    ],
+    "respuesta": 1,
+    "explicacion": "El proyecto de vida se fortalece con referentes cercanos alcanzables y vinculación entre fortalezas personales y oportunidades concretas.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La mediación escolar entre pares es una estrategia donde ________ facilita el diálogo entre las partes en conflicto.",
+    "opciones": [
+      "un alumno capacitado como mediador",
+      "el director de la escuela exclusivamente",
+      "un abogado externo contratado por la institución"
+    ],
+    "respuesta": 0,
+    "explicacion": "La mediación entre pares capacita a alumnos como mediadores que facilitan el diálogo entre compañeros en conflicto con imparcialidad.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la estrategia más efectiva para prevenir el ciberacoso en telesecundaria?",
+    "opciones": [
+      "Prohibir todo uso de celulares y redes sociales por parte de los alumnos",
+      "Educar en ciudadanía digital, empatía en línea y consecuencias del ciberacoso, promoviendo el uso responsable de la tecnología",
+      "Monitorear secretamente las cuentas de redes sociales de todos los alumnos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La prevención efectiva es educativa: desarrollar ciudadanía digital y empatía; las prohibiciones totales o la vigilancia secreta son contraproducentes.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, un docente decide que como castigo por mal comportamiento, un alumno de 13 años no podrá participar en la clase de educación física durante un mes y permanecerá sentado viendo a sus compañeros.",
+    "pregunta": "Según la LGDNNA, esta acción del docente:",
+    "opciones": [
+      "Es una medida disciplinaria válida y proporcional al comportamiento",
+      "Vulnera el derecho del alumno al juego, esparcimiento y actividades recreativas propias de su edad",
+      "Es correcta porque el docente tiene autoridad total sobre las sanciones en su aula"
+    ],
+    "respuesta": 1,
+    "explicacion": "La LGDNNA reconoce el derecho al descanso, esparcimiento y juego; privar de actividad física como castigo vulnera estos derechos.",
+    "cita": "LGDNNA, Art. 60, 2014."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El principio de no discriminación en la LGDNNA establece que ningún NNA puede ser excluido por:",
+    "opciones": [
+      "Solo por motivos de discapacidad física visible",
+      "Origen étnico, género, discapacidad, condición social, religión, orientación sexual, situación migratoria u cualquier otra condición",
+      "Bajo rendimiento académico comprobado mediante evaluaciones estandarizadas"
+    ],
+    "respuesta": 1,
+    "explicacion": "La no discriminación es amplia e incluye toda condición que pueda generar exclusión; la lista es enunciativa, no limitativa.",
+    "cita": "LGDNNA, Art. 39, 2014."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una comunidad rural, la asamblea comunitaria decide que los adolescentes deben participar en el tequio (trabajo comunitario) un día entre semana, lo cual coincide con horario escolar. Varios alumnos faltan ese día.",
+    "pregunta": "¿Cómo debe abordar el docente esta situación?",
+    "opciones": [
+      "Reportar a las familias ante el DIF por impedir la asistencia escolar",
+      "Dialogar con la asamblea comunitaria para buscar alternativas que respeten tanto el derecho a la educación como las prácticas culturales",
+      "Aceptar las faltas sin cuestionamiento porque el tequio es una tradición cultural inamovible"
+    ],
+    "respuesta": 1,
+    "explicacion": "El enfoque intercultural busca armonizar derechos educativos con prácticas culturales mediante diálogo respetuoso, no imposición ni aceptación acrítica.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La escuela como centro de la comunidad en telesecundarias rurales implica que el espacio escolar funciona como ________ para el desarrollo comunitario.",
+    "opciones": [
+      "un espacio cerrado exclusivamente para actividades curriculares formales",
+      "un punto de encuentro, diálogo y articulación entre saberes escolares y comunitarios",
+      "un centro de control social donde se vigila el comportamiento de las familias"
+    ],
+    "respuesta": 1,
+    "explicacion": "En comunidades rurales, la telesecundaria frecuentemente es el único espacio público educativo y debe articular escuela y comunidad.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria en una comunidad costera elabora su programa analítico. Identifica que la pesca artesanal es la actividad económica principal y que los alumnos poseen conocimientos sobre mareas, ecosistemas marinos y técnicas de conservación de pescado.",
+    "pregunta": "¿Cómo debe integrar estos saberes en el programa analítico?",
+    "opciones": [
+      "Mencionarlos como dato curioso en la introducción del programa sin vincularlos a los PDA",
+      "Articularlos como contenidos locales que dialogan con los PDA de campos formativos como Saberes y Pensamiento Científico y De lo Humano y lo Comunitario",
+      "Sustituir completamente los contenidos del programa sintético por los saberes de pesca"
+    ],
+    "respuesta": 1,
+    "explicacion": "El programa analítico integra saberes locales en diálogo con los PDA nacionales; no los subordina ni sustituye el currículo sino que lo enriquece.",
+    "cita": "SEP, Avance del contenido para el libro del docente, 2022."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordena los momentos de una secuencia didáctica contextualizada para telesecundaria:",
+    "opciones": [
+      "1) Inicio: recuperación de saberes previos y situación detonadora, 2) Desarrollo: actividades de profundización con recursos TV/audiovisuales y trabajo colaborativo, 3) Cierre: socialización de productos y evaluación formativa",
+      "1) Examen diagnóstico escrito, 2) Dictado de contenidos, 3) Examen final",
+      "1) Proyección de video completo, 2) Copia del resumen del libro, 3) Firma de cuaderno"
+    ],
+    "respuesta": 0,
+    "explicacion": "La secuencia didáctica en telesecundaria integra inicio motivador, desarrollo con mediación audiovisual y cierre con evaluación formativa.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La alfabetización digital en telesecundaria busca que los adolescentes desarrollen la capacidad de ________ la información que encuentran en medios digitales.",
+    "opciones": [
+      "memorizar y reproducir textualmente toda",
+      "buscar, seleccionar, evaluar críticamente y utilizar éticamente",
+      "ignorar completamente porque no es confiable"
+    ],
+    "respuesta": 1,
+    "explicacion": "La alfabetización digital implica competencias de búsqueda, selección, evaluación crítica y uso ético de información digital.",
+    "cita": "SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria crea un grupo de WhatsApp con sus alumnos para enviar materiales complementarios, resolver dudas y organizar actividades. Algunos padres se quejan de que sus hijos pasan mucho tiempo en el celular 'por la escuela'.",
+    "pregunta": "¿Cuál es la mejor práctica para el uso de esta herramienta?",
+    "opciones": [
+      "Eliminar el grupo inmediatamente y no usar ninguna tecnología de comunicación",
+      "Establecer normas claras de uso: horarios específicos, contenido exclusivamente académico y comunicación con familias sobre el propósito educativo",
+      "Ignorar las quejas de los padres porque es responsabilidad del alumno autorregularse"
+    ],
+    "respuesta": 1,
+    "explicacion": "El uso educativo de tecnología requiere normas claras de uso responsable y comunicación transparente con familias sobre su propósito.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cómo debe abordarse la diversidad lingüística en una telesecundaria donde conviven hablantes de distintas lenguas originarias?",
+    "opciones": [
+      "Ignorar las diferencias lingüísticas y usar exclusivamente el español como lengua franca",
+      "Crear un ambiente donde todas las lenguas sean valoradas, visibilizadas y utilizadas como recursos de aprendizaje mutuo",
+      "Separar a los alumnos por grupo lingüístico para enseñarles en su lengua materna exclusivamente"
+    ],
+    "respuesta": 1,
+    "explicacion": "La interculturalidad valora todas las lenguas presentes; la diversidad lingüística es un recurso pedagógico, no un problema a eliminar.",
+    "cita": "SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El concepto de 'diálogo de saberes' en la NEM implica:",
+    "opciones": [
+      "Que el docente corrija los conocimientos comunitarios erróneos y los sustituya por ciencia",
+      "Un encuentro horizontal entre conocimientos de distintas matrices culturales donde ninguno se considera superior",
+      "Que los alumnos solo aprendan contenidos de su propia cultura sin acceder al conocimiento universal"
+    ],
+    "respuesta": 1,
+    "explicacion": "El diálogo de saberes es un encuentro horizontal entre epistemologías; ningún conocimiento se impone jerárquicamente sobre otro.",
+    "cita": "SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, después de ver un programa televisivo sobre cambio climático, el docente organiza un debate donde los alumnos deben argumentar posiciones diferentes usando evidencias del video y de investigación adicional.",
+    "pregunta": "¿Qué habilidad del pensamiento crítico se fortalece principalmente con esta actividad?",
+    "opciones": [
+      "La memorización de datos sobre cambio climático",
+      "La construcción y evaluación de argumentos sustentados en evidencia",
+      "La obediencia al punto de vista del docente sobre el tema"
+    ],
+    "respuesta": 1,
+    "explicacion": "El debate con uso de evidencias desarrolla la argumentación crítica: construir, sustentar y evaluar posiciones con fundamento.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El pensamiento científico en adolescentes se diferencia del pensamiento mágico porque se basa en ________ como criterio de validez.",
+    "opciones": [
+      "la autoridad de quien afirma algo",
+      "la evidencia empírica verificable y el razonamiento lógico",
+      "la tradición y la repetición de creencias"
+    ],
+    "respuesta": 1,
+    "explicacion": "El pensamiento científico fundamenta sus afirmaciones en evidencia empírica y lógica, no en autoridad, tradición ni creencias no verificables.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria utiliza 'tickets de salida': al final de cada clase, los alumnos escriben en un papel qué aprendieron y qué dudas les quedaron. El docente los revisa y ajusta la siguiente sesión según las respuestas.",
+    "pregunta": "Este instrumento corresponde a una técnica de:",
+    "opciones": [
+      "Evaluación sumativa para asignar calificaciones bimestrales",
+      "Evaluación formativa que permite retroalimentación inmediata y ajuste de la enseñanza",
+      "Control disciplinario para verificar que los alumnos pusieron atención"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los tickets de salida son una técnica formativa rápida que permite al docente obtener información inmediata para ajustar su práctica.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Un alumno con discapacidad intelectual leve asiste a una telesecundaria. El docente anterior lo sentaba aparte y le daba actividades de colorear mientras el resto del grupo trabajaba contenidos curriculares.",
+    "pregunta": "Desde el enfoque inclusivo, ¿qué debe hacer el nuevo docente?",
+    "opciones": [
+      "Continuar con la misma estrategia porque así el alumno no interrumpe a los demás",
+      "Integrarlo a las actividades del grupo con ajustes razonables en el nivel de complejidad y apoyos específicos",
+      "Solicitar su cambio a un Centro de Atención Múltiple porque la telesecundaria no es para él"
+    ],
+    "respuesta": 1,
+    "explicacion": "La inclusión implica participación en las mismas actividades con ajustes razonables; la segregación dentro del aula no es inclusión.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué es importante que el docente de telesecundaria conozca las características del desarrollo adolescente?",
+    "opciones": [
+      "Para etiquetar y diagnosticar trastornos de conducta en sus alumnos",
+      "Para comprender sus comportamientos, ajustar estrategias pedagógicas y ofrecer acompañamiento pertinente a su etapa de vida",
+      "Para justificar el bajo rendimiento académico como 'cosas de la edad' sin intervenir"
+    ],
+    "respuesta": 1,
+    "explicacion": "Conocer el desarrollo adolescente permite al docente contextualizar conductas, diseñar intervenciones pertinentes y acompañar formativamente.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, un docente implementa 'círculos de diálogo' semanales donde los alumnos expresan cómo se sienten, resuelven conflictos del grupo y proponen acuerdos de convivencia. Un padre se queja de que se pierde tiempo de clase.",
+    "pregunta": "¿Cómo justifica el docente esta práctica?",
+    "opciones": [
+      "No puede justificarla porque efectivamente resta tiempo a los contenidos académicos prioritarios",
+      "Los círculos de diálogo son una estrategia de prevención primaria de violencia que desarrolla habilidades socioemocionales y mejora el clima escolar, lo cual favorece el aprendizaje",
+      "Es un requisito administrativo obligatorio que no tiene fundamento pedagógico"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los círculos de diálogo son prevención primaria: desarrollan habilidades socioemocionales que mejoran la convivencia y las condiciones para aprender.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La LGDNNA establece que las medidas disciplinarias en la escuela deben ser:",
+    "opciones": [
+      "Lo más severas posible para garantizar la obediencia",
+      "Compatibles con la dignidad del NNA, proporcionales, formativas y respetuosas de sus derechos",
+      "Definidas exclusivamente por los padres de familia sin intervención de la escuela"
+    ],
+    "respuesta": 1,
+    "explicacion": "La LGDNNA exige que toda medida disciplinaria respete la dignidad, sea proporcional y tenga carácter formativo, nunca degradante.",
+    "cita": "LGDNNA, Art. 57 y 58, 2014."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una telesecundaria de comunidad con alta migración a Estados Unidos, varios alumnos reciben remesas y tienen acceso a bienes materiales pero carecen de acompañamiento emocional y supervisión adulta. Algunos presentan conductas de riesgo.",
+    "pregunta": "¿Qué rol debe asumir la escuela en este contexto?",
+    "opciones": [
+      "Solo el académico, porque los problemas familiares no son responsabilidad escolar",
+      "Funcionar como red de contención socioemocional, fortalecer vínculos con cuidadores sustitutos y articular apoyos institucionales",
+      "Contactar a los padres en el extranjero para exigirles que regresen"
+    ],
+    "respuesta": 1,
+    "explicacion": "En contextos de migración, la escuela debe ser red de contención y articular apoyos, reconociendo su papel en el bienestar integral del alumno.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En el enfoque de corresponsabilidad, las reuniones con familias de telesecundaria deben privilegiar:",
+    "opciones": [
+      "La entrega de boletas de calificaciones y listado de quejas sobre el alumno",
+      "El diálogo bidireccional donde se comparten avances, se escuchan preocupaciones familiares y se construyen acuerdos de apoyo mutuo",
+      "La lectura del reglamento escolar y las amenazas de sanciones por incumplimiento"
+    ],
+    "respuesta": 1,
+    "explicacion": "La corresponsabilidad se construye en espacios de diálogo horizontal, no de comunicación unidireccional o punitiva.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Los ejes articuladores en el Plan 2022 funcionan como:",
+    "opciones": [
+      "Contenidos adicionales que se agregan al programa sintético",
+      "Temas transversales que conectan los campos formativos y dan sentido integral al currículo",
+      "Indicadores de evaluación para cada campo formativo"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los ejes articuladores son transversales: inclusión, pensamiento crítico, interculturalidad, igualdad de género, vida saludable, artes y naturaleza.",
+    "cita": "SEP, Plan de Estudio 2022, Marco Curricular."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La función del docente de telesecundaria frente al recurso televisivo NO es:",
+    "opciones": [
+      "Contextualizar el contenido del programa a la realidad de sus alumnos",
+      "Ser un mero operador técnico que enciende y apaga la televisión sin intervención pedagógica",
+      "Diseñar actividades previas y posteriores al video que profundicen el aprendizaje"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente no es operador técnico sino mediador pedagógico que contextualiza, profundiza y genera aprendizaje a partir del recurso.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En una telesecundaria, un alumno afrodescendiente es objeto de burlas y comentarios racistas por parte de compañeros. Los demás alumnos ríen y normalizan la situación diciendo que 'es broma'.",
+    "pregunta": "¿Qué enfoque debe adoptar el docente?",
+    "opciones": [
+      "Aceptar que son bromas inofensivas propias de la edad y no intervenir",
+      "Intervenir inmediatamente para detener la situación, reflexionar con el grupo sobre racismo y discriminación, y generar compromisos de respeto",
+      "Castigar a los agresores sin explicación y pasar al siguiente tema de clase"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente debe intervenir ante toda forma de discriminación y convertirla en oportunidad educativa sobre respeto e interculturalidad.",
+    "cita": "SEP, Marco curricular NEM, 2022; LGDNNA, Art. 39."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La capacidad de distinguir entre hechos y opiniones es una habilidad fundamental del:",
+    "opciones": [
+      "Pensamiento mágico",
+      "Pensamiento crítico",
+      "Pensamiento dogmático"
+    ],
+    "respuesta": 1,
+    "explicacion": "Distinguir hechos verificables de opiniones subjetivas es una competencia básica del pensamiento crítico necesaria para evaluar información.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente pide a sus alumnos que diseñen un experimento para demostrar si una planta de la región tiene propiedades medicinales como afirman los abuelos de la comunidad. Los alumnos proponen un grupo control y un grupo experimental.",
+    "pregunta": "Esta actividad desarrolla:",
+    "opciones": [
+      "Solo respeto a los saberes comunitarios sin componente científico",
+      "Habilidades de diseño experimental y diálogo entre conocimiento empírico comunitario y método científico",
+      "Rechazo a los saberes tradicionales al someterlos a prueba"
+    ],
+    "respuesta": 1,
+    "explicacion": "Investigar científicamente un saber comunitario no lo rechaza sino que establece un diálogo productivo entre formas de conocimiento.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La retroalimentación formativa efectiva debe ser ________, específica y orientada a la mejora.",
+    "opciones": [
+      "oportuna (cercana al momento del desempeño)",
+      "general y ambigua para no presionar al alumno",
+      "exclusivamente numérica y comparativa entre alumnos"
+    ],
+    "respuesta": 0,
+    "explicacion": "La retroalimentación efectiva es oportuna (a tiempo), específica (señala qué mejorar) y orientada a la acción (indica cómo mejorar).",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El modelo social de la discapacidad, adoptado por la educación inclusiva, sostiene que:",
+    "opciones": [
+      "La discapacidad es exclusivamente un problema médico individual que debe curarse",
+      "La discapacidad resulta de la interacción entre las limitaciones de la persona y las barreras del entorno",
+      "Las personas con discapacidad no pueden aprender y deben estar en instituciones separadas"
+    ],
+    "respuesta": 1,
+    "explicacion": "El modelo social ubica la discapacidad en la interacción persona-entorno; son las barreras del contexto las que discapacitan, no solo la condición individual.",
+    "cita": "Convención sobre los Derechos de las Personas con Discapacidad, 2006."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Una alumna de tercer grado de telesecundaria que siempre fue excelente estudiante comienza a bajar su rendimiento, se aísla, pierde interés en actividades y ha expresado ideas de desesperanza. El cambio ha sido gradual en las últimas semanas.",
+    "pregunta": "¿Qué debe hacer el docente como primera acción?",
+    "opciones": [
+      "Presionarla académicamente para que recupere su nivel anterior de rendimiento",
+      "Acercarse con empatía para conversar en un espacio seguro, y si detecta señales de alerta, canalizar a un profesional de salud mental",
+      "Esperar a que pase la etapa porque es normal en la adolescencia bajar el rendimiento"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los cambios significativos de conducta requieren acercamiento empático y, ante señales de riesgo, canalización profesional oportuna.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La prevención primaria de la violencia escolar se enfoca en:",
+    "opciones": [
+      "Atender los casos de violencia después de que ocurren",
+      "Crear condiciones que eviten la aparición de la violencia: clima escolar positivo, habilidades socioemocionales y normas claras de convivencia",
+      "Sancionar ejemplarmente a los primeros agresores para disuadir a los demás"
+    ],
+    "respuesta": 1,
+    "explicacion": "La prevención primaria actúa antes de que ocurra la violencia, creando condiciones protectoras y desarrollando competencias socioemocionales.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordena la ruta de actuación del docente ante sospecha de abuso o maltrato hacia un alumno:",
+    "opciones": [
+      "1) Observar y documentar indicadores sin interrogar al menor, 2) Reportar a la dirección escolar y autoridades de protección, 3) Dar seguimiento al caso sin revictimizar",
+      "1) Interrogar al alumno frente al grupo, 2) Confrontar a la familia, 3) Esperar a ver si mejora",
+      "1) Pedir pruebas al alumno, 2) Buscar testigos entre compañeros, 3) Publicar el caso en redes"
+    ],
+    "respuesta": 0,
+    "explicacion": "La ruta correcta es: documentar sin interrogar, reportar a autoridades competentes y dar seguimiento sin revictimizar al menor.",
+    "cita": "LGDNNA, Art. 12 y 122; SEP-SIPINNA, Protocolos de actuación, 2020."
+  },
+  {
+    "fuente": "Marco para la convivencia escolar y trabajo con familias",
+    "categoria": "Trabajo con familias en contextos rurales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una comunidad rural, una madre analfabeta se siente intimidada por las reuniones escolares y nunca asiste. Su hijo tiene buen rendimiento pero ella no sabe cómo apoyarlo en casa ni se siente capaz de interactuar con el docente.",
+    "pregunta": "¿Qué estrategia favorece la inclusión de esta madre?",
+    "opciones": [
+      "Enviarle notas escritas formales exigiéndole asistencia obligatoria a reuniones",
+      "Buscar formas alternativas de comunicación (visitas domiciliarias, comunicación oral, apoyo de otros familiares) y valorar sus saberes como contribución educativa",
+      "Designar a otro familiar alfabetizado como responsable y excluir a la madre"
+    ],
+    "respuesta": 1,
+    "explicacion": "La inclusión de familias requiere adaptar la comunicación a sus condiciones y reconocer que todos los cuidadores pueden contribuir desde sus saberes.",
+    "cita": "SEP, Marco para la convivencia escolar, 2022."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "La principal diferencia entre el programa sintético y el programa analítico es que:",
+    "opciones": [
+      "El sintético es nacional y prescriptivo; el analítico es la contextualización que hace la escuela a su realidad específica",
+      "El sintético es opcional y el analítico es obligatorio",
+      "El sintético es para primaria y el analítico es exclusivo de secundaria"
+    ],
+    "respuesta": 0,
+    "explicacion": "El programa sintético es el referente nacional; el analítico es la contextualización que cada escuela realiza según su comunidad y estudiantes.",
+    "cita": "SEP, Avance del contenido para el libro del docente, 2022."
+  },
+  {
+    "fuente": "La TV educativa y recursos digitales en telesecundaria",
+    "categoria": "Uso de tecnología educativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "En el contexto actual de telesecundaria, ¿cuál es el principal reto del docente respecto a la tecnología educativa?",
+    "opciones": [
+      "Evitar todo tipo de tecnología para volver a métodos puramente tradicionales",
+      "Integrar pedagógicamente los recursos disponibles (TV, videos, celular, internet intermitente) como mediadores del aprendizaje, no como fines en sí mismos",
+      "Exigir que el gobierno dote de equipos de última generación antes de poder enseñar"
+    ],
+    "respuesta": 1,
+    "explicacion": "El reto es la integración pedagógica de la tecnología disponible (por limitada que sea) como mediadora del aprendizaje significativo.",
+    "cita": "SEP, Libro para el maestro. Telesecundaria, 2023."
+  },
+  {
+    "fuente": "Interculturalidad crítica en educación básica - NEM",
+    "categoria": "Interculturalidad y lenguas indígenas",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria nota que en los libros de texto y programas televisivos no hay representación de la cultura de los pueblos originarios de su comunidad. Los alumnos expresan que su cultura 'no es importante porque no sale en la tele'.",
+    "pregunta": "¿Qué acción intercultural es más pertinente?",
+    "opciones": [
+      "Aceptar que los materiales oficiales reflejan lo que es culturalmente relevante a nivel nacional",
+      "Crear materiales complementarios con la participación de la comunidad que visibilicen su cultura y usarlos junto con los recursos oficiales",
+      "Dejar de usar los materiales oficiales por considerarlos discriminatorios"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente debe complementar los materiales oficiales con producción local que visibilice las culturas presentes, sin abandonar el currículo nacional.",
+    "cita": "SEP, Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Pensamiento crítico y científico - Saberes y Pensamiento Científico Fase 6",
+    "categoria": "Pensamiento crítico y científico en adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la relación entre pensamiento científico y saberes comunitarios en la NEM?",
+    "opciones": [
+      "Son incompatibles: el pensamiento científico invalida los saberes comunitarios",
+      "Son complementarios: pueden dialogar productivamente reconociendo la validez de ambas formas de conocimiento",
+      "Son idénticos: no hay diferencia entre ciencia y conocimiento tradicional"
+    ],
+    "respuesta": 1,
+    "explicacion": "La NEM promueve el diálogo productivo entre ciencia y saberes comunitarios, reconociendo que son formas complementarias de entender el mundo.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023; Marco curricular NEM, 2022."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En la evaluación formativa, los errores del estudiante se consideran:",
+    "opciones": [
+      "Fracasos que deben penalizarse con calificaciones bajas para motivar la mejora",
+      "Oportunidades de aprendizaje que proporcionan información sobre el proceso de comprensión del alumno",
+      "Evidencia de que el estudiante no tiene capacidad para el nivel educativo"
+    ],
+    "respuesta": 1,
+    "explicacion": "En la evaluación formativa, el error es una fuente de información valiosa sobre cómo piensa el alumno y qué ajustes requiere la enseñanza.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El principio de 'múltiples formas de implicación' del DUA se refiere a:",
+    "opciones": [
+      "Proporcionar diferentes maneras de motivar y mantener el interés y la persistencia del estudiante",
+      "Ofrecer múltiples fuentes bibliográficas para cada tema del currículo",
+      "Involucrar a múltiples docentes en la enseñanza de cada contenido"
+    ],
+    "respuesta": 0,
+    "explicacion": "La implicación en el DUA aborda la motivación: ofrece opciones para captar interés, mantener esfuerzo y desarrollar autorregulación.",
+    "cita": "CAST, Diseño Universal para el Aprendizaje, 2018."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente - Marco curricular 2022",
+    "categoria": "Desarrollo socioemocional del adolescente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La empatía como habilidad socioemocional en la adolescencia implica:",
+    "opciones": [
+      "Estar de acuerdo con todo lo que dicen y hacen los demás para evitar conflictos",
+      "La capacidad de comprender y compartir los sentimientos y perspectivas de otros",
+      "Sacrificar las propias necesidades siempre en beneficio de los compañeros"
+    ],
+    "respuesta": 1,
+    "explicacion": "La empatía es la capacidad de comprender perspectivas y emociones ajenas; no implica sumisión ni sacrificio del propio bienestar.",
+    "cita": "SEP, Marco curricular 2022."
+  },
+  {
+    "fuente": "Protocolo para la prevención y atención de la violencia escolar SEP",
+    "categoria": "Prevención de violencia escolar",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "Un grupo de alumnas de telesecundaria reporta que un compañero les envía mensajes con contenido sexual no solicitado por redes sociales. Las alumnas se sienten incómodas pero no saben si reportarlo porque 'no es tan grave' según algunas compañeras.",
+    "pregunta": "¿Cuál es la responsabilidad del docente al enterarse?",
+    "opciones": [
+      "Minimizar la situación si las alumnas no quieren formalizar una queja",
+      "Tomar en serio el reporte, documentar, activar protocolos y trabajar con el grupo sobre consentimiento digital y respeto",
+      "Decirle al alumno que deje de hacerlo y considerar el asunto resuelto con la advertencia verbal"
+    ],
+    "respuesta": 1,
+    "explicacion": "El envío de contenido sexual no solicitado es violencia digital; el docente debe activar protocolos y abordar educativamente el tema del consentimiento.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar."
+  },
+  {
+    "fuente": "LGDNNA - Ley General de los Derechos de Niñas, Niños y Adolescentes",
+    "categoria": "Marco normativo específico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué es importante que el docente de telesecundaria conozca la LGDNNA?",
+    "opciones": [
+      "Porque solo es relevante para abogados y jueces, no para docentes",
+      "Porque le permite identificar situaciones de vulneración de derechos, actuar conforme a la ley y garantizar un entorno protector para sus alumnos",
+      "Porque la ley le otorga poderes punitivos sobre las familias de los alumnos"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente como garante cotidiano de derechos necesita conocer la LGDNNA para identificar vulneraciones y activar rutas de protección.",
+    "cita": "LGDNNA, 2014."
+  },
+  {
+    "fuente": "Programa Analítico y planeación didáctica 2022",
+    "categoria": "Planeación didáctica contextualizada",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En el CTE, los docentes de una telesecundaria construyen colectivamente el programa analítico. Identifican que la problemática principal de la comunidad es la escasez de agua. Deciden que este será el eje para un proyecto interdisciplinario.",
+    "pregunta": "¿Qué característica del programa analítico se ejemplifica?",
+    "opciones": [
+      "Su carácter prescriptivo y cerrado que no admite modificaciones locales",
+      "Su naturaleza contextualizada que parte de problemáticas reales de la comunidad como articulador curricular",
+      "Su función exclusivamente administrativa para cumplir requisitos de supervisión"
+    ],
+    "respuesta": 1,
+    "explicacion": "El programa analítico parte de la realidad comunitaria como articulador; las problemáticas locales son contenido legítimo y relevante.",
+    "cita": "SEP, Avance del contenido para el libro del docente, 2022."
+  },
+  {
+    "fuente": "Lineamientos de Evaluación Formativa SEP 2023",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria evalúa un proyecto de investigación grupal. En lugar de asignar una sola calificación al equipo, usa una rúbrica analítica que evalúa: investigación individual, colaboración, producto final y presentación oral. Cada alumno recibe retroalimentación diferenciada.",
+    "pregunta": "¿Qué ventaja ofrece esta forma de evaluar?",
+    "opciones": [
+      "Ahorra tiempo al docente porque califica menos trabajos",
+      "Permite identificar fortalezas y áreas de mejora específicas de cada alumno dentro del trabajo colectivo",
+      "Genera competencia negativa entre los miembros del equipo"
+    ],
+    "respuesta": 1,
+    "explicacion": "La rúbrica analítica en trabajo grupal permite evaluación individualizada dentro de lo colectivo, dando retroalimentación precisa a cada alumno.",
+    "cita": "SEP, Lineamientos de Evaluación Formativa, 2023."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva 2019",
+    "categoria": "Inclusión en telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En una telesecundaria rural, un alumno con trastorno del espectro autista tiene dificultades con los cambios de rutina. El docente nota que los días que hay modificaciones en el horario (asambleas, eventos) el alumno presenta crisis de ansiedad.",
+    "pregunta": "¿Qué ajuste razonable puede implementar el docente?",
+    "opciones": [
+      "Excluir al alumno de todos los eventos especiales para evitar sus crisis",
+      "Anticipar verbalmente y con apoyos visuales los cambios de rutina, preparar al alumno gradualmente y tener un plan de contención",
+      "No hacer ningún ajuste porque el alumno debe aprender a adaptarse como todos"
+    ],
+    "respuesta": 1,
+    "explicacion": "Anticipar cambios con apoyos visuales y preparación gradual es un ajuste razonable que previene crisis sin excluir al alumno.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  }
+]

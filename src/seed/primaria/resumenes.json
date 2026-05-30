@@ -1,0 +1,198 @@
+{
+  "Plan de Estudio 2022 en Primaria": {
+    "titulo": "Plan de Estudio 2022 en Primaria",
+    "que_es": "Plan curricular vigente para educación primaria. Organiza el trayecto de 1° a 6° en tres fases (3, 4 y 5), articula 4 campos formativos y 7 ejes articuladores.",
+    "ideas_clave": [
+      "La primaria abarca Fase 3 (1°-2°), Fase 4 (3°-4°) y Fase 5 (5°-6°), cada una con sus Programas Sintéticos específicos.",
+      "Los campos formativos NO se sustituyen por asignaturas tradicionales: Lenguajes, Saberes y Pensamiento Científico, Ética/Naturaleza/Sociedades, De lo Humano y lo Comunitario se mantienen en toda la primaria.",
+      "Los 7 ejes articuladores son transversales a todos los grados y campos: inclusión, pensamiento crítico, interculturalidad, igualdad de género, vida saludable, apropiación de las culturas, y artes.",
+      "Tres niveles de concreción curricular: Programa Sintético (SEP), Programa Analítico (colectivo docente) y Planeación didáctica (docente de aula).",
+      "Los proyectos comunitarios articulan contenidos curriculares con problemáticas reales de la comunidad-territorio.",
+      "El trayecto formativo implica continuidad entre fases: no hay rupturas al pasar de un grado a otro."
+    ],
+    "no_es": "No vuelve a las asignaturas del Plan 2017. No prescribe un orden estricto ni metodología única.",
+    "errores_comunes": "Pensar que los campos formativos solo aplican en preescolar. Confundir Programa Sintético con Programa Analítico. Tratar cada grado como independiente sin articulación con el anterior."
+  },
+  "Fase 3 — Lectoescritura y exploración": {
+    "titulo": "Fase 3 — 1° y 2° de Primaria",
+    "que_es": "Primeros dos grados de primaria. El juego sigue como mediador del aprendizaje junto con la introducción gradual del estudio sistemático.",
+    "ideas_clave": [
+      "Continuidad con preescolar: se retoman los PDA logrados en Fase 2 para construir sobre ellos.",
+      "La lectoescritura se desarrolla como proceso (no como producto terminado en un mes): escritura espontánea, convencional gradual, comprensión lectora progresiva.",
+      "El pensamiento matemático se trabaja con material concreto: conteo, nociones de número, primeras operaciones con referentes tangibles.",
+      "La exploración del entorno natural y social utiliza la curiosidad y la observación directa como punto de partida.",
+      "El juego NO se abandona al entrar a primaria: sigue siendo mediador del aprendizaje en Fase 3.",
+      "Se trabaja en proyectos que articulan los contenidos con la vida cotidiana y la comunidad."
+    ],
+    "no_es": "No es un corte abrupto con preescolar. No se exige lectoescritura convencional desde el primer día.",
+    "errores_comunes": "Presionar la lectoescritura convencional sin proceso. Abandonar el juego como herramienta de aprendizaje. No articular con lo trabajado en Fase 2."
+  },
+  "Fase 4 — Consolidación lectora y operaciones": {
+    "titulo": "Fase 4 — 3° y 4° de Primaria",
+    "que_es": "Consolidación de habilidades fundamentales: lectoescritura fluida, operaciones aritméticas, y comprensión científica del entorno.",
+    "ideas_clave": [
+      "La lectura pasa de la decodificación a la comprensión: se trabajan estrategias de comprensión, inferencia y producción textual con diversos géneros.",
+      "Las operaciones aritméticas (suma, resta, multiplicación, división) se consolidan con comprensión conceptual, no solo algorítmica.",
+      "Las ciencias naturales se abordan desde la observación, experimentación y registro: el pensamiento científico se construye haciendo ciencia.",
+      "Desarrollo cognitivo: el niño está en pensamiento operatorio concreto (Piaget) — necesita referentes tangibles para construir conceptos.",
+      "El campo de Ética, Naturaleza y Sociedades integra historia, geografía y formación cívica sin fragmentarlos en asignaturas separadas.",
+      "El trabajo colaborativo se formaliza: roles, responsabilidades compartidas, producción colectiva."
+    ],
+    "no_es": "No es memorización de tablas y algoritmos sin comprensión. No fragmenta el conocimiento en asignaturas aisladas.",
+    "errores_comunes": "Enseñar operaciones como algoritmos sin comprensión del significado. Trabajar ciencias naturales solo como lectura de libro de texto."
+  },
+  "Fase 5 — Pensamiento abstracto y transición": {
+    "titulo": "Fase 5 — 5° y 6° de Primaria",
+    "que_es": "Grados que consolidan la formación primaria y preparan la transición a secundaria. Introduce pensamiento abstracto progresivo.",
+    "ideas_clave": [
+      "Comienza la transición del pensamiento operatorio concreto al formal: el estudiante empieza a razonar con hipótesis y abstracciones.",
+      "Fracciones, decimales y proporcionalidad se trabajan con comprensión conceptual progresiva, usando representaciones múltiples.",
+      "Historia y geografía se profundizan: México, América, mundo. Se trabajan con pensamiento crítico, no como memorización de fechas.",
+      "El campo de Lenguajes incluye producción textual compleja: argumentación, exposición, narración con estructura definida.",
+      "Se fortalece la autonomía del estudiante: autoevaluación, autorregulación, planificación del propio aprendizaje.",
+      "La preparación para secundaria no implica adelantar contenidos sino consolidar las herramientas de pensamiento que necesitará."
+    ],
+    "no_es": "No es adelantar contenidos de secundaria. No es solo preparación para un examen de admisión.",
+    "errores_comunes": "Reducir Fase 5 a preparación para el examen de ingreso a secundaria. Enseñar fracciones como algoritmo sin significado."
+  },
+  "Desarrollo cognitivo escolar (6-12 años)": {
+    "titulo": "Desarrollo cognitivo del niño en primaria",
+    "que_es": "Marco teórico sobre cómo se desarrolla el pensamiento del niño durante la edad escolar, fundamentalmente desde Piaget y Vygotsky.",
+    "ideas_clave": [
+      "Pensamiento operatorio concreto (7-11 años): el niño realiza operaciones lógicas pero requiere referentes concretos. Adquiere conservación, reversibilidad, clasificación y seriación.",
+      "Pensamiento operatorio formal (11+ años): capacidad de razonamiento abstracto e hipotético-deductivo. Comienza al final de primaria.",
+      "La Zona de Desarrollo Próximo (Vygotsky) guía la intervención docente: enseñar en lo que el niño puede hacer con ayuda, no en lo que ya domina ni en lo inaccesible.",
+      "El andamiaje se retira progresivamente: preguntas guía → pistas → modelado → hasta que el estudiante resuelve de forma autónoma.",
+      "El desarrollo no es lineal ni uniforme: un mismo grupo puede tener estudiantes en diferentes momentos del desarrollo cognitivo.",
+      "Las herramientas de la mente (escritura, diagramas, lenguaje interior) se formalizan durante la primaria como mediadores del pensamiento."
+    ],
+    "no_es": "El niño que no domina el pensamiento abstracto en 5° no tiene 'rezago': puede estar en su etapa esperada.",
+    "errores_comunes": "Exigir pensamiento abstracto formal a niños de 8 años. Suponer que todos los estudiantes del mismo grado están en la misma etapa."
+  },
+  "Evaluación formativa en primaria": {
+    "titulo": "Evaluación formativa en primaria",
+    "que_es": "Evaluación continua que orienta la mejora del aprendizaje durante el proceso, no al final.",
+    "ideas_clave": [
+      "Dos dimensiones: la del estudiante (autoevaluación, reflexión metacognitiva) y la del docente (ajuste de la enseñanza a partir de evidencias).",
+      "La retroalimentación formativa primero reconoce logros, luego señala áreas de mejora con claridad y sin expresiones de rechazo.",
+      "Instrumentos: rúbricas, listas de cotejo, portafolios, registros de observación, autoevaluación del estudiante.",
+      "Se retroalimenta con la planeación en un ciclo continuo: evaluar → ajustar la enseñanza → evaluar de nuevo.",
+      "En primaria se introduce gradualmente la autoevaluación: el estudiante aprende a reflexionar sobre su propio proceso.",
+      "No se reduce a calificar con número: la función principal es informar para mejorar, no clasificar."
+    ],
+    "no_es": "No es examen al final del bimestre. No es tachar errores en rojo sin explicación. No es solo del docente hacia el alumno.",
+    "errores_comunes": "Confundir evaluación formativa con sumativa. Aplicar solo exámenes escritos. Omitir la retroalimentación positiva."
+  },
+  "Inclusión educativa en primaria": {
+    "titulo": "Inclusión educativa en primaria",
+    "que_es": "Transformación de la escuela para que todos los estudiantes aprendan y participen, eliminando barreras estructurales.",
+    "ideas_clave": [
+      "Inclusión no es solo tener al estudiante con discapacidad en el aula: es transformar las prácticas, materiales y relaciones para que todos aprendan.",
+      "El Diseño Universal para el Aprendizaje (DUA) ofrece múltiples formas de representación, acción y motivación desde el diseño de la clase.",
+      "USAER apoya al docente con asesoría y atención directa; la responsabilidad de la inclusión es de toda la escuela.",
+      "Las barreras para el aprendizaje pueden ser físicas, actitudinales, curriculares o comunicativas: identificarlas es el primer paso.",
+      "La LGE prohíbe negar el ingreso por discapacidad, condición social u origen: la escuela debe generar las condiciones.",
+      "La evaluación diferenciada no es bajar la exigencia: es evaluar los avances del estudiante desde su punto de partida."
+    ],
+    "no_es": "No es solo integrar (aceptar la presencia). No es trabajo exclusivo del especialista de USAER.",
+    "errores_comunes": "Derivar toda la atención a USAER sin participación del docente de grupo. Evaluar con el mismo instrumento sin ajustes."
+  },
+  "Interculturalidad y diversidad": {
+    "titulo": "Interculturalidad y diversidad en primaria",
+    "que_es": "Reconocimiento de México como nación pluricultural y transformación de las relaciones entre culturas en el espacio escolar.",
+    "ideas_clave": [
+      "Interculturalidad crítica: cuestionar relaciones de poder y jerarquías culturales, no solo mostrar 'folclor' de otros pueblos.",
+      "Los saberes comunitarios, indígenas y afromexicanos dialogan con el conocimiento científico sin jerarquía: diálogo de saberes.",
+      "En escuelas con pueblos indígenas, la Educación Intercultural Bilingüe reconoce la lengua materna como base del aprendizaje.",
+      "La igualdad de género se trabaja en la convivencia diaria: distribución de tareas, materiales sin estereotipos, lenguaje incluyente.",
+      "El Plan 2022 parte de la diversidad como riqueza, no como obstáculo: integra la pluralidad al trabajo curricular cotidiano.",
+      "La perspectiva decolonial cuestiona la herencia colonial en saberes e instituciones: sustenta la inclusión y la interculturalidad."
+    ],
+    "no_es": "No es celebrar el Día de los Pueblos Indígenas una vez al año. No es imponer una sola cultura como 'la correcta'.",
+    "errores_comunes": "Reducir la interculturalidad a eventos folclóricos. Invisibilizar a las familias indígenas o afromexicanas del grupo."
+  },
+  "Planeación por proyectos": {
+    "titulo": "Planeación por proyectos en primaria",
+    "que_es": "Estrategia central del Plan 2022 donde el trabajo del aula se organiza en torno a proyectos que articulan campos formativos con la comunidad.",
+    "ideas_clave": [
+      "El proyecto parte de una problemática real de la comunidad-territorio, no de un tema abstracto descontextualizado.",
+      "Articula contenidos de varios campos formativos: un proyecto puede integrar Lenguajes, Saberes Científicos y Ética simultáneamente.",
+      "Incluye fases: identificación del problema, investigación, diseño de solución, implementación y comunicación de resultados.",
+      "Los estudiantes son protagonistas: investigan, proponen, crean y presentan. El docente facilita y acompaña.",
+      "La evaluación del proyecto es formativa y procesual: se evalúan tanto los productos como el proceso de trabajo.",
+      "Los proyectos comunitarios vinculan la escuela con las familias y actores locales."
+    ],
+    "no_es": "No es un trabajo final de investigación individual. No es una actividad desvinculada de los contenidos curriculares.",
+    "errores_comunes": "Diseñar proyectos sin vínculo con la comunidad real. Que solo el docente defina el tema sin participación estudiantil."
+  },
+  "CTE y vida escolar": {
+    "titulo": "CTE y vida escolar en primaria",
+    "que_es": "El Consejo Técnico Escolar como comunidad de aprendizaje y espacio de decisión colegiada para la mejora educativa.",
+    "ideas_clave": [
+      "El CTE es el espacio donde el colectivo docente codiseña el Programa Analítico, toma decisiones pedagógicas y se forma profesionalmente.",
+      "Se concibe como Comunidad de Aprendizaje: reflexión crítica sobre la práctica, diálogo igualitario, compromisos colectivos.",
+      "El PEMC (Programa Escolar de Mejora Continua) se elabora en el CTE con participación de la comunidad escolar.",
+      "La autonomía profesional del colectivo sobre lo pedagógico: la supervisión acompaña, no impone.",
+      "La relación con familias es parte sustantiva del trabajo del CTE: comunicación, corresponsabilidad, participación.",
+      "El proceso de mejora continua tiene fases: planeación, implementación, seguimiento/evaluación y comunicación."
+    ],
+    "no_es": "No es espacio solo administrativo. No se reduce a firmar actas. La supervisora no impone estrategias.",
+    "errores_comunes": "Dedicar las sesiones a trámites administrativos. No comunicar los resultados a la comunidad (dejar el ciclo incompleto)."
+  },
+  "Rol docente en primaria": {
+    "titulo": "Rol docente en la Nueva Escuela Mexicana",
+    "que_es": "El docente como profesional reflexivo, mediador del aprendizaje y agente de transformación social.",
+    "ideas_clave": [
+      "Mediador del aprendizaje: opera en la ZDP del estudiante mediante andamiaje, preguntas, modelado y retroalimentación.",
+      "Profesional reflexivo: analiza críticamente su práctica, la ajusta y la mejora continuamente.",
+      "Agente de transformación: la práctica docente contribuye a construir una sociedad más justa, crítica, solidaria y sustentable.",
+      "Codiseñador curricular: participa activamente en la elaboración del Programa Analítico y la contextualización del currículo.",
+      "Facilitador de la convivencia: construye un ambiente de respeto, inclusión y colaboración. Detecta y atiende situaciones de violencia.",
+      "La LGE reconoce a docentes como agentes fundamentales con derecho a formación, capacitación y actualización."
+    ],
+    "no_es": "No es transmisor de información. No es ejecutor pasivo de un currículo decidido por otros.",
+    "errores_comunes": "Reducir el rol a 'dar clase' sin reflexión. Separar lo pedagógico de lo comunitario."
+  },
+  "Convivencia y prevención de violencia": {
+    "titulo": "Convivencia escolar y prevención de violencia",
+    "que_es": "Marco institucional para la prevención, detección y atención de la violencia en la escuela primaria.",
+    "ideas_clave": [
+      "El Acuerdo 14/12/23 establece protocolo: detectado un caso de acoso, se activa el protocolo (Comité de Convivencia, familia, seguimiento).",
+      "Acoso escolar: agresión intencional, repetida, con desequilibrio de poder. Incluye ciberacoso.",
+      "Los testigos tienen un rol clave: activos (detienen), pasivos (observan), reforzadores (apoyan al agresor). La intervención los incluye.",
+      "La mediación de conflictos es técnica formativa: el docente guía sin imponer, las partes construyen acuerdos.",
+      "El conflicto es oportunidad de aprendizaje, no algo a evitar o silenciar.",
+      "Ante violencia sexual, el personal educativo tiene deber de denuncia bajo el principio de interés superior de la niñez."
+    ],
+    "no_es": "No es discrecional activar el protocolo. No se resuelve 'informalmente' sin notificar al Comité ni a la familia.",
+    "errores_comunes": "Limitar la intervención a agresor-víctima sin considerar testigos. Confundir mediación con castigo."
+  },
+  "Educación socioemocional": {
+    "titulo": "Educación socioemocional en primaria",
+    "que_es": "Desarrollo de competencias para reconocer, comprender y regular emociones, construir relaciones saludables y tomar decisiones responsables.",
+    "ideas_clave": [
+      "Se integra transversalmente en todos los campos formativos, no es una asignatura aislada.",
+      "En primaria baja (Fase 3): reconocer y nombrar emociones, construir vínculos con pares, regular impulsos.",
+      "En primaria alta (Fase 5): empatía compleja, manejo de frustración, resolución autónoma de conflictos, identidad.",
+      "Las emociones cruzan toda la experiencia escolar: el bienestar emocional es condición para el aprendizaje.",
+      "El docente modela la regulación emocional: cómo reacciona ante el conflicto es formativo para el grupo.",
+      "La colaboración con familias es componente sustantivo: la escuela no trabaja sola las competencias socioemocionales."
+    ],
+    "no_es": "No es una hora a la semana de 'educación emocional'. No es sancionar emociones desbordadas.",
+    "errores_comunes": "Aislar lo socioemocional como tema aparte. Castigar la expresión emocional en vez de mediarla."
+  },
+  "Estrategia Nacional Vida Saludable": {
+    "titulo": "Estrategia Nacional Vida Saludable en primaria",
+    "que_es": "Estrategia intersectorial que articula salud con sus determinantes sociales y se concreta como Proyecto Comunitario en el plantel.",
+    "ideas_clave": [
+      "Articula alimentación, actividad física, bienestar emocional, prevención de adicciones y uso responsable de pantallas.",
+      "La cooperativa escolar NO puede vender productos con sellos de advertencia (Acuerdo DOF 2024).",
+      "Frente al uso excesivo de pantallas: proyectos comunitarios con familias, juego al aire libre, reflexión sobre uso de internet.",
+      "La salud es un hecho social, no solo individual: se aborda desde la comunidad-territorio.",
+      "Involucra a familias y comunidad: la escuela no actúa sola en la promoción de la salud.",
+      "La actividad física y el juego son derechos, no premios ni castigos."
+    ],
+    "no_es": "No se reduce a charlas sobre la pirámide alimentaria. La salud no es asunto privado de las familias.",
+    "errores_comunes": "Reducir la Estrategia a alimentación. Quitar el recreo como castigo."
+  }
+}

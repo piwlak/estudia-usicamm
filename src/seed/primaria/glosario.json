@@ -1,0 +1,289 @@
+{
+  "Marco normativo": [
+    {
+      "sigla": "Artículo 3° constitucional",
+      "termino": "Artículo 3° de la Constitución",
+      "definicion": "Establece el derecho a la educación. Caracteriza la educación como universal, inclusiva, pública, gratuita, laica, democrática, nacional, humanista, equitativa, intercultural, integral y de excelencia. Reconoce a las maestras y maestros como agentes fundamentales del proceso educativo."
+    },
+    {
+      "sigla": "LGE",
+      "termino": "Ley General de Educación",
+      "definicion": "Ley federal que reglamenta el artículo 3° constitucional. Establece principios de gratuidad, universalidad, inclusión, laicidad, excelencia y equidad. Reformada en 2019 con la NEM."
+    },
+    {
+      "sigla": "LGDNNA",
+      "termino": "Ley General de los Derechos de Niñas, Niños y Adolescentes",
+      "definicion": "Reconoce a niñas, niños y adolescentes como titulares de derechos. Principios rectores: interés superior de la niñez, no discriminación, vida libre de violencia, derecho a la participación conforme a su edad y madurez."
+    },
+    {
+      "sigla": "USICAMM",
+      "termino": "Unidad del Sistema para la Carrera de las Maestras y los Maestros",
+      "definicion": "Órgano administrativo desconcentrado de la SEP encargado de la admisión, promoción y reconocimiento del personal docente en educación básica y media superior."
+    },
+    {
+      "sigla": "ADEB",
+      "termino": "Admisión Docente en Educación Básica",
+      "definicion": "Proceso a cargo de la USICAMM para la admisión al servicio docente en educación básica. Incluye examen de conocimientos y aptitudes, valoración del perfil profesional y verificación documental."
+    },
+    {
+      "sigla": "SEP",
+      "termino": "Secretaría de Educación Pública",
+      "definicion": "Dependencia federal responsable de regir el sistema educativo nacional."
+    },
+    {
+      "sigla": "DOF",
+      "termino": "Diario Oficial de la Federación",
+      "definicion": "Publicación oficial donde aparecen leyes, reglamentos, acuerdos secretariales y demás disposiciones que rigen el sistema educativo."
+    },
+    {
+      "sigla": "Acuerdo 14/12/23",
+      "termino": "Acuerdo de Convivencia Escolar (DOF, dic. 2023)",
+      "definicion": "Establece lineamientos para la convivencia escolar, incluyendo el protocolo de prevención, detección y atención del acoso escolar en escuelas de educación básica."
+    },
+    {
+      "sigla": "Acuerdo Alimentos DOF 2024",
+      "termino": "Acuerdo sobre alimentos saludables (DOF, sep. 2024)",
+      "definicion": "Establece lineamientos para la preparación y expendio de alimentos y bebidas en escuelas. Prohíbe productos con sellos de advertencia, fomenta estilos de vida saludables y articula educación alimentaria con difusión a las familias."
+    }
+  ],
+  "Plan y programas de estudio": [
+    {
+      "sigla": "NEM",
+      "termino": "Nueva Escuela Mexicana",
+      "definicion": "Concepción humanista de la educación impulsada por la SEP a partir de 2019. Reorienta el currículo hacia la formación integral, la equidad, la inclusión, el reconocimiento de la diversidad y el vínculo escuela-comunidad."
+    },
+    {
+      "sigla": "Plan 2022",
+      "termino": "Plan de Estudio 2022 para la educación preescolar, primaria y secundaria",
+      "definicion": "Plan curricular vigente que organiza el trayecto formativo en 6 fases (1 a 6) y articula 4 campos formativos y 7 ejes articuladores. Aplica en toda la educación básica."
+    },
+    {
+      "sigla": "Fase 3",
+      "termino": "Fase 3 — 1° y 2° de Primaria",
+      "definicion": "Primer y segundo grado de primaria. Continuidad con preescolar, el juego sigue como mediador del aprendizaje junto con el estudio sistemático. Mismos 4 campos formativos."
+    },
+    {
+      "sigla": "Fase 4",
+      "termino": "Fase 4 — 3° y 4° de Primaria",
+      "definicion": "Tercer y cuarto grado de primaria. Consolidación de la lectoescritura, operaciones aritméticas y exploración de ciencias naturales. Pensamiento operatorio concreto según Piaget."
+    },
+    {
+      "sigla": "Fase 5",
+      "termino": "Fase 5 — 5° y 6° de Primaria",
+      "definicion": "Quinto y sexto grado de primaria. Introduce pensamiento abstracto, fracciones y decimales, historia y geografía con mayor profundidad. Transición hacia la secundaria."
+    },
+    {
+      "sigla": "Campos formativos",
+      "termino": "Campos formativos del Plan 2022",
+      "definicion": "Cuatro: (1) Lenguajes; (2) Saberes y Pensamiento Científico; (3) Ética, Naturaleza y Sociedades; (4) De lo Humano y lo Comunitario. NO se sustituyen por asignaturas tradicionales en primaria."
+    },
+    {
+      "sigla": "Ejes articuladores",
+      "termino": "Ejes articuladores del Plan 2022",
+      "definicion": "Siete temas transversales: inclusión, pensamiento crítico, interculturalidad crítica, igualdad de género, vida saludable, apropiación de las culturas a través de la lectura y la escritura, y artes y experiencias estéticas."
+    },
+    {
+      "sigla": "Programa Sintético",
+      "termino": "Programa Sintético del campo formativo",
+      "definicion": "Documento curricular nacional, elaborado por la SEP, que enuncia los Contenidos y Procesos de Desarrollo de Aprendizaje de cada campo formativo en cada fase. Flexible e inacabado."
+    },
+    {
+      "sigla": "Programa Analítico",
+      "termino": "Programa Analítico del colectivo docente",
+      "definicion": "Segundo nivel de concreción curricular. Documento elaborado por el colectivo docente de cada escuela a partir de la lectura crítica de la realidad de su comunidad-territorio."
+    },
+    {
+      "sigla": "Planeación didáctica",
+      "termino": "Planeación didáctica",
+      "definicion": "Tercer nivel de concreción. Instrumento que cada docente elabora para organizar el trabajo con su grupo. Flexible, se ajusta durante la práctica y se retroalimenta de la evaluación formativa."
+    },
+    {
+      "sigla": "PDA",
+      "termino": "Procesos de Desarrollo de Aprendizaje",
+      "definicion": "Procesos progresivos que describen cómo se construye el aprendizaje a lo largo de una fase. Mantienen relación con los Contenidos del Programa Sintético y orientan la práctica didáctica."
+    },
+    {
+      "sigla": "Codiseño",
+      "termino": "Codiseño curricular",
+      "definicion": "Proceso pedagógico permanente mediante el cual el colectivo docente codiseña el Programa Analítico articulando los contenidos con la realidad de su escuela y comunidad. No es opcional."
+    },
+    {
+      "sigla": "Proyecto comunitario",
+      "termino": "Proyecto comunitario / Proyecto integrador",
+      "definicion": "Estrategia didáctica del Plan 2022 que articula contenidos curriculares con problemáticas y saberes de la comunidad-territorio. En primaria se utilizan proyectos como eje organizador del trabajo en el aula."
+    }
+  ],
+  "Desarrollo del niño 6-12 años": [
+    {
+      "sigla": "Piaget",
+      "termino": "Jean Piaget (1896-1980)",
+      "definicion": "Psicólogo suizo, autor de la teoría del desarrollo cognitivo. Etapas relevantes para primaria: operatoria concreta (7-11 años) y operatoria formal (11+ años)."
+    },
+    {
+      "sigla": "Operatorio concreto",
+      "termino": "Pensamiento operatorio concreto (Piaget)",
+      "definicion": "Etapa del desarrollo cognitivo (aprox. 7-11 años). El niño puede realizar operaciones mentales lógicas pero necesita referentes concretos. Adquiere conservación, reversibilidad y clasificación."
+    },
+    {
+      "sigla": "Operatorio formal",
+      "termino": "Pensamiento operatorio formal (Piaget)",
+      "definicion": "Etapa del desarrollo cognitivo (aprox. 11+ años). Capacidad de razonamiento abstracto, hipotético-deductivo. Comienza en Fase 5 de primaria y se desarrolla en secundaria."
+    },
+    {
+      "sigla": "Conservación",
+      "termino": "Conservación (Piaget)",
+      "definicion": "Capacidad de comprender que la cantidad se mantiene aunque cambie la forma o disposición. Característica del pensamiento operatorio concreto."
+    },
+    {
+      "sigla": "Reversibilidad",
+      "termino": "Reversibilidad (Piaget)",
+      "definicion": "Capacidad de revertir mentalmente una operación para volver al punto de partida. Fundamental para el pensamiento matemático en primaria."
+    },
+    {
+      "sigla": "Clasificación",
+      "termino": "Clasificación y seriación",
+      "definicion": "Operaciones lógicas que el niño domina en el periodo operatorio concreto. Permite agrupar objetos por atributos comunes y ordenarlos según criterios."
+    },
+    {
+      "sigla": "Vygotsky",
+      "termino": "Lev Vygotsky (1896-1934)",
+      "definicion": "Psicólogo soviético. Teoría sociohistórica del desarrollo. Las funciones psicológicas superiores se construyen socialmente, mediadas por instrumentos culturales (lenguaje). Conceptos clave: ZDP, mediación, herramientas de la mente."
+    },
+    {
+      "sigla": "ZDP",
+      "termino": "Zona de Desarrollo Próximo",
+      "definicion": "Distancia entre lo que la persona puede hacer sola (ZDR) y lo que puede hacer con ayuda. La enseñanza eficaz opera en la ZDP mediante andamiaje."
+    },
+    {
+      "sigla": "Andamiaje",
+      "termino": "Andamiaje (scaffolding)",
+      "definicion": "Apoyo que el docente ofrece al estudiante (preguntas guía, modelado, materiales) y que se retira progresivamente conforme el estudiante adquiere autonomía."
+    },
+    {
+      "sigla": "Herramientas de la mente",
+      "termino": "Herramientas de la mente (Bodrova-Leong)",
+      "definicion": "Instrumentos culturales (lenguaje, símbolos, mediadores externos) que las personas usan para regular su pensamiento y conducta. En primaria incluyen organizadores gráficos, escritura como herramienta de pensamiento."
+    },
+    {
+      "sigla": "Meece",
+      "termino": "Judith Meece",
+      "definicion": "Autora especializada en desarrollo del niño y motivación escolar. Sus textos sobre desarrollo cognitivo en edad escolar (Piaget, Vygotsky) son referencia para la formación docente USICAMM."
+    }
+  ],
+  "Evaluación y didáctica": [
+    {
+      "sigla": "Evaluación formativa",
+      "termino": "Evaluación formativa",
+      "definicion": "Evaluación continua orientada a mejorar el aprendizaje. Articula la dimensión del estudiante (autoevaluación, reflexión) y la del docente (ajuste de la enseñanza). Distinta de la sumativa."
+    },
+    {
+      "sigla": "Díaz-Barriga",
+      "termino": "Frida Díaz-Barriga",
+      "definicion": "Pedagoga mexicana especialista en evaluación formativa y estrategias de enseñanza. Articula la evaluación con dos dimensiones: la del estudiante y la del docente."
+    },
+    {
+      "sigla": "Retroalimentación",
+      "termino": "Retroalimentación formativa",
+      "definicion": "Proceso por el cual se señalan primero los aspectos logrados y luego se describen los puntos a mejorar, evitando expresiones de rechazo. Es el motor de la evaluación formativa."
+    },
+    {
+      "sigla": "Aprendizaje significativo",
+      "termino": "Aprendizaje significativo (Ausubel)",
+      "definicion": "Aprendizaje que se construye relacionando el contenido nuevo con los conocimientos previos del estudiante. Requiere intencionalidad del aprendiz y materiales potencialmente significativos."
+    },
+    {
+      "sigla": "Aprendizaje situado",
+      "termino": "Aprendizaje situado",
+      "definicion": "El aprendizaje es inseparable del contexto en el que ocurre. Se aprende participando en prácticas culturales concretas, no en abstracciones descontextualizadas."
+    },
+    {
+      "sigla": "Trabajo colaborativo",
+      "termino": "Trabajo colaborativo",
+      "definicion": "Estrategia didáctica donde los estudiantes trabajan juntos hacia un objetivo común, desarrollando habilidades sociales, comunicación y corresponsabilidad. Diferente al trabajo en equipo donde solo se divide la tarea."
+    },
+    {
+      "sigla": "ABP",
+      "termino": "Aprendizaje Basado en Proyectos",
+      "definicion": "Metodología donde los estudiantes abordan problemas o preguntas del mundo real mediante un proyecto que integra múltiples saberes y campos formativos. Estrategia central del Plan 2022."
+    },
+    {
+      "sigla": "OCDE",
+      "termino": "Principios del aprendizaje (OCDE)",
+      "definicion": "El aprendizaje es centrado en el aprendiz, social, motivacional, sensible a las diferencias individuales, y demanda esfuerzo arduo sin sobrecarga excesiva."
+    }
+  ],
+  "Inclusión y diversidad": [
+    {
+      "sigla": "Inclusión",
+      "termino": "Inclusión educativa",
+      "definicion": "Transformar la escuela para que todas las personas puedan aprender y participar. El estudiante no se adapta a la escuela; la escuela se transforma. Va más allá de solo incorporar a estudiantes con discapacidad."
+    },
+    {
+      "sigla": "USAER",
+      "termino": "Unidad de Servicios de Apoyo a la Educación Regular",
+      "definicion": "Servicio que apoya la inclusión de estudiantes con discapacidad en escuelas regulares mediante asesoría a docentes y atención directa al alumnado."
+    },
+    {
+      "sigla": "DUA",
+      "termino": "Diseño Universal para el Aprendizaje",
+      "definicion": "Marco que propone múltiples formas de representación, acción/expresión y motivación para eliminar barreras y que todos los estudiantes accedan al aprendizaje sin necesidad de adaptaciones posteriores."
+    },
+    {
+      "sigla": "Interculturalidad crítica",
+      "termino": "Interculturalidad crítica",
+      "definicion": "Eje articulador del Plan 2022. Cuestiona las relaciones de poder y jerarquías culturales, promueve el diálogo en condiciones de equidad entre culturas."
+    },
+    {
+      "sigla": "Igualdad de género",
+      "termino": "Igualdad de género (eje articulador)",
+      "definicion": "Las desigualdades de género son una condición histórica y social transformable. En primaria se trabaja desde la convivencia diaria, los materiales y el lenguaje."
+    },
+    {
+      "sigla": "Diálogo de saberes",
+      "termino": "Diálogo de saberes",
+      "definicion": "Articulación entre conocimiento científico y saberes comunitarios, ancestrales, indígenas y afromexicanos sin jerarquizarlos. Principio del Plan 2022."
+    },
+    {
+      "sigla": "EIB",
+      "termino": "Educación Intercultural Bilingüe",
+      "definicion": "Modalidad educativa en zonas con presencia de pueblos indígenas. Reconoce la lengua materna como base del aprendizaje y promueve el bilingüismo."
+    }
+  ],
+  "Vida escolar y convivencia": [
+    {
+      "sigla": "CTE",
+      "termino": "Consejo Técnico Escolar",
+      "definicion": "Órgano colegiado integrado por la persona directora y la totalidad del personal docente. Espacio de decisión, planeación y formación profesional. En la NEM se concibe como Comunidad de Aprendizaje."
+    },
+    {
+      "sigla": "PEMC",
+      "termino": "Programa Escolar de Mejora Continua",
+      "definicion": "Documento de planeación institucional elaborado por el colectivo escolar que orienta la mejora del plantel. Incluye fases de planeación, implementación, seguimiento y comunicación."
+    },
+    {
+      "sigla": "Comunidad-territorio",
+      "termino": "Comunidad-territorio",
+      "definicion": "La escuela se concibe en relación con su entorno social, cultural, político y geográfico. La práctica docente se construye en diálogo con esta realidad."
+    },
+    {
+      "sigla": "Acoso escolar",
+      "termino": "Acoso escolar (bullying)",
+      "definicion": "Comportamiento agresivo, intencional y repetido con desequilibrio de poder. Incluye agresión física, verbal, psicológica, social o digital. En primaria la detección temprana es fundamental."
+    },
+    {
+      "sigla": "Cultura de paz",
+      "termino": "Cultura de paz",
+      "definicion": "Valores, actitudes y prácticas que rechazan la violencia y previenen conflictos. Implica construir relaciones respetuosas y solidarias, no solo ausencia de agresión."
+    },
+    {
+      "sigla": "Mediación",
+      "termino": "Mediación de conflictos",
+      "definicion": "Técnica donde una tercera persona guía a las partes para que dialoguen y construyan acuerdos. En primaria el docente facilita sin imponer soluciones."
+    },
+    {
+      "sigla": "Familias",
+      "termino": "Participación de familias",
+      "definicion": "Las familias son puente entre escuela y comunidad. Participan dentro del aula, no solo desde fuera. La relación escuela-familia es un entramado complejo que requiere trabajo continuo."
+    }
+  ]
+}

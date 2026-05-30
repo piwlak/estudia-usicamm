@@ -1,0 +1,1702 @@
+[
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Lectoescritura",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En el Programa Sintético Fase 3 (1o y 2o grado), ¿cuál es el enfoque principal para la apropiación de la lectura y la escritura?",
+    "opciones": [
+      "La memorización de sílabas y la repetición mecánica de planas caligráficas",
+      "Las prácticas sociales del lenguaje en situaciones comunicativas reales y significativas",
+      "La enseñanza fonética aislada sin contexto comunicativo"
+    ],
+    "respuesta": 1,
+    "explicacion": "El programa enfatiza que la lectoescritura se desarrolla mediante prácticas sociales del lenguaje situadas en contextos comunicativos auténticos.",
+    "cita": "SEP, Programa Sintético Fase 3, Campo Lenguajes, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Pensamiento matemático",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué tipo de actividades se privilegian en Fase 3 para el desarrollo del pensamiento matemático inicial?",
+    "opciones": [
+      "Situaciones problemáticas vinculadas al entorno inmediato que implican conteo, clasificación y medición",
+      "Resolución de algoritmos formales y ejercicios repetitivos de cálculo mental",
+      "Exposiciones teóricas del docente sobre conceptos numéricos abstractos"
+    ],
+    "respuesta": 0,
+    "explicacion": "En Fase 3 se privilegian situaciones problemáticas cercanas al niño que involucran acciones concretas como contar, clasificar y medir.",
+    "cita": "SEP, Programa Sintético Fase 3, Campo Saberes y Pensamiento Científico, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Exploración del entorno",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Rosa de 1er grado quiere trabajar exploración del entorno. Sus alumnos viven en una comunidad rural rodeada de milpas y un río. Ella planea una actividad donde los niños observen, registren y comuniquen lo que encuentran en su entorno natural.",
+    "pregunta": "¿Cuál actividad es más congruente con el enfoque de Fase 3 para exploración del entorno?",
+    "opciones": [
+      "Proyectar un video sobre ecosistemas y pedir que copien definiciones del pizarrón",
+      "Entregar una ficha impresa con imágenes genéricas de animales para colorear",
+      "Llevar a los niños a recorrer la milpa, observar insectos y plantas, y hacer dibujos de lo que encontraron para compartir en clase"
+    ],
+    "respuesta": 2,
+    "explicacion": "El programa plantea la exploración directa del entorno inmediato del niño como estrategia central para construir conocimiento sobre la naturaleza.",
+    "cita": "SEP, Programa Sintético Fase 3, Campo Ética, Naturaleza y Sociedades, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 4",
+    "categoria": "Fase 4 - Consolidación lectora",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En Fase 4 (3o y 4o grado), ¿qué se espera respecto a la consolidación de habilidades lectoras?",
+    "opciones": [
+      "Que los alumnos únicamente lean en voz alta para mejorar fluidez sin importar la comprensión",
+      "Que se abandone la lectura guiada y los niños lean exclusivamente de forma autónoma",
+      "Que los alumnos lean textos cada vez más complejos, identifiquen ideas principales y realicen inferencias"
+    ],
+    "respuesta": 2,
+    "explicacion": "En Fase 4 se busca que los estudiantes avancen hacia la comprensión inferencial y la identificación de ideas centrales en textos de mayor complejidad.",
+    "cita": "SEP, Programa Sintético Fase 4, Campo Lenguajes, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 4",
+    "categoria": "Fase 4 - Operaciones aritméticas",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El maestro Julián de 3er grado nota que varios alumnos resuelven sumas y restas con material concreto pero no logran resolver multiplicaciones. Quiere introducir la multiplicación de manera significativa.",
+    "pregunta": "¿Cuál estrategia es más adecuada según el enfoque de Fase 4?",
+    "opciones": [
+      "Dictar las tablas de multiplicar para que las memoricen y luego aplicar exámenes orales",
+      "Plantear problemas de agrupamiento y arreglos rectangulares con material manipulable antes de formalizar el algoritmo",
+      "Enseñar directamente el algoritmo de la multiplicación en el pizarrón y asignar 50 ejercicios"
+    ],
+    "respuesta": 1,
+    "explicacion": "El enfoque didáctico de Fase 4 propone partir de situaciones concretas (agrupamientos, arreglos) para construir el sentido de la multiplicación antes de formalizar.",
+    "cita": "SEP, Programa Sintético Fase 4, Campo Saberes y Pensamiento Científico, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 4",
+    "categoria": "Fase 4 - Ciencias naturales",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el propósito central del campo Saberes y Pensamiento Científico en Fase 4 respecto a ciencias naturales?",
+    "opciones": [
+      "Que reproduzcan experimentos estandarizados de laboratorio sin relación con su entorno",
+      "Que desarrollen habilidades de observación, experimentación y explicación de fenómenos naturales de su contexto",
+      "Que memoricen clasificaciones taxonómicas y nombres científicos"
+    ],
+    "respuesta": 1,
+    "explicacion": "El programa busca que los estudiantes desarrollen pensamiento científico a través de la indagación y explicación de fenómenos de su contexto.",
+    "cita": "SEP, Programa Sintético Fase 4, Saberes y Pensamiento Científico, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Pensamiento abstracto",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En Fase 5 (5o y 6o grado), ¿cómo se favorece el desarrollo del pensamiento abstracto incipiente?",
+    "opciones": [
+      "Mediante problemas que exigen generalización, formulación de hipótesis y uso de representaciones simbólicas",
+      "Limitándose exclusivamente a operaciones con material concreto sin transitar a lo simbólico",
+      "Eliminando toda referencia a situaciones reales para trabajar solo con fórmulas"
+    ],
+    "respuesta": 0,
+    "explicacion": "En Fase 5 se promueve la transición gradual hacia el pensamiento abstracto mediante generalización y uso de representaciones simbólicas.",
+    "cita": "SEP, Programa Sintético Fase 5, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Fracciones y decimales",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Lucía de 5o grado va a enseñar fracciones. Sus alumnos tienen dificultades para entender que 1/2 es igual a 2/4. Ella busca una estrategia que les permita visualizar la equivalencia.",
+    "pregunta": "¿Cuál estrategia es más pertinente para Fase 5?",
+    "opciones": [
+      "Usar tiras de papel, rectas numéricas y repartos equitativos para que comparen fracciones visualmente",
+      "Escribir la regla de fracciones equivalentes en el pizarrón y pedir que la apliquen mecánicamente",
+      "Omitir las fracciones equivalentes porque son demasiado abstractas para 5o grado"
+    ],
+    "respuesta": 0,
+    "explicacion": "El programa propone el uso de representaciones concretas y gráficas para construir el concepto de equivalencia antes de formalizar reglas.",
+    "cita": "SEP, Programa Sintético Fase 5, Saberes y Pensamiento Científico, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Historia y geografía",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué enfoque propone el Programa Sintético Fase 5 para la enseñanza de historia y geografía?",
+    "opciones": [
+      "La memorización cronológica de fechas y la ubicación de capitales en mapas mudos",
+      "La lectura exclusiva del libro de texto sin actividades complementarias",
+      "El análisis de procesos históricos y espaciales desde una perspectiva crítica vinculada a la realidad comunitaria"
+    ],
+    "respuesta": 2,
+    "explicacion": "Fase 5 promueve el análisis crítico de procesos históricos y geográficos conectados con la comunidad del estudiante.",
+    "cita": "SEP, Programa Sintético Fase 5, Ética, Naturaleza y Sociedades, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Preparación secundaria",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál de los siguientes aspectos es prioritario en Fase 5 para preparar a los alumnos hacia la secundaria?",
+    "opciones": [
+      "La acumulación de contenidos enciclopédicos para presentar examen de admisión",
+      "El desarrollo de autonomía en el estudio, pensamiento crítico y habilidades de investigación",
+      "La reducción del juego y actividades lúdicas para acostumbrarlos a un ambiente rígido"
+    ],
+    "respuesta": 1,
+    "explicacion": "La preparación para secundaria se centra en desarrollar autonomía, pensamiento crítico y habilidades metacognitivas.",
+    "cita": "SEP, Programa Sintético Fase 5, 2022."
+  },
+  {
+    "fuente": "Piaget",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Piaget, ¿qué caracteriza al estadio de operaciones concretas (aproximadamente 7-11 años)?",
+    "opciones": [
+      "El niño puede realizar operaciones lógicas sobre objetos concretos: clasificar, seriar y conservar",
+      "El niño ya domina el pensamiento hipotético-deductivo y la combinatoria",
+      "El niño se guía exclusivamente por la percepción inmediata sin capacidad de reversibilidad"
+    ],
+    "respuesta": 0,
+    "explicacion": "En operaciones concretas el niño logra clasificar, seriar y conservar, pero requiere referentes concretos; el pensamiento formal viene después.",
+    "cita": "Piaget, J. La psicología del niño, Cap. 4."
+  },
+  {
+    "fuente": "Piaget",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué implica la noción de conservación en el estadio de operaciones concretas?",
+    "opciones": [
+      "El niño aprende a cuidar el medio ambiente y los recursos naturales",
+      "El niño comprende que una cantidad permanece igual aunque cambie su apariencia perceptual",
+      "El niño puede imaginar situaciones hipotéticas sin necesidad de referentes concretos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La conservación significa comprender que la cantidad no cambia ante transformaciones perceptuales (forma, distribución espacial).",
+    "cita": "Piaget, J. La psicología del niño."
+  },
+  {
+    "fuente": "Piaget",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En una clase de 2o grado, el maestro vierte agua de un vaso ancho a uno alto y delgado frente a los niños. Algunos dicen que ahora hay más agua porque el nivel subió.",
+    "pregunta": "¿Qué indica esta respuesta según la teoría de Piaget?",
+    "opciones": [
+      "Esos niños tienen un problema de aprendizaje que requiere intervención especializada",
+      "Esos niños ya dominan operaciones concretas pero eligen responder incorrectamente por diversión",
+      "Esos niños aún no han adquirido la conservación de líquidos y se dejan guiar por la percepción"
+    ],
+    "respuesta": 2,
+    "explicacion": "La respuesta basada en apariencia indica que el niño aún no conserva, lo cual es esperado en la transición al estadio operacional concreto.",
+    "cita": "Piaget, J. La psicología del niño, Cap. 4."
+  },
+  {
+    "fuente": "Vygotsky",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué es la Zona de Desarrollo Próximo (ZDP) según Vygotsky?",
+    "opciones": [
+      "El espacio físico del aula donde el niño aprende mejor",
+      "La distancia entre lo que el niño puede hacer solo y lo que puede lograr con ayuda de un par más capaz o adulto",
+      "La etapa del desarrollo que sigue inmediatamente después de la actual según la maduración biológica"
+    ],
+    "respuesta": 1,
+    "explicacion": "La ZDP es la brecha entre el nivel real de desarrollo (independiente) y el nivel potencial (con mediación social).",
+    "cita": "Vygotsky, L. S. El desarrollo de los procesos psicológicos superiores, Cap. 6."
+  },
+  {
+    "fuente": "Vygotsky",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Daniela de 4o grado no logra resolver problemas de división por sí sola, pero cuando su maestra le hace preguntas guía ('¿cuántos grupos puedes formar?', '¿qué operación inversa usarías?'), logra resolverlos correctamente.",
+    "pregunta": "¿Cómo se interpreta esta situación desde la perspectiva de Vygotsky?",
+    "opciones": [
+      "La división está en la ZDP de Daniela y la mediación docente le permite avanzar",
+      "Daniela no está lista para aprender división y debe esperar a que madure biológicamente",
+      "La maestra está haciendo trampa al darle las respuestas directamente"
+    ],
+    "respuesta": 0,
+    "explicacion": "Si el niño resuelve con ayuda pero no solo, el contenido se encuentra en su ZDP, zona óptima para la enseñanza.",
+    "cita": "Vygotsky, L. S. El desarrollo de los procesos psicológicos superiores."
+  },
+  {
+    "fuente": "Vygotsky",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál de las siguientes prácticas docentes aprovecha mejor el concepto de ZDP en primaria?",
+    "opciones": [
+      "Asignar tareas que el alumno ya domina para reforzar su autoestima",
+      "Asignar tareas muy por encima del nivel del alumno para motivarlo a esforzarse sin ayuda",
+      "Plantear desafíos ligeramente por encima del nivel actual del alumno y ofrecer andamiaje progresivo"
+    ],
+    "respuesta": 2,
+    "explicacion": "La ZDP se aprovecha con tareas retadoras pero alcanzables con mediación; ni demasiado fáciles ni imposibles.",
+    "cita": "Vygotsky, L. S. El desarrollo de los procesos psicológicos superiores."
+  },
+  {
+    "fuente": "Desarrollo socioemocional",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué caracteriza el desarrollo socioemocional de los niños entre 6 y 12 años?",
+    "opciones": [
+      "La formación de la identidad sexual adulta y el desapego total de la familia",
+      "La incapacidad de regular emociones y la dependencia exclusiva del adulto para resolver conflictos",
+      "El desarrollo de la autoestima académica, la comparación social y la importancia creciente del grupo de pares"
+    ],
+    "respuesta": 2,
+    "explicacion": "En la edad escolar, la autoestima se vincula al rendimiento académico, aumenta la comparación social y los pares cobran mayor importancia.",
+    "cita": "Erikson, E. Identidad, juventud y crisis; Meece, J. Desarrollo del niño y del adolescente."
+  },
+  {
+    "fuente": "Meece",
+    "categoria": "Desarrollo cognitivo escolar",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Meece, ¿cómo se manifiestan las diferencias individuales en el desarrollo cognitivo durante la edad escolar?",
+    "opciones": [
+      "Todos los niños de la misma edad alcanzan los mismos logros cognitivos simultáneamente",
+      "Existen variaciones en ritmos de desarrollo, estilos de aprendizaje y fortalezas cognitivas entre niños de la misma edad",
+      "Las diferencias individuales desaparecen completamente cuando se usa un mismo método de enseñanza"
+    ],
+    "respuesta": 1,
+    "explicacion": "Meece enfatiza que los niños muestran variabilidad en ritmos, estilos y capacidades, lo cual exige diversificación didáctica.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores, Cap. 3."
+  },
+  {
+    "fuente": "Meece",
+    "categoria": "Desarrollo cognitivo escolar",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En un grupo de 3er grado, Pedro resuelve problemas matemáticos rápidamente pero tiene dificultades para expresarse por escrito. María escribe con fluidez pero necesita más tiempo para las operaciones. Ambos tienen 8 años.",
+    "pregunta": "¿Cómo explica Meece esta situación?",
+    "opciones": [
+      "El maestro está enseñando mal si hay resultados tan dispares entre alumnos de la misma edad",
+      "Uno de los dos tiene un trastorno de aprendizaje que debe diagnosticarse",
+      "Es normal que existan perfiles cognitivos diferenciados; cada niño tiene fortalezas y áreas de oportunidad distintas"
+    ],
+    "respuesta": 2,
+    "explicacion": "Meece sostiene que las diferencias individuales en perfiles cognitivos son normales y no necesariamente indican patología.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores."
+  },
+  {
+    "fuente": "Meece",
+    "categoria": "Desarrollo cognitivo escolar",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "Según Meece, ¿cuál es la implicación pedagógica más importante de reconocer las diferencias individuales?",
+    "opciones": [
+      "Separar a los alumnos en grupos homogéneos permanentes según su rendimiento",
+      "Aplicar el mismo examen estandarizado como único indicador del desarrollo cognitivo",
+      "Diversificar las estrategias de enseñanza y evaluación para atender distintos perfiles de aprendizaje"
+    ],
+    "respuesta": 2,
+    "explicacion": "Reconocer diferencias individuales implica diversificar estrategias, no homogeneizar ni etiquetar permanentemente.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué son las 'herramientas de la mente' según Bodrova y Leong?",
+    "opciones": [
+      "Instrumentos simbólicos (lenguaje, escritura, sistemas numéricos) que el niño internaliza para autorregular su pensamiento",
+      "Técnicas de disciplina conductual que el docente aplica para controlar al grupo",
+      "Materiales didácticos físicos como reglas, compases y calculadoras"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las herramientas de la mente son instrumentos culturales simbólicos que, al internalizarse, permiten al niño regular su propia cognición.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente, Cap. 1."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En 2o grado, la maestra pide a los niños que antes de escribir un cuento hagan un 'plan' dibujando la secuencia de eventos. Luego, al escribir, los niños consultan sus dibujos para guiar su texto.",
+    "pregunta": "¿Qué herramienta de la mente están usando los niños?",
+    "opciones": [
+      "Mediadores externos (los dibujos como plan) que organizan y regulan la actividad cognitiva de escritura",
+      "El habla privada como reguladora de la conducta",
+      "La imitación diferida de modelos adultos sin comprensión"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los dibujos-plan funcionan como mediadores externos que ayudan al niño a autorregular una tarea compleja como la escritura.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente, Cap. 5."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Bodrova y Leong, ¿cuál es el papel del habla privada en niños de primaria?",
+    "opciones": [
+      "Es un signo de inmadurez que debe corregirse pidiendo silencio",
+      "Es una herramienta de autorregulación que gradualmente se internaliza como pensamiento verbal",
+      "Es exclusiva de niños con trastornos del lenguaje"
+    ],
+    "respuesta": 1,
+    "explicacion": "El habla privada es una herramienta autorreguladora normal que se internaliza progresivamente, no un defecto.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente, Cap. 3."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál práctica docente es más consistente con el enfoque de Bodrova y Leong para primaria?",
+    "opciones": [
+      "Proporcionar mediadores externos (listas de pasos, organizadores gráficos) y retirarlos gradualmente conforme el alumno los internaliza",
+      "Exigir desde el inicio que los alumnos trabajen sin ningún apoyo externo para fomentar independencia",
+      "Mantener permanentemente todos los apoyos sin importar el avance del alumno"
+    ],
+    "respuesta": 0,
+    "explicacion": "Bodrova y Leong proponen ofrecer mediadores y retirarlos gradualmente (andamiaje) a medida que el niño los internaliza.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente, Cap. 7."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es la principal ventaja de la planeación por proyectos en primaria?",
+    "opciones": [
+      "Integra saberes de distintos campos formativos en torno a una problemática significativa para los alumnos",
+      "Elimina la necesidad de que el docente planifique porque los alumnos deciden todo",
+      "Permite cubrir muchos contenidos superficialmente en poco tiempo"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los proyectos integran campos formativos alrededor de problemas significativos, promoviendo aprendizaje situado e interdisciplinario.",
+    "cita": "SEP, Plan de Estudio 2022, apartado sobre metodologías."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El maestro Carlos de 4o grado diseña un proyecto sobre 'El agua en nuestra comunidad'. Planea actividades donde los alumnos investiguen el ciclo del agua, calculen consumo familiar, escriban un reportaje y propongan acciones de cuidado.",
+    "pregunta": "¿Qué campos formativos integra este proyecto?",
+    "opciones": [
+      "Solo Saberes y Pensamiento Científico porque el tema es de ciencias",
+      "Solo Lenguajes porque el producto final es un texto escrito",
+      "Saberes y Pensamiento Científico, Lenguajes, Ética Naturaleza y Sociedades, y De lo Humano y lo Comunitario"
+    ],
+    "respuesta": 2,
+    "explicacion": "El proyecto integra ciencias (ciclo del agua), matemáticas (cálculo), lenguajes (reportaje) y ética/comunitario (acciones de cuidado).",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías: Aprendizaje basado en proyectos."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el propósito principal de la evaluación formativa en primaria?",
+    "opciones": [
+      "Retroalimentar el proceso de aprendizaje para ajustar la enseñanza y orientar al alumno",
+      "Asignar calificaciones numéricas para el reporte de evaluación",
+      "Clasificar a los alumnos en aprobados y reprobados al final del bimestre"
+    ],
+    "respuesta": 0,
+    "explicacion": "La evaluación formativa busca retroalimentar durante el proceso para mejorar tanto la enseñanza como el aprendizaje.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Ana revisa los borradores de texto de sus alumnos de 3er grado antes de la versión final. Señala aciertos, hace preguntas sobre partes confusas y sugiere mejoras. Los alumnos revisan y corrigen.",
+    "pregunta": "¿Qué tipo de evaluación está realizando la maestra Ana?",
+    "opciones": [
+      "Evaluación diagnóstica porque ocurre al inicio del ciclo",
+      "Evaluación formativa porque retroalimenta durante el proceso para mejorar el producto",
+      "Evaluación sumativa porque califica el texto final"
+    ],
+    "respuesta": 1,
+    "explicacion": "Al retroalimentar borradores durante el proceso y permitir mejoras, la maestra realiza evaluación formativa.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Trabajo colaborativo",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué distingue al trabajo colaborativo del simple trabajo en equipo?",
+    "opciones": [
+      "En el colaborativo un alumno hace todo mientras los demás observan",
+      "El trabajo colaborativo y el trabajo en equipo son exactamente lo mismo",
+      "En el colaborativo hay interdependencia positiva: cada miembro aporta y el logro depende de todos"
+    ],
+    "respuesta": 2,
+    "explicacion": "El trabajo colaborativo implica interdependencia positiva, responsabilidad individual y construcción conjunta del conocimiento.",
+    "cita": "Johnson, D. y Johnson, R. Aprendizaje cooperativo en el aula."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Trabajo colaborativo",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En un grupo de 5o grado, el maestro forma equipos de 4 integrantes para investigar un tema. Asigna roles (coordinador, relator, investigador, presentador) y establece que la calificación del equipo depende de la aportación de todos.",
+    "pregunta": "¿Qué elementos del aprendizaje colaborativo está implementando?",
+    "opciones": [
+      "Interdependencia positiva, roles definidos y responsabilidad individual dentro del equipo",
+      "Competencia entre equipos como principal motivador del aprendizaje",
+      "Trabajo individual disfrazado de equipo sin interacción real"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los roles, la interdependencia y la responsabilidad individual son elementos clave del aprendizaje colaborativo efectivo.",
+    "cita": "Johnson, D. y Johnson, R. Aprendizaje cooperativo en el aula."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Lectoescritura",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "En Fase 3, la apropiación de la lectura y escritura se concibe como un proceso _______ que parte de _______ del niño.",
+    "opciones": [
+      "instantáneo y uniforme / la instrucción directa del docente",
+      "gradual y significativo / las prácticas comunicativas previas",
+      "exclusivamente fonético / la repetición de letras aisladas"
+    ],
+    "respuesta": 1,
+    "explicacion": "El programa reconoce la lectoescritura como proceso gradual que parte de los saberes comunicativos previos del niño.",
+    "cita": "SEP, Programa Sintético Fase 3, Campo Lenguajes, 2022."
+  },
+  {
+    "fuente": "Piaget",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Según Piaget, la reversibilidad del pensamiento en operaciones concretas permite al niño _______.",
+    "opciones": [
+      "olvidar lo aprendido y volver a empezar desde cero cada día",
+      "leer textos de derecha a izquierda sin dificultad",
+      "comprender que una operación puede deshacerse mentalmente (por ejemplo, sumar y restar como inversas)"
+    ],
+    "respuesta": 2,
+    "explicacion": "La reversibilidad significa poder invertir mentalmente una operación, comprendiendo por ejemplo que la resta deshace la suma.",
+    "cita": "Piaget, J. La psicología del niño."
+  },
+  {
+    "fuente": "Programa Sintético Fase 4",
+    "categoria": "Fase 4 - Ciencias naturales",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es la secuencia didáctica adecuada para una indagación científica en Fase 4?",
+    "opciones": [
+      "Comunicar hallazgos → experimentar → formular preguntas → observar",
+      "Observar un fenómeno → formular preguntas → experimentar/investigar → comunicar hallazgos",
+      "Memorizar la teoría → copiar definiciones → realizar un examen escrito → olvidar"
+    ],
+    "respuesta": 1,
+    "explicacion": "La indagación científica sigue una secuencia lógica: observación, cuestionamiento, investigación y comunicación.",
+    "cita": "SEP, Programa Sintético Fase 4, Saberes y Pensamiento Científico, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden correcto de las fases de un proyecto didáctico en primaria?",
+    "opciones": [
+      "Identificar problemática → planear actividades → desarrollar el proyecto → socializar productos",
+      "Socializar productos → desarrollar → planear → identificar problemática",
+      "Planear actividades → identificar problemática → socializar → desarrollar"
+    ],
+    "respuesta": 0,
+    "explicacion": "El proyecto inicia identificando una problemática, luego se planea, se desarrolla y finalmente se socializan los productos.",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Pensamiento matemático",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Sofía de 1er grado quiere que sus alumnos aprendan a contar hasta 100. Algunos niños ya cuentan hasta 50 y otros apenas hasta 10.",
+    "pregunta": "¿Qué estrategia es más adecuada según el enfoque de Fase 3?",
+    "opciones": [
+      "Hacer que todos cuenten de 1 a 100 en coro hasta que todos lo logren",
+      "Proponer actividades diferenciadas: juegos de conteo con distintos rangos numéricos según el nivel de cada niño",
+      "Esperar a que los que cuentan hasta 10 maduren antes de enseñarles más números"
+    ],
+    "respuesta": 1,
+    "explicacion": "La atención a la diversidad implica proponer actividades diferenciadas que permitan a cada niño avanzar desde su nivel.",
+    "cita": "SEP, Programa Sintético Fase 3, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál instrumento de evaluación formativa es más pertinente para valorar el proceso de escritura en primaria?",
+    "opciones": [
+      "Un portafolio con borradores sucesivos que muestre la evolución del texto",
+      "Un examen de opción múltiple sobre reglas ortográficas",
+      "Un dictado cronometrado que solo mida velocidad de escritura"
+    ],
+    "respuesta": 0,
+    "explicacion": "El portafolio con borradores permite observar el proceso de mejora y retroalimentar de manera formativa.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Desarrollo socioemocional",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Miguel de 4o grado ha bajado su rendimiento. En el recreo se aísla porque sus compañeros lo molestan por usar lentes. Se muestra triste y dice que 'es tonto'.",
+    "pregunta": "Desde el desarrollo socioemocional, ¿qué está ocurriendo con Miguel?",
+    "opciones": [
+      "Su autoestima académica se ve afectada por la exclusión social, lo cual es común en esta etapa donde la aceptación del grupo de pares es crucial",
+      "Miguel simplemente es flojo y necesita más tarea para mejorar",
+      "Es un problema exclusivamente familiar que la escuela no puede atender"
+    ],
+    "respuesta": 0,
+    "explicacion": "En la edad escolar la autoestima está ligada a la aceptación social; el rechazo de pares impacta directamente el rendimiento.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores, Cap. 5."
+  },
+  {
+    "fuente": "Desarrollo socioemocional",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál acción docente promueve mejor el desarrollo socioemocional en un grupo de primaria?",
+    "opciones": [
+      "Ignorar los conflictos entre alumnos porque deben resolverlos solos",
+      "Crear un ambiente de respeto donde se valoren las diferencias y se practique la resolución pacífica de conflictos",
+      "Castigar públicamente a quien moleste a otros para que sirva de ejemplo"
+    ],
+    "respuesta": 1,
+    "explicacion": "Un ambiente de respeto con prácticas de resolución pacífica favorece el desarrollo socioemocional en la edad escolar.",
+    "cita": "SEP, Plan de Estudio 2022, De lo Humano y lo Comunitario."
+  },
+  {
+    "fuente": "Piaget",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "Un docente de 2o grado quiere enseñar sumas con reagrupación. Según Piaget, ¿qué debe considerar?",
+    "opciones": [
+      "Que a los 7 años todos los niños ya dominan operaciones formales y pueden trabajar solo con símbolos",
+      "Que las matemáticas son independientes del desarrollo cognitivo y se aprenden por repetición",
+      "Que muchos niños aún están transitando a operaciones concretas y necesitan material manipulable para comprender el reagrupamiento"
+    ],
+    "respuesta": 2,
+    "explicacion": "En la transición a operaciones concretas, el material manipulable es esencial para comprender procedimientos como el reagrupamiento.",
+    "cita": "Piaget, J. La psicología del niño."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Fracciones y decimales",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué enfoque propone Fase 5 para el trabajo con números decimales?",
+    "opciones": [
+      "Vincular los decimales con situaciones de medición y dinero para darles significado antes de operar con ellos",
+      "Enseñar primero las reglas de operación con decimales y después buscar aplicaciones",
+      "Posponer los decimales hasta secundaria porque son demasiado abstractos"
+    ],
+    "respuesta": 0,
+    "explicacion": "El programa propone contextualizar los decimales en situaciones reales (medición, dinero) para construir su significado.",
+    "cita": "SEP, Programa Sintético Fase 5, Saberes y Pensamiento Científico, 2022."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Historia y geografía",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra de 6o grado trabaja el tema de la Revolución Mexicana. En lugar de pedir que memoricen fechas, propone que los alumnos investiguen cómo vivían los campesinos de su región en esa época y comparen con la actualidad.",
+    "pregunta": "¿Qué principio didáctico de Fase 5 aplica esta maestra?",
+    "opciones": [
+      "Simplificar la historia eliminando fechas porque los niños no pueden memorizarlas",
+      "Vincular los procesos históricos con la realidad local para promover comprensión crítica y sentido de pertenencia",
+      "Sustituir completamente el contenido curricular por investigación libre sin guía"
+    ],
+    "respuesta": 1,
+    "explicacion": "Fase 5 promueve conectar los procesos históricos con la realidad comunitaria para generar comprensión significativa.",
+    "cita": "SEP, Programa Sintético Fase 5, Ética, Naturaleza y Sociedades, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La evaluación formativa se distingue de la sumativa porque su propósito es _______ y ocurre _______.",
+    "opciones": [
+      "certificar conocimientos / al final del periodo",
+      "retroalimentar para mejorar / durante el proceso de aprendizaje",
+      "clasificar alumnos / antes de iniciar el curso"
+    ],
+    "respuesta": 1,
+    "explicacion": "La evaluación formativa retroalimenta durante el proceso; la sumativa certifica al final y la diagnóstica ocurre al inicio.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Según Bodrova y Leong, el andamiaje consiste en _______ que se _______ conforme el niño gana competencia.",
+    "opciones": [
+      "apoyos temporales y ajustados / retiran gradualmente",
+      "castigos por errores / incrementan progresivamente",
+      "reglas permanentes / mantienen sin cambio toda la primaria"
+    ],
+    "respuesta": 0,
+    "explicacion": "El andamiaje son apoyos temporales que se ajustan y retiran gradualmente a medida que el alumno avanza.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué papel juega la comunidad en los proyectos comunitarios propuestos por el Plan de Estudio 2022?",
+    "opciones": [
+      "La comunidad participa activamente como fuente de saberes y como destinataria de las acciones transformadoras del proyecto",
+      "La comunidad es solo receptora pasiva de los productos escolares",
+      "La comunidad no debe involucrarse en asuntos escolares"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los proyectos comunitarios integran a la comunidad como participante activa y beneficiaria de las acciones escolares.",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías: Proyectos comunitarios."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Escuela y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "Una escuela primaria rural detecta que los niños tienen problemas de salud bucal. El colectivo docente decide hacer un proyecto donde los alumnos investiguen causas, entrevisten al médico local y realicen una campaña de prevención para las familias.",
+    "pregunta": "¿Qué tipo de proyecto es este según el Plan de Estudio 2022?",
+    "opciones": [
+      "Un proyecto comunitario porque identifica una problemática real y genera acciones de transformación social",
+      "Una actividad extracurricular que no tiene valor pedagógico",
+      "Un proyecto de aula porque solo beneficia a los alumnos del grupo"
+    ],
+    "respuesta": 0,
+    "explicacion": "Es un proyecto comunitario porque parte de una problemática real, involucra a la comunidad y busca transformar una situación.",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías: Proyectos comunitarios."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Inclusión educativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué implica la inclusión educativa en el contexto de primaria según el Plan de Estudio 2022?",
+    "opciones": [
+      "Transformar las prácticas, culturas y políticas escolares para que todos los alumnos participen y aprendan sin discriminación",
+      "Crear grupos separados para alumnos con necesidades especiales dentro de la misma escuela",
+      "Integrar físicamente a los alumnos con discapacidad sin modificar prácticas pedagógicas"
+    ],
+    "respuesta": 0,
+    "explicacion": "La inclusión implica transformar la escuela completa (prácticas, culturas, políticas) para garantizar participación y aprendizaje de todos.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Inclusión."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Inclusión educativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En 3er grado hay un alumno con discapacidad visual. La maestra adapta materiales (textos en braille, maquetas táctiles), reorganiza el espacio y capacita al grupo sobre cómo apoyar a su compañero.",
+    "pregunta": "¿Qué tipo de ajustes está realizando la maestra?",
+    "opciones": [
+      "Ajustes razonables que eliminan barreras para la participación y el aprendizaje del alumno",
+      "Modificaciones innecesarias que benefician solo al alumno con discapacidad y perjudican a los demás",
+      "Integración superficial que no garantiza aprendizaje"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los ajustes razonables buscan eliminar barreras para garantizar la participación plena sin perjudicar a otros.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Inclusión."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Rol docente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según el Plan de Estudio 2022, ¿cuál es el rol del docente de primaria como agente de transformación?",
+    "opciones": [
+      "Transmisor de conocimientos que dicta contenidos para que los alumnos memoricen",
+      "Mediador que diseña experiencias de aprendizaje, reconoce saberes previos y promueve el pensamiento crítico",
+      "Administrador que solo se encarga de llenar formatos y cumplir trámites burocráticos"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente es mediador pedagógico: diseña experiencias significativas, reconoce saberes previos y fomenta el pensamiento crítico.",
+    "cita": "SEP, Plan de Estudio 2022, El papel del docente."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Rol docente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál acción refleja mejor al docente como profesional reflexivo en primaria?",
+    "opciones": [
+      "Analizar sistemáticamente su práctica, identificar áreas de mejora y ajustar sus estrategias con base en evidencia",
+      "Repetir año con año la misma planeación sin considerar las características del grupo",
+      "Seguir el libro de texto página por página sin adaptaciones al contexto"
+    ],
+    "respuesta": 0,
+    "explicacion": "El profesional reflexivo analiza su práctica constantemente y la ajusta con base en evidencia del aprendizaje de sus alumnos.",
+    "cita": "SEP, Plan de Estudio 2022; Schön, D. El profesional reflexivo."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Escuela y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué significa que la escuela primaria sea un espacio de transformación social según la Nueva Escuela Mexicana?",
+    "opciones": [
+      "Que la escuela reproduce las desigualdades sociales existentes sin cuestionarlas",
+      "Que la escuela contribuye activamente a la justicia social, la equidad y el bienestar comunitario",
+      "Que la escuela solo se ocupa de contenidos académicos sin relación con el entorno social"
+    ],
+    "respuesta": 1,
+    "explicacion": "La NEM concibe a la escuela como agente de transformación que promueve justicia social y bienestar comunitario.",
+    "cita": "SEP, Plan de Estudio 2022, La Nueva Escuela Mexicana."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Escuela y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "El Consejo Técnico Escolar de una primaria urbana identifica que hay mucha basura en las calles cercanas. Deciden que todos los grados trabajen un proyecto sobre manejo de residuos con acciones escalonadas por edad.",
+    "pregunta": "¿Qué principio de la escuela como transformadora se evidencia?",
+    "opciones": [
+      "La escuela impone sus criterios a la comunidad sin consultarla",
+      "La escuela solo trabaja problemas ambientales si aparecen en el programa",
+      "La escuela atiende problemáticas reales de la comunidad y organiza acciones colectivas para incidir en su entorno"
+    ],
+    "respuesta": 2,
+    "explicacion": "La escuela transformadora identifica problemáticas comunitarias y organiza acciones colectivas para generar cambio social.",
+    "cita": "SEP, Plan de Estudio 2022, Proyectos comunitarios."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Lectoescritura",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En 1er grado, Emilia escribe 'MI MAMA ME KIERE' usando escritura alfabética con algunas omisiones y sustituciones de letras.",
+    "pregunta": "¿En qué nivel de conceptualización de la escritura se encuentra Emilia según los referentes del programa?",
+    "opciones": [
+      "Nivel presilábico: no hay relación entre lo escrito y lo sonoro",
+      "Nivel alfabético: ya establece correspondencia entre fonemas y grafías aunque con errores ortográficos convencionales",
+      "Nivel silábico: escribe una letra por cada sílaba"
+    ],
+    "respuesta": 1,
+    "explicacion": "Emilia escribe alfabéticamente (correspondencia fonema-grafía) aunque con errores ortográficos propios del proceso.",
+    "cita": "Ferreiro, E. y Teberosky, A. Los sistemas de escritura en el desarrollo del niño."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Lectoescritura",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuáles son los niveles de conceptualización de la escritura que los docentes de Fase 3 deben reconocer?",
+    "opciones": [
+      "Presilábico, silábico, silábico-alfabético y alfabético",
+      "Inicial, intermedio y avanzado",
+      "Correcto, incorrecto y en proceso"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los niveles de Ferreiro y Teberosky (presilábico, silábico, silábico-alfabético, alfabético) son referentes clave para Fase 3.",
+    "cita": "Ferreiro, E. y Teberosky, A. Los sistemas de escritura en el desarrollo del niño."
+  },
+  {
+    "fuente": "Meece",
+    "categoria": "Desarrollo cognitivo escolar",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Meece, ¿qué factores influyen en el rendimiento académico de los niños en edad escolar?",
+    "opciones": [
+      "La interacción entre factores cognitivos, motivacionales, socioemocionales y contextuales (familia, escuela, comunidad)",
+      "Solo la calidad de la enseñanza sin importar características del alumno",
+      "Exclusivamente la inteligencia medida por tests estandarizados"
+    ],
+    "respuesta": 0,
+    "explicacion": "Meece enfatiza la interacción de múltiples factores (cognitivos, motivacionales, sociales y contextuales) en el rendimiento.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores."
+  },
+  {
+    "fuente": "Meece",
+    "categoria": "Desarrollo cognitivo escolar",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Según Meece, la motivación intrínseca en la edad escolar se favorece cuando las tareas son _______ y el alumno percibe _______.",
+    "opciones": [
+      "desafiantes pero alcanzables / que tiene control sobre su aprendizaje",
+      "extremadamente fáciles / que no necesita esforzarse",
+      "impuestas sin sentido / que el adulto decide todo"
+    ],
+    "respuesta": 0,
+    "explicacion": "La motivación intrínseca crece con tareas retadoras alcanzables y la percepción de autonomía.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es el criterio más importante al seleccionar la problemática de un proyecto en primaria?",
+    "opciones": [
+      "Que sea el tema más difícil del programa para asegurar que se cubra",
+      "Que sea igual para todas las escuelas del país sin importar el contexto",
+      "Que sea relevante para los alumnos, vinculada a su contexto y que permita integrar aprendizajes de varios campos"
+    ],
+    "respuesta": 2,
+    "explicacion": "La problemática debe ser relevante, contextualizada e integradora de varios campos formativos.",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías."
+  },
+  {
+    "fuente": "Vygotsky",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué papel tiene la interacción social en el aprendizaje según Vygotsky?",
+    "opciones": [
+      "Es accesoria; el aprendizaje es fundamentalmente individual e interno",
+      "Es constitutiva del desarrollo: toda función psicológica superior aparece primero en el plano social y luego se internaliza",
+      "Solo es relevante en educación preescolar, no en primaria"
+    ],
+    "respuesta": 1,
+    "explicacion": "Para Vygotsky, las funciones superiores aparecen primero interpsicológicamente (social) y después intrapsicológicamente (individual).",
+    "cita": "Vygotsky, L. S. El desarrollo de los procesos psicológicos superiores."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Un maestro de 2o grado enseña a sus alumnos a usar una 'lista de verificación' antes de entregar un trabajo: ¿Escribí mi nombre? ¿Revisé la ortografía? ¿Tiene sentido lo que escribí? Los niños la consultan solos.",
+    "pregunta": "¿Qué concepto de Bodrova y Leong ilustra esta práctica?",
+    "opciones": [
+      "Control conductual impuesto por el docente sin participación del alumno",
+      "Uso de mediadores externos para promover la autorregulación del alumno",
+      "Evaluación sumativa del trabajo escrito"
+    ],
+    "respuesta": 1,
+    "explicacion": "La lista de verificación es un mediador externo que promueve la autorregulación: el niño se monitorea a sí mismo.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente, Cap. 7."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Trabajo colaborativo",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál indicador muestra que el trabajo colaborativo es efectivo en un grupo de primaria?",
+    "opciones": [
+      "Un solo alumno hace el trabajo mientras los demás ponen su nombre",
+      "Los equipos compiten agresivamente entre sí generando conflictos",
+      "Los alumnos discuten ideas, se retroalimentan entre sí y construyen productos que reflejan aportaciones de todos"
+    ],
+    "respuesta": 2,
+    "explicacion": "La colaboración efectiva se evidencia cuando hay discusión de ideas, retroalimentación mutua y productos construidos colectivamente.",
+    "cita": "Johnson, D. y Johnson, R. Aprendizaje cooperativo en el aula."
+  },
+  {
+    "fuente": "Vygotsky",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Para Vygotsky, el aprendizaje _______ al desarrollo cuando se trabaja en la ZDP.",
+    "opciones": [
+      "sigue pasivamente / porque primero debe madurar biológicamente el niño",
+      "precede y jala / porque la instrucción bien dirigida impulsa funciones que aún están madurando",
+      "es independiente de / porque son procesos paralelos sin relación"
+    ],
+    "respuesta": 1,
+    "explicacion": "Vygotsky sostiene que el aprendizaje precede y tira del desarrollo cuando ocurre en la ZDP.",
+    "cita": "Vygotsky, L. S. El desarrollo de los procesos psicológicos superiores, Cap. 6."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es la secuencia correcta de la planeación didáctica por proyectos según el Plan 2022?",
+    "opciones": [
+      "Definir productos → establecer criterios → diseñar actividades → seleccionar problemática → identificar contenidos",
+      "Identificar contenidos del programa → seleccionar problemática → diseñar actividades → definir productos → establecer criterios de evaluación",
+      "Establecer criterios → definir productos → identificar contenidos → seleccionar problemática → diseñar actividades"
+    ],
+    "respuesta": 1,
+    "explicacion": "La planeación parte de los contenidos, selecciona una problemática articuladora, diseña actividades, define productos y criterios.",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías."
+  },
+  {
+    "fuente": "Piaget",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Piaget, ¿qué operación lógica permite al niño en operaciones concretas ordenar objetos por tamaño de menor a mayor?",
+    "opciones": [
+      "La conservación de volumen",
+      "El pensamiento hipotético-deductivo",
+      "La seriación"
+    ],
+    "respuesta": 2,
+    "explicacion": "La seriación es la capacidad de ordenar elementos según una dimensión (tamaño, peso), típica de operaciones concretas.",
+    "cita": "Piaget, J. La psicología del niño, Cap. 4."
+  },
+  {
+    "fuente": "Piaget",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Un niño de 3er grado puede clasificar animales en mamíferos, aves y reptiles, y entiende que los mamíferos son un subconjunto de los animales vertebrados.",
+    "pregunta": "¿Qué operación cognitiva demuestra según Piaget?",
+    "opciones": [
+      "Pensamiento preoperacional basado solo en apariencias",
+      "Razonamiento formal con variables abstractas",
+      "Clasificación jerárquica con inclusión de clases, propia de operaciones concretas"
+    ],
+    "respuesta": 2,
+    "explicacion": "La clasificación jerárquica con inclusión de clases es logro de operaciones concretas.",
+    "cita": "Piaget, J. La psicología del niño."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Rol docente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La maestra Claudia observa que su planeación de ciencias no funcionó: los alumnos se aburrieron y no comprendieron. En su diario pedagógico registra qué falló y modifica la estrategia para la próxima sesión.",
+    "pregunta": "¿Qué competencia profesional está ejerciendo Claudia?",
+    "opciones": [
+      "La planificación administrativa de horarios escolares",
+      "La evaluación sumativa de sus alumnos",
+      "La reflexión sobre la práctica y la toma de decisiones basada en evidencia para mejorar su enseñanza"
+    ],
+    "respuesta": 2,
+    "explicacion": "Claudia ejerce la práctica reflexiva: analiza lo ocurrido, identifica problemas y ajusta con base en evidencia.",
+    "cita": "Schön, D. El profesional reflexivo; SEP, Perfil docente."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Escuela y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál estrategia fortalece mejor la relación escuela-comunidad en primaria?",
+    "opciones": [
+      "Cerrar la escuela a la comunidad para evitar interferencias en el proceso educativo",
+      "Involucrar a familias y actores comunitarios como informantes, colaboradores o destinatarios en los proyectos escolares",
+      "Solicitar únicamente cooperaciones económicas sin participación pedagógica"
+    ],
+    "respuesta": 1,
+    "explicacion": "La relación escuela-comunidad se fortalece cuando las familias participan activamente en el proceso pedagógico.",
+    "cita": "SEP, Plan de Estudio 2022, La comunidad como eje."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Preparación secundaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En 6o grado, la maestra promueve que los alumnos organicen su tiempo de estudio con un horario semanal, identifiquen sus fortalezas y debilidades académicas, y se propongan metas personales.",
+    "pregunta": "¿Qué habilidad para la vida está desarrollando?",
+    "opciones": [
+      "Autonomía y metacognición como preparación para las exigencias de secundaria",
+      "Competitividad académica para obtener los mejores promedios",
+      "Dependencia del docente para organizar todas las actividades"
+    ],
+    "respuesta": 0,
+    "explicacion": "Organizar el estudio, reconocer fortalezas/debilidades y fijar metas son habilidades metacognitivas y de autonomía clave para secundaria.",
+    "cita": "SEP, Programa Sintético Fase 5, 2022."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Bodrova y Leong, ¿por qué es importante el juego con reglas en los primeros grados de primaria?",
+    "opciones": [
+      "Porque es un pasatiempo sin valor educativo que solo sirve para el recreo",
+      "Porque reemplaza completamente la instrucción académica formal",
+      "Porque desarrolla la autorregulación: el niño debe inhibir impulsos y seguir normas compartidas"
+    ],
+    "respuesta": 2,
+    "explicacion": "El juego con reglas promueve la autorregulación al requerir inhibición de impulsos y seguimiento de normas acordadas.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente, Cap. 10."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Exploración del entorno",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué saberes previos traen los niños de 1er grado sobre su entorno natural según el enfoque de Fase 3?",
+    "opciones": [
+      "Ninguno, porque el conocimiento científico solo se adquiere en la escuela",
+      "Conocimientos construidos en su vida cotidiana y en preescolar sobre plantas, animales, clima y su comunidad",
+      "Conceptos formales de biología que aprendieron en libros antes de entrar a primaria"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los niños llegan con saberes previos construidos en la vida cotidiana y preescolar que son punto de partida para la enseñanza.",
+    "cita": "SEP, Programa Sintético Fase 3, 2022."
+  },
+  {
+    "fuente": "Meece",
+    "categoria": "Desarrollo cognitivo escolar",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "Según Meece, ¿cómo debe responder un docente ante un alumno que aprende más lentamente que sus pares?",
+    "opciones": [
+      "Repetirle exactamente la misma explicación más fuerte hasta que entienda",
+      "Canalizarlo inmediatamente a educación especial sin intentar ajustes en el aula",
+      "Ofrecer más tiempo, diversificar estrategias y reconocer que los ritmos de aprendizaje varían sin que ello signifique deficiencia"
+    ],
+    "respuesta": 2,
+    "explicacion": "Meece señala que ritmos diferentes requieren diversificación de estrategias, no repetición idéntica ni segregación.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La rúbrica como instrumento de evaluación formativa permite al alumno conocer _______ antes de realizar la tarea.",
+    "opciones": [
+      "la calificación final que obtendrá",
+      "las respuestas correctas del examen",
+      "los criterios y niveles de desempeño esperados"
+    ],
+    "respuesta": 2,
+    "explicacion": "La rúbrica transparenta criterios y niveles de logro, permitiendo al alumno autorregular su desempeño.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué tipo de proyecto del Plan 2022 tiene mayor potencial de impacto en la comunidad?",
+    "opciones": [
+      "El proyecto comunitario, porque su producto busca atender una necesidad real del entorno social",
+      "El proyecto de aula, porque se limita al espacio escolar sin conexión externa",
+      "El proyecto individual, porque cada alumno trabaja aisladamente"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los proyectos comunitarios tienen mayor impacto social porque atienden necesidades reales del entorno.",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías."
+  },
+  {
+    "fuente": "Desarrollo socioemocional",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Erikson, ¿cuál es la crisis psicosocial que enfrentan los niños en edad escolar (6-12 años)?",
+    "opciones": [
+      "Identidad vs. confusión de roles: el adolescente define quién es",
+      "Confianza vs. desconfianza: el bebé aprende a confiar en sus cuidadores",
+      "Laboriosidad vs. inferioridad: el niño busca sentirse competente en sus actividades"
+    ],
+    "respuesta": 2,
+    "explicacion": "Erikson plantea que en la edad escolar el niño necesita experimentar logros para desarrollar sentido de competencia (laboriosidad).",
+    "cita": "Erikson, E. Identidad, juventud y crisis."
+  },
+  {
+    "fuente": "Desarrollo socioemocional",
+    "categoria": "Desarrollo del niño 6-12 años",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Sofía de 5o grado siempre termina rápido sus trabajos pero se frustra cuando algo no le sale perfecto a la primera. Llora si obtiene 9 en lugar de 10 y se compara constantemente con la mejor alumna.",
+    "pregunta": "¿Qué aspecto del desarrollo socioemocional se manifiesta?",
+    "opciones": [
+      "Un trastorno grave de personalidad que requiere tratamiento psiquiátrico inmediato",
+      "Falta de interés académico disfrazada de perfeccionismo",
+      "La comparación social propia de la edad escolar y una tendencia perfeccionista que puede generar ansiedad ante el fracaso"
+    ],
+    "respuesta": 2,
+    "explicacion": "La comparación social es normal a esta edad; el perfeccionismo excesivo requiere acompañamiento pero no es patología per se.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores, Cap. 5."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Lectoescritura",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál intervención docente es más adecuada para un niño en nivel silábico de escritura en 1er grado?",
+    "opciones": [
+      "Dejarlo sin intervención hasta que madure solo al nivel alfabético",
+      "Proponer actividades que generen conflicto cognitivo entre su hipótesis silábica y la escritura convencional",
+      "Corregir con rojo todos sus errores y obligarlo a repetir hasta escribir convencionalmente"
+    ],
+    "respuesta": 1,
+    "explicacion": "El conflicto cognitivo permite al niño cuestionar su hipótesis silábica y avanzar en su conceptualización de la escritura.",
+    "cita": "Ferreiro, E. y Teberosky, A. Los sistemas de escritura en el desarrollo del niño."
+  },
+  {
+    "fuente": "Programa Sintético Fase 4",
+    "categoria": "Fase 4 - Consolidación lectora",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué estrategia promueve la fluidez lectora en Fase 4 de manera significativa?",
+    "opciones": [
+      "La lectura mecánica cronometrada sin atención al significado",
+      "Evitar la lectura en voz alta porque genera ansiedad",
+      "La lectura repetida de textos diversos con propósito comunicativo (leer para otros, teatro leído, podcasts escolares)"
+    ],
+    "respuesta": 2,
+    "explicacion": "La fluidez se desarrolla con lecturas repetidas que tienen propósito comunicativo, no con ejercicios mecánicos cronometrados.",
+    "cita": "SEP, Programa Sintético Fase 4, Campo Lenguajes, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Inclusión educativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la principal barrera para el aprendizaje que una escuela inclusiva debe eliminar?",
+    "opciones": [
+      "Las actitudes, prácticas y políticas institucionales que impiden la participación plena de todos los alumnos",
+      "Las características individuales de los alumnos con discapacidad",
+      "La falta de un diagnóstico médico específico para cada alumno"
+    ],
+    "respuesta": 0,
+    "explicacion": "El modelo inclusivo ubica las barreras en el contexto (actitudes, prácticas, políticas) y no en el individuo.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Inclusión."
+  },
+  {
+    "fuente": "Bodrova y Leong",
+    "categoria": "Herramientas de la mente",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Bodrova y Leong, ¿qué sucede cuando un niño de primaria resuelve un problema hablando en voz baja para sí mismo?",
+    "opciones": [
+      "Está distrayendo a sus compañeros y debe ser callado inmediatamente",
+      "Presenta un síntoma de dificultad de aprendizaje",
+      "Está usando el habla privada como herramienta de autorregulación cognitiva para guiar su pensamiento"
+    ],
+    "respuesta": 2,
+    "explicacion": "El habla privada en voz baja es normal y funcional: guía el pensamiento del niño mientras resuelve problemas.",
+    "cita": "Bodrova, E. y Leong, D. Herramientas de la mente, Cap. 3."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Pensamiento matemático",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En 2o grado, al resolver '15 + 8', Tomás cuenta con los dedos a partir de 15: '16, 17, 18... 23'. Ana en cambio descompone: '15 + 5 = 20, y 20 + 3 = 23'.",
+    "pregunta": "¿Qué indican estas diferencias?",
+    "opciones": [
+      "Tomás está mal y debe corregirse inmediatamente porque contar con dedos es inadecuado en 2o grado",
+      "Ambas son estrategias válidas que reflejan distintos niveles en la construcción del concepto de suma; Ana muestra mayor dominio de la estructura decimal",
+      "Ana copia el procedimiento del maestro sin comprenderlo"
+    ],
+    "respuesta": 1,
+    "explicacion": "Ambas estrategias son válidas; reflejan distintos momentos del desarrollo del pensamiento aditivo.",
+    "cita": "SEP, Programa Sintético Fase 3, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "Una primaria realiza un proyecto sobre alimentación saludable. Los alumnos de 1o-2o hacen un huerto escolar, los de 3o-4o investigan el valor nutricional de alimentos locales, y los de 5o-6o elaboran un recetario comunitario.",
+    "pregunta": "¿Qué característica del proyecto escolar se observa?",
+    "opciones": [
+      "Trabajo aislado de cada grado sin conexión entre sí",
+      "Articulación de todos los grados en torno a una problemática común con actividades diferenciadas por nivel de complejidad",
+      "Imposición de una misma actividad para todos los grados sin considerar desarrollo"
+    ],
+    "respuesta": 1,
+    "explicacion": "Un buen proyecto escolar articula grados con actividades diferenciadas pero conectadas en torno a una problemática compartida.",
+    "cita": "SEP, Plan de Estudio 2022, Proyectos escolares."
+  },
+  {
+    "fuente": "Programa Sintético Fase 4",
+    "categoria": "Fase 4 - Ciencias naturales",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cómo vincula Fase 4 la enseñanza de ciencias naturales con la responsabilidad social?",
+    "opciones": [
+      "Promueve que los alumnos comprendan fenómenos naturales y asuman acciones responsables hacia el cuidado del ambiente y la salud",
+      "Se limita a enseñar contenidos científicos sin relación con valores ni responsabilidad",
+      "Prohíbe abordar temas ambientales porque son políticos"
+    ],
+    "respuesta": 0,
+    "explicacion": "Fase 4 vincula el conocimiento científico con la responsabilidad social hacia el ambiente y la salud.",
+    "cita": "SEP, Programa Sintético Fase 4, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cómo se comunican los resultados de evaluación a las familias según el enfoque formativo?",
+    "opciones": [
+      "Exclusivamente con calificaciones numéricas sin explicación",
+      "No se comunican porque la evaluación es asunto solo del docente",
+      "Mediante descripciones cualitativas de avances y recomendaciones específicas, no solo números"
+    ],
+    "respuesta": 2,
+    "explicacion": "La comunicación formativa con familias incluye descripciones de avances y recomendaciones, no solo calificaciones.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Rol docente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Un docente nuevo llega a una primaria multigrado rural con alumnos de 1o a 6o en un mismo salón. Debe planear actividades que atiendan diferentes niveles simultáneamente.",
+    "pregunta": "¿Cuál estrategia es más pertinente?",
+    "opciones": [
+      "Dar la misma actividad a todos sin importar el grado porque el tiempo no alcanza para diferenciar",
+      "Diseñar un tema común con actividades diferenciadas por nivel de complejidad y promover tutoría entre pares de diferentes grados",
+      "Atender solo a los grados mayores porque los pequeños pueden jugar mientras tanto"
+    ],
+    "respuesta": 1,
+    "explicacion": "En multigrado se requiere un tema integrador con actividades diferenciadas y aprovechamiento de la tutoría entre pares.",
+    "cita": "SEP, Propuesta Educativa Multigrado 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Inclusión educativa",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una primaria hay dos alumnos con TDAH que se distraen frecuentemente. La maestra reorganiza el aula, los sienta cerca de ella, divide las tareas en pasos cortos con descansos, y usa señales visuales para recuperar su atención.",
+    "pregunta": "¿Qué enfoque de atención a la diversidad aplica?",
+    "opciones": [
+      "Segregación al sentar a los alumnos con TDAH lejos del grupo",
+      "Diseño Universal para el Aprendizaje y ajustes metodológicos que benefician a todos sin estigmatizar",
+      "Ignorar sus necesidades esperando que se adapten solos al ritmo grupal"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los ajustes metodológicos (fragmentar tareas, señales visuales, cercanía) son parte del DUA y benefician a todos.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Inclusión."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Escuela y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El Programa Escolar de Mejora Continua (PEMC) es el instrumento donde el colectivo docente _______ para _______.",
+    "opciones": [
+      "registra calificaciones de los alumnos / informar a los padres",
+      "planea festivales y eventos sociales / recaudar fondos",
+      "define prioridades, metas y acciones a partir de un diagnóstico / mejorar los aprendizajes y el funcionamiento escolar"
+    ],
+    "respuesta": 2,
+    "explicacion": "El PEMC es la herramienta de planeación escolar basada en diagnóstico para la mejora continua de aprendizajes.",
+    "cita": "SEP, Lineamientos para la organización y el funcionamiento de los CTE."
+  },
+  {
+    "fuente": "Programa Sintético Fase 4",
+    "categoria": "Fase 4 - Consolidación lectora",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué desafío lector típico enfrentan los alumnos de 3o y 4o grado según los referentes de Fase 4?",
+    "opciones": [
+      "La decodificación básica de sílabas simples",
+      "La transición de aprender a leer hacia leer para aprender: usar la lectura como herramienta para adquirir conocimiento",
+      "La lectura de textos en idiomas extranjeros"
+    ],
+    "respuesta": 1,
+    "explicacion": "En 3o-4o ocurre la transición de 'aprender a leer' a 'leer para aprender', un cambio crucial en la función de la lectura.",
+    "cita": "SEP, Programa Sintético Fase 4, Campo Lenguajes, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Trabajo colaborativo",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Para que el trabajo colaborativo sea efectivo, el docente debe asegurar _______ y _______.",
+    "opciones": [
+      "competencia entre equipos / premio solo para el ganador",
+      "homogeneidad de los equipos / ausencia de conflicto cognitivo",
+      "interdependencia positiva entre miembros / responsabilidad individual por la aportación de cada uno"
+    ],
+    "respuesta": 2,
+    "explicacion": "La interdependencia positiva y la responsabilidad individual son condiciones esenciales del aprendizaje colaborativo.",
+    "cita": "Johnson, D. y Johnson, R. Aprendizaje cooperativo en el aula."
+  },
+  {
+    "fuente": "Programa Sintético Fase 5",
+    "categoria": "Fase 5 - Preparación secundaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál habilidad transversal es más importante desarrollar en 5o y 6o para la transición a secundaria?",
+    "opciones": [
+      "La memorización de grandes cantidades de datos para exámenes",
+      "La obediencia incondicional a las instrucciones del docente sin cuestionar",
+      "La capacidad de investigar, sintetizar información de múltiples fuentes y comunicar hallazgos de forma organizada"
+    ],
+    "respuesta": 2,
+    "explicacion": "Investigar, sintetizar y comunicar son habilidades transversales fundamentales para el éxito en secundaria.",
+    "cita": "SEP, Programa Sintético Fase 5, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Rol docente",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué función tiene el Consejo Técnico Escolar (CTE) en la transformación de la escuela primaria?",
+    "opciones": [
+      "Es una reunión administrativa solo para llenar formatos oficiales",
+      "Es un espacio exclusivo del director donde los docentes solo escuchan",
+      "Es el espacio donde el colectivo docente analiza problemáticas, toma decisiones pedagógicas colegiadas y da seguimiento a la mejora escolar"
+    ],
+    "respuesta": 2,
+    "explicacion": "El CTE es el órgano colegiado donde el colectivo docente analiza, decide y da seguimiento a la mejora escolar.",
+    "cita": "SEP, Lineamientos para la organización y el funcionamiento de los CTE."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Pensamiento matemático",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cómo debe responder un docente de Fase 3 cuando un alumno usa una estrategia de resolución no convencional pero correcta?",
+    "opciones": [
+      "Validar la estrategia, pedir que la explique al grupo y usarla para enriquecer la discusión sobre distintos caminos de solución",
+      "Ignorarla y pasar al siguiente ejercicio",
+      "Rechazarla porque no es el procedimiento enseñado por el docente"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las estrategias no convencionales correctas deben validarse y compartirse para enriquecer el repertorio del grupo.",
+    "cita": "SEP, Programa Sintético Fase 3, Saberes y Pensamiento Científico, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una reunión de CTE, los docentes analizan los resultados de una evaluación diagnóstica. Descubren que el 60% de los alumnos de 4o no comprende textos informativos. Deciden implementar estrategias de lectura compartida en todos los grados.",
+    "pregunta": "¿Qué función de la evaluación se está ejerciendo?",
+    "opciones": [
+      "La evaluación como instrumento punitivo para señalar a los docentes de 3er grado",
+      "La evaluación como requisito burocrático sin impacto en la práctica",
+      "La evaluación como insumo para la toma de decisiones pedagógicas colegiadas a nivel escolar"
+    ],
+    "respuesta": 2,
+    "explicacion": "La evaluación cumple su función transformadora cuando sus resultados informan decisiones pedagógicas colectivas.",
+    "cita": "SEP, Plan de Estudio 2022; Lineamientos CTE."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Planeación por proyectos",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Una maestra de 5o grado inicia un proyecto sobre 'Los derechos de los niños en mi comunidad'. Al plantear la problemática pregunta: '¿Qué derechos sienten que no se cumplen aquí?' Los alumnos mencionan la falta de espacios de juego seguros.",
+    "pregunta": "¿Qué principio metodológico aplica al iniciar así el proyecto?",
+    "opciones": [
+      "Partir de las necesidades e intereses reales de los alumnos y su contexto para dar sentido al proyecto",
+      "Imponer un tema sin consultar al grupo para avanzar más rápido",
+      "Limitar el proyecto a contenidos del libro sin conexión con la realidad"
+    ],
+    "respuesta": 0,
+    "explicacion": "Partir de los intereses y necesidades reales del grupo garantiza significatividad y compromiso con el proyecto.",
+    "cita": "SEP, Plan de Estudio 2022, Metodologías."
+  },
+  {
+    "fuente": "Programa Sintético Fase 3",
+    "categoria": "Fase 3 - Exploración del entorno",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cómo puede un proyecto de exploración del entorno en Fase 3 contribuir a la transformación de la comunidad?",
+    "opciones": [
+      "Los niños solo observan sin actuar porque son demasiado pequeños para transformar algo",
+      "Los niños identifican un problema ambiental local, investigan y proponen acciones sencillas que involucran a sus familias",
+      "Los niños memorizan datos sobre problemas globales sin conexión con su realidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "Incluso en Fase 3, los niños pueden identificar problemas locales y proponer acciones transformadoras con apoyo familiar.",
+    "cita": "SEP, Programa Sintético Fase 3, 2022."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Rol docente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El docente como agente de transformación social ejerce su función cuando su práctica _______ y _______.",
+    "opciones": [
+      "se limita a transmitir contenidos / mantiene el orden en el grupo",
+      "promueve el pensamiento crítico de sus alumnos / contribuye a la justicia social desde el aula",
+      "sigue instrucciones sin reflexionar / evita vincularse con la comunidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "El agente de transformación promueve pensamiento crítico y contribuye a la justicia social desde su práctica.",
+    "cita": "SEP, Plan de Estudio 2022, La Nueva Escuela Mexicana."
+  },
+  {
+    "fuente": "Meece",
+    "categoria": "Desarrollo cognitivo escolar",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Meece, ¿qué papel juega la metacognición en el aprendizaje de los alumnos de primaria?",
+    "opciones": [
+      "Permite que el alumno sea consciente de sus propios procesos de pensamiento y los regule estratégicamente",
+      "Solo se relaciona con la memorización y no con la comprensión",
+      "Es una habilidad exclusiva de adultos que los niños no pueden desarrollar"
+    ],
+    "respuesta": 0,
+    "explicacion": "La metacognición permite la consciencia y regulación de los propios procesos cognitivos, y se desarrolla gradualmente en primaria.",
+    "cita": "Meece, J. Desarrollo del niño y del adolescente para educadores."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Interculturalidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué implica el eje articulador de interculturalidad crítica en primaria?",
+    "opciones": [
+      "Celebrar festividades indígenas una vez al año como actividad folclórica",
+      "Reconocer, valorar y dialogar con la diversidad cultural desde una perspectiva que cuestione las relaciones de poder y discriminación",
+      "Enseñar exclusivamente la cultura dominante como referente universal"
+    ],
+    "respuesta": 1,
+    "explicacion": "La interculturalidad crítica va más allá del folclore: cuestiona relaciones de poder y promueve diálogo equitativo entre culturas.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Interculturalidad crítica."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Interculturalidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una primaria del estado de Oaxaca, hay niños que hablan zapoteco y español. La maestra incorpora cuentos en zapoteco, invita a abuelos a narrar historias comunitarias y los niños producen textos bilingües.",
+    "pregunta": "¿Qué eje articulador se trabaja principalmente?",
+    "opciones": [
+      "Interculturalidad crítica, al reconocer y valorar la lengua originaria como recurso pedagógico legítimo",
+      "Vida saludable, porque los cuentos hablan sobre alimentación",
+      "Pensamiento crítico, porque los niños cuestionan textos"
+    ],
+    "respuesta": 0,
+    "explicacion": "Incorporar la lengua originaria como recurso pedagógico es un ejercicio de interculturalidad crítica.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Interculturalidad crítica."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Igualdad de género",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál práctica docente promueve la igualdad de género en primaria?",
+    "opciones": [
+      "Separar a niñas y niños en actividades distintas según roles tradicionales",
+      "Evitar hablar de género porque los niños son muy pequeños para entenderlo",
+      "Asignar roles y actividades sin distinción de género y cuestionar estereotipos cuando aparecen"
+    ],
+    "respuesta": 2,
+    "explicacion": "Promover igualdad de género implica evitar estereotipos en la asignación de roles y cuestionar los que aparecen.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué papel juega la autoevaluación en la evaluación formativa de primaria?",
+    "opciones": [
+      "Es irrelevante porque los niños de primaria no pueden evaluarse a sí mismos",
+      "Permite que el alumno reflexione sobre su propio proceso de aprendizaje y desarrolle metacognición",
+      "Solo sirve para que el docente tenga menos trabajo al calificar"
+    ],
+    "respuesta": 1,
+    "explicacion": "La autoevaluación desarrolla metacognición al hacer que el alumno reflexione conscientemente sobre su aprendizaje.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "Después de una exposición oral en 5o grado, el maestro pide a los alumnos que se coevalúen usando una rúbrica sencilla con criterios como: claridad, uso de ejemplos y contacto visual.",
+    "pregunta": "¿Qué beneficio tiene esta práctica de coevaluación?",
+    "opciones": [
+      "Genera conflictos porque los niños no son capaces de evaluar objetivamente",
+      "Sustituye completamente la evaluación del docente",
+      "Desarrolla la capacidad de los alumnos para dar y recibir retroalimentación constructiva entre pares"
+    ],
+    "respuesta": 2,
+    "explicacion": "La coevaluación con rúbrica desarrolla habilidades de retroalimentación constructiva y criterio analítico en los alumnos.",
+    "cita": "SEP, Plan de Estudio 2022, Evaluación formativa."
+  },
+  {
+    "fuente": "Didáctica de primaria",
+    "categoria": "Rol docente",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué significa que el docente sea un 'profesional de la educación' según la normatividad vigente?",
+    "opciones": [
+      "Que posee saberes disciplinares, pedagógicos y didácticos que le permiten tomar decisiones fundamentadas sobre su práctica",
+      "Que su principal función es administrativa y no pedagógica",
+      "Que solo necesita seguir instrucciones sin cuestionar ni adaptar"
+    ],
+    "respuesta": 0,
+    "explicacion": "El docente profesional integra saberes disciplinares, pedagógicos y didácticos para tomar decisiones informadas.",
+    "cita": "Ley General del Sistema para la Carrera de las Maestras y los Maestros, Art. 3."
+  }
+]

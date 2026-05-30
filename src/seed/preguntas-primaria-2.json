@@ -1,0 +1,2110 @@
+[
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el propósito principal de la evaluación formativa en primaria según el Plan de Estudio 2022?",
+    "opciones": [
+      "Asignar calificaciones numéricas para el reporte de evaluación",
+      "Retroalimentar el proceso de aprendizaje para orientar la toma de decisiones pedagógicas",
+      "Clasificar a los estudiantes según su nivel de desempeño comparativo"
+    ],
+    "respuesta": 1,
+    "explicacion": "La evaluación formativa tiene como propósito central retroalimentar el proceso educativo para mejorar la enseñanza y el aprendizaje, no solo medir resultados.",
+    "cita": "SEP, Plan de Estudio para la Educación Preescolar, Primaria y Secundaria, 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La rúbrica como instrumento de evaluación formativa permite principalmente:",
+    "opciones": [
+      "Establecer criterios claros y niveles de desempeño para que el estudiante conozca qué se espera de su trabajo",
+      "Sustituir las calificaciones numéricas por letras",
+      "Estandarizar los productos de todos los alumnos para facilitar la revisión docente"
+    ],
+    "respuesta": 0,
+    "explicacion": "La rúbrica explicita criterios y niveles de logro, permitiendo al estudiante autorregular su aprendizaje y al docente ofrecer retroalimentación precisa.",
+    "cita": "SEP, Lineamientos de Evaluación, Educación Básica, 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Carmen, de 4o grado en una escuela urbana, aplica un examen de opción múltiple al inicio del ciclo escolar para conocer los aprendizajes previos de sus 32 alumnos en matemáticas.",
+    "pregunta": "¿Qué tipo de evaluación está realizando la maestra Carmen?",
+    "opciones": [
+      "Evaluación sumativa",
+      "Evaluación diagnóstica",
+      "Evaluación formativa de proceso"
+    ],
+    "respuesta": 1,
+    "explicacion": "La evaluación diagnóstica se realiza al inicio de un ciclo o unidad para identificar los conocimientos previos y necesidades de los estudiantes.",
+    "cita": "SEP, Lineamientos de Evaluación, Educación Básica, 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El maestro Roberto, de 5o grado, pide a sus alumnos que durante el bimestre recopilen sus mejores trabajos de escritura, reflexiones sobre su proceso y evidencias de mejora en un folder organizado cronológicamente.",
+    "pregunta": "¿Qué instrumento de evaluación formativa está implementando el maestro Roberto?",
+    "opciones": [
+      "Lista de cotejo acumulativa",
+      "Portafolio de evidencias",
+      "Diario de clase del docente"
+    ],
+    "respuesta": 1,
+    "explicacion": "El portafolio de evidencias es una colección organizada de trabajos del estudiante que muestra su progreso y permite la reflexión metacognitiva.",
+    "cita": "SEP, Lineamientos de Evaluación, Educación Básica, 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la característica MÁS relevante de la retroalimentación descriptiva en comparación con la retroalimentación evaluativa?",
+    "opciones": [
+      "Se enfoca en describir qué hizo bien el estudiante y qué puede mejorar, sin emitir juicios de valor numéricos",
+      "Se limita a señalar los errores para que el alumno los corrija",
+      "Utiliza sellos y stickers motivacionales en los cuadernos"
+    ],
+    "respuesta": 0,
+    "explicacion": "La retroalimentación descriptiva ofrece información específica sobre el desempeño del estudiante, indicando fortalezas y áreas de mejora sin reducirse a una calificación.",
+    "cita": "Anijovich, R. (2017). La evaluación como oportunidad."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En la evaluación formativa, la coevaluación se refiere a:",
+    "opciones": [
+      "La evaluación que realiza el docente sobre el desempeño del alumno",
+      "La evaluación entre pares donde los estudiantes valoran el trabajo de sus compañeros con criterios establecidos",
+      "La autoevaluación que realiza cada estudiante sobre su propio aprendizaje"
+    ],
+    "respuesta": 1,
+    "explicacion": "La coevaluación implica que los estudiantes evalúan mutuamente sus trabajos usando criterios previamente compartidos, promoviendo la reflexión y el aprendizaje colaborativo.",
+    "cita": "SEP, Lineamientos de Evaluación, Educación Básica, 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La evaluación formativa se distingue de la sumativa porque su finalidad es _______ el proceso de aprendizaje, no solo certificar resultados.",
+    "opciones": [
+      "regular y mejorar",
+      "calificar y clasificar",
+      "medir y comparar"
+    ],
+    "respuesta": 0,
+    "explicacion": "La evaluación formativa busca regular y mejorar continuamente el proceso de enseñanza-aprendizaje mediante retroalimentación oportuna.",
+    "cita": "SEP, Plan de Estudio 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Lucía, de 3er grado, observa que varios alumnos tienen dificultades con la comprensión lectora. Decide ajustar su planeación y utilizar textos más cortos con preguntas guía antes de avanzar al siguiente contenido.",
+    "pregunta": "¿Qué función de la evaluación formativa está ejerciendo la maestra Lucía?",
+    "opciones": [
+      "Función certificadora de aprendizajes",
+      "Función reguladora del proceso de enseñanza",
+      "Función de promoción del grado escolar"
+    ],
+    "respuesta": 1,
+    "explicacion": "La función reguladora de la evaluación formativa permite al docente ajustar su práctica pedagógica según las necesidades detectadas en los estudiantes.",
+    "cita": "SEP, Plan de Estudio 2022, apartado de evaluación."
+  },
+  {
+    "fuente": "Ley General de Educación - Inclusión",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Las Barreras para el Aprendizaje y la Participación (BAP) se refieren a:",
+    "opciones": [
+      "Las limitaciones inherentes al estudiante por su condición de discapacidad",
+      "Los obstáculos del contexto escolar, áulico y socio-familiar que dificultan el aprendizaje y la participación plena",
+      "Las deficiencias cognitivas que impiden al alumno alcanzar los aprendizajes esperados"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las BAP son obstáculos del contexto (no del alumno) que limitan su participación y aprendizaje; se ubican en el entorno, no en la persona.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El Diseño Universal para el Aprendizaje (DUA) propone tres principios fundamentales que son:",
+    "opciones": [
+      "Múltiples formas de representación, múltiples formas de acción y expresión, y múltiples formas de implicación",
+      "Evaluación diferenciada, contenido simplificado y tiempo extra para todos",
+      "Adaptación curricular significativa, apoyo individualizado y reducción de contenidos"
+    ],
+    "respuesta": 0,
+    "explicacion": "El DUA se basa en tres principios: representación (el qué del aprendizaje), acción y expresión (el cómo) e implicación (el porqué), para atender la diversidad desde el diseño.",
+    "cita": "CAST (2018). Universal Design for Learning Guidelines version 2.2."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En la escuela primaria 'Benito Juárez', el equipo de USAER detecta que un alumno de 2o grado con discapacidad intelectual no está participando en las actividades grupales porque las instrucciones son únicamente verbales y extensas.",
+    "pregunta": "Según el enfoque de BAP, ¿dónde se ubica la barrera?",
+    "opciones": [
+      "En la discapacidad intelectual del alumno",
+      "En la práctica pedagógica del docente que no diversifica las formas de comunicar instrucciones",
+      "En la familia del alumno que no lo prepara en casa"
+    ],
+    "respuesta": 1,
+    "explicacion": "Desde el modelo social, la barrera está en el contexto (la forma en que se dan las instrucciones), no en la condición del alumno.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La USAER (Unidad de Servicios de Apoyo a la Educación Regular) tiene como función principal:",
+    "opciones": [
+      "Atender exclusivamente a alumnos con discapacidad en un aula separada",
+      "Apoyar a la escuela regular en la eliminación de BAP y favorecer la educación inclusiva de todos los alumnos",
+      "Diagnosticar a los alumnos con necesidades especiales para canalizarlos a escuelas especiales"
+    ],
+    "respuesta": 1,
+    "explicacion": "La USAER trabaja dentro de la escuela regular para apoyar la inclusión de todos los alumnos, no solo los que tienen discapacidad, eliminando barreras contextuales.",
+    "cita": "SEP, Lineamientos de USAER, Educación Especial."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "Desde la perspectiva del DUA, ¿cuál es la MEJOR estrategia para presentar un tema nuevo en un grupo diverso de 4o grado?",
+    "opciones": [
+      "Ofrecer la información mediante texto, imágenes, video y manipulación de objetos para que cada alumno acceda según sus fortalezas",
+      "Entregar una fotocopia del tema y pedir que lo lean en silencio",
+      "Explicar verbalmente el tema y dictar las ideas principales"
+    ],
+    "respuesta": 0,
+    "explicacion": "El DUA promueve múltiples formas de representación para que todos los estudiantes puedan acceder al contenido según sus diversos estilos y capacidades.",
+    "cita": "CAST (2018). Universal Design for Learning Guidelines."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "El maestro Arturo, de 6o grado en una escuela rural, tiene un alumno hablante de náhuatl que participa poco en clase. Arturo decide incorporar saberes comunitarios del alumno como recurso para toda la clase y usar apoyos visuales bilingües.",
+    "pregunta": "¿Qué principio del DUA aplica principalmente el maestro Arturo?",
+    "opciones": [
+      "Múltiples formas de implicación (motivación)",
+      "Múltiples formas de representación",
+      "Ambos principios: representación e implicación"
+    ],
+    "respuesta": 2,
+    "explicacion": "Al usar apoyos visuales bilingües aplica representación múltiple, y al valorar los saberes del alumno genera motivación e implicación.",
+    "cita": "CAST (2018). UDL Guidelines; SEP, Estrategia Nacional de Educación Inclusiva."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Las BAP se clasifican en tres tipos: actitudinales, _______ y organizativas.",
+    "opciones": [
+      "pedagógicas",
+      "cognitivas",
+      "económicas"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las BAP se clasifican en actitudinales (prejuicios y discriminación), pedagógicas (prácticas de enseñanza rígidas) y organizativas (normativas y estructuras institucionales).",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La regulación emocional en niños de primaria implica principalmente:",
+    "opciones": [
+      "Suprimir las emociones negativas para mantener un buen comportamiento en el aula",
+      "Identificar, comprender y manejar las propias emociones de manera constructiva",
+      "Expresar todas las emociones libremente sin considerar el contexto social"
+    ],
+    "respuesta": 1,
+    "explicacion": "La regulación emocional no es suprimir emociones sino reconocerlas, comprenderlas y gestionarlas de forma que permitan un bienestar personal y social.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En 3er grado, durante un trabajo en equipo, Sofía se frustra porque sus compañeros no aceptan su idea. Comienza a llorar y se aísla. La maestra Elena se acerca y le ayuda a nombrar lo que siente, luego le sugiere respirar profundo y buscar una forma de proponer su idea nuevamente.",
+    "pregunta": "¿Qué habilidad socioemocional está mediando la maestra Elena?",
+    "opciones": [
+      "Autonomía",
+      "Regulación emocional",
+      "Empatía"
+    ],
+    "respuesta": 1,
+    "explicacion": "La maestra ayuda a Sofía a identificar su emoción y a usar estrategias para manejar su frustración, lo cual es regulación emocional.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La empatía en el contexto de la educación socioemocional en primaria se define como:",
+    "opciones": [
+      "La capacidad de sentir lástima por quienes sufren",
+      "La habilidad de comprender y compartir los sentimientos del otro, reconociendo su perspectiva",
+      "La obligación moral de ayudar siempre a los demás"
+    ],
+    "respuesta": 1,
+    "explicacion": "La empatía implica la capacidad cognitiva y afectiva de comprender la perspectiva emocional del otro, sin confundirla con lástima o con una obligación.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál actividad es MÁS pertinente para desarrollar la colaboración en un grupo de 5o grado?",
+    "opciones": [
+      "Un proyecto integrador donde cada equipo investiga un problema comunitario y propone soluciones colectivas",
+      "Un examen individual cronometrado sobre los contenidos del bimestre",
+      "Una competencia entre equipos donde solo gana uno y los demás pierden"
+    ],
+    "respuesta": 0,
+    "explicacion": "La colaboración se desarrolla mediante actividades que requieren interdependencia positiva, responsabilidad compartida y metas comunes, como un proyecto colectivo.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "El maestro Pablo, de 1er grado, implementa un 'rincón de la calma' en su aula donde los niños pueden ir cuando se sienten enojados o tristes. En ese espacio hay tarjetas con estrategias: respirar, contar hasta 10, dibujar lo que sienten.",
+    "pregunta": "¿Qué dimensión socioemocional promueve principalmente esta estrategia?",
+    "opciones": [
+      "Autonomía en la toma de decisiones académicas",
+      "Autorregulación emocional",
+      "Conciencia social y empatía"
+    ],
+    "respuesta": 1,
+    "explicacion": "El rincón de la calma ofrece herramientas para que los niños gestionen sus emociones de forma autónoma, promoviendo la autorregulación emocional.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La autonomía como dimensión socioemocional en primaria se refiere a:",
+    "opciones": [
+      "Que el niño trabaje siempre solo sin ayuda del docente ni de sus compañeros",
+      "La capacidad progresiva del estudiante para tomar decisiones, asumir consecuencias y actuar con iniciativa propia",
+      "La independencia total del alumno respecto a las normas escolares"
+    ],
+    "respuesta": 1,
+    "explicacion": "La autonomía es la capacidad gradual de tomar decisiones responsables y actuar con iniciativa, no significa aislamiento ni ausencia de normas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La corresponsabilidad educativa entre escuela y familias implica:",
+    "opciones": [
+      "Que las familias se encarguen de las tareas escolares y el docente solo evalúe",
+      "Una responsabilidad compartida donde ambos actores colaboran para el desarrollo integral del estudiante",
+      "Que la escuela asuma toda la responsabilidad formativa sin involucrar a las familias"
+    ],
+    "respuesta": 1,
+    "explicacion": "La corresponsabilidad es el compromiso compartido entre escuela y familias, cada uno desde su ámbito, para contribuir al desarrollo integral del alumno.",
+    "cita": "Ley General de Educación, Art. 78, 2019."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La directora de una primaria urbana organiza un taller bimestral donde los padres de familia aprenden estrategias para apoyar la lectura en casa. También invita a abuelos a contar historias en el aula como parte del proyecto de lenguajes.",
+    "pregunta": "¿Qué tipo de participación está promoviendo la directora?",
+    "opciones": [
+      "Participación social comunitaria vinculada al aprendizaje",
+      "Rendición de cuentas administrativa",
+      "Supervisión parental del desempeño docente"
+    ],
+    "respuesta": 0,
+    "explicacion": "La directora vincula a las familias directamente con el proceso de aprendizaje, promoviendo una participación activa y significativa, no solo informativa.",
+    "cita": "SEP, Lineamientos de Participación Social en la Educación, 2022."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la forma MÁS efectiva de vincular a la comunidad con la escuela primaria según el enfoque de la NEM?",
+    "opciones": [
+      "Solicitar cooperaciones económicas y mano de obra para el mantenimiento del plantel",
+      "Integrar saberes y prácticas comunitarias como contenidos curriculares y abrir la escuela como espacio de diálogo",
+      "Invitar a los padres únicamente a ceremonias cívicas y festivales"
+    ],
+    "respuesta": 1,
+    "explicacion": "La NEM promueve que la comunidad sea fuente de aprendizaje y que la escuela sea un espacio de participación activa en la vida comunitaria.",
+    "cita": "SEP, Plan de Estudio 2022, La comunidad como núcleo integrador."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "El maestro Jorge, de 4o grado en una comunidad rural, envía recados frecuentes a los padres quejándose del comportamiento de los alumnos. Los padres dejan de asistir a las reuniones. El director le sugiere cambiar su estrategia de comunicación.",
+    "pregunta": "¿Qué estrategia sería más adecuada para reconstruir la relación escuela-familia?",
+    "opciones": [
+      "Seguir enviando recados pero con lenguaje más formal",
+      "Establecer comunicación positiva que también reconozca logros y convoque a los padres como aliados del aprendizaje",
+      "Dejar de comunicarse con los padres para evitar conflictos"
+    ],
+    "respuesta": 1,
+    "explicacion": "Una comunicación que reconozca logros y convoque como aliados genera confianza y corresponsabilidad, a diferencia de la comunicación solo punitiva.",
+    "cita": "SEP, Lineamientos de Participación Social, 2022."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Según la Ley General de Educación, los Consejos de Participación Social en la Educación son instancias de _______ entre escuela, familias y comunidad.",
+    "opciones": [
+      "colaboración y corresponsabilidad",
+      "vigilancia y fiscalización",
+      "autoridad y control disciplinario"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los Consejos de Participación Social son órganos de colaboración que promueven la corresponsabilidad educativa entre los distintos actores.",
+    "cita": "Ley General de Educación, Capítulo VIII, 2019."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El Programa Escolar de Mejora Continua (PEMC) es un instrumento del CTE que tiene como propósito:",
+    "opciones": [
+      "Cumplir un requisito administrativo exigido por la supervisión escolar",
+      "Planear, ejecutar y evaluar acciones colectivas para mejorar el servicio educativo a partir de un diagnóstico participativo",
+      "Establecer las calificaciones mínimas aprobatorias del plantel"
+    ],
+    "respuesta": 1,
+    "explicacion": "El PEMC es la herramienta de planeación escolar que orienta las acciones de mejora continua basándose en un diagnóstico colectivo de necesidades.",
+    "cita": "SEP, Lineamientos del Consejo Técnico Escolar, 2022-2023."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Las sesiones ordinarias del CTE se realizan:",
+    "opciones": [
+      "Diariamente antes del horario de clases",
+      "Una vez al mes, en las fechas establecidas por el calendario escolar oficial",
+      "Solo al inicio y al final del ciclo escolar"
+    ],
+    "respuesta": 1,
+    "explicacion": "El CTE sesiona mensualmente de forma ordinaria según las fechas marcadas en el calendario escolar, permitiendo seguimiento continuo al PEMC.",
+    "cita": "SEP, Lineamientos del CTE, Calendario Escolar."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En la sesión de CTE de noviembre, el colectivo docente de la primaria 'Emiliano Zapata' analiza los resultados de la evaluación diagnóstica y detecta que el 60% de los alumnos de 3o a 6o tienen dificultades en comprensión lectora. Deciden implementar una estrategia de lectura compartida en toda la escuela.",
+    "pregunta": "¿Qué elemento del trabajo colegiado están ejerciendo?",
+    "opciones": [
+      "Toma de decisiones pedagógicas basada en evidencias y acuerdos colectivos",
+      "Cumplimiento de una orden de la supervisión escolar",
+      "Planeación individual de cada docente para su grupo"
+    ],
+    "respuesta": 0,
+    "explicacion": "El trabajo colegiado implica analizar datos, dialogar y tomar decisiones pedagógicas colectivas para atender problemáticas comunes del plantel.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál práctica refleja MEJOR el sentido del trabajo colegiado en el CTE?",
+    "opciones": [
+      "Los docentes comparten sus experiencias, analizan conjuntamente las problemáticas y acuerdan estrategias didácticas comunes",
+      "El director dicta las acciones y los docentes las ejecutan sin cuestionamiento",
+      "Cada docente trabaja de forma aislada y solo reporta sus resultados al final del bimestre"
+    ],
+    "respuesta": 0,
+    "explicacion": "El trabajo colegiado auténtico implica diálogo entre pares, análisis colectivo de la práctica y toma de decisiones compartida.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden correcto de las fases del PEMC?",
+    "opciones": [
+      "Diagnóstico - Objetivos y metas - Acciones - Seguimiento y evaluación",
+      "Acciones - Diagnóstico - Seguimiento - Objetivos",
+      "Objetivos - Acciones - Diagnóstico - Evaluación"
+    ],
+    "respuesta": 0,
+    "explicacion": "El PEMC sigue una lógica de mejora continua: primero se diagnostica, luego se establecen objetivos, se planean acciones y finalmente se da seguimiento y se evalúa.",
+    "cita": "SEP, Orientaciones para elaborar el PEMC, 2019."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Quiénes integran el Consejo Técnico Escolar en una escuela primaria?",
+    "opciones": [
+      "Únicamente el director y los padres de familia",
+      "El director, subdirector (si existe), todos los docentes frente a grupo y personal de apoyo pedagógico",
+      "Solo los docentes con mayor antigüedad en el plantel"
+    ],
+    "respuesta": 1,
+    "explicacion": "El CTE está integrado por todo el personal docente y directivo del plantel, incluyendo personal de apoyo pedagógico como USAER.",
+    "cita": "SEP, Lineamientos del CTE, Art. 3."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La perspectiva de género en educación primaria implica:",
+    "opciones": [
+      "Separar a niños y niñas en actividades diferentes según su sexo",
+      "Identificar y cuestionar los estereotipos de género que limitan el desarrollo integral de niñas y niños",
+      "Dar preferencia a las niñas en todas las actividades para compensar desigualdades históricas"
+    ],
+    "respuesta": 1,
+    "explicacion": "La perspectiva de género busca visibilizar y cuestionar estereotipos para que todos los estudiantes desarrollen su potencial sin limitaciones basadas en su género.",
+    "cita": "SEP, Plan de Estudio 2022; Ley General de Educación, Art. 16."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La maestra Diana, de 2o grado, observa que durante el recreo los niños siempre ocupan la cancha de futbol y las niñas se quedan en las orillas. En clase, cuando pregunta quién quiere ser científico, solo levantan la mano los niños.",
+    "pregunta": "¿Qué acción con perspectiva de género debería implementar la maestra Diana?",
+    "opciones": [
+      "Prohibir el futbol para que todos hagan la misma actividad",
+      "Diseñar actividades que rompan estereotipos, como organizar equipos mixtos y presentar referentes de mujeres científicas",
+      "Ignorar la situación porque es natural que niños y niñas tengan preferencias distintas"
+    ],
+    "respuesta": 1,
+    "explicacion": "La perspectiva de género implica intervenir activamente para romper estereotipos mediante actividades inclusivas y referentes diversos.",
+    "cita": "SEP, Plan de Estudio 2022, Ejes articuladores: Igualdad de género."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El uso de lenguaje incluyente en el aula de primaria se refiere a:",
+    "opciones": [
+      "Usar la 'e' o la 'x' en todas las palabras del español",
+      "Evitar expresiones que invisibilicen, excluyan o discriminen a personas por su género, y visibilizar a todas y todos",
+      "Hablar exclusivamente en femenino para compensar el uso histórico del masculino genérico"
+    ],
+    "respuesta": 1,
+    "explicacion": "El lenguaje incluyente busca nombrar y visibilizar a todas las personas sin discriminar, usando diversas estrategias lingüísticas apropiadas al contexto.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál situación refleja MEJOR la reproducción de estereotipos de género en el aula?",
+    "opciones": [
+      "Pedir solo a las niñas que adornen el salón y solo a los niños que carguen las sillas",
+      "Organizar equipos mixtos para todas las actividades del día",
+      "Permitir que todos los alumnos elijan libremente el color de sus materiales"
+    ],
+    "respuesta": 0,
+    "explicacion": "Asignar actividades según el sexo (adornar vs. cargar) reproduce estereotipos de género sobre lo que corresponde a niñas y niños.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En la reunión de padres de familia de 5o grado, un padre comenta que su hijo no debería participar en la clase de danza porque 'eso es para niñas'. La maestra Fernanda necesita responder.",
+    "pregunta": "¿Cuál respuesta refleja mejor la perspectiva de género?",
+    "opciones": [
+      "Aceptar la posición del padre y exentar al niño de la actividad",
+      "Explicar que todas las actividades son para todos los estudiantes y que la danza desarrolla habilidades corporales valiosas sin distinción de género",
+      "Cambiar la danza por futbol para evitar conflictos con los padres"
+    ],
+    "respuesta": 1,
+    "explicacion": "La perspectiva de género implica que el docente cuestione estereotipos y comunique a las familias que las actividades no tienen género.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La interculturalidad crítica, a diferencia de la interculturalidad funcional, se caracteriza por:",
+    "opciones": [
+      "Celebrar la diversidad cultural solo en fechas conmemorativas sin cuestionar relaciones de poder",
+      "Cuestionar las relaciones de poder y las condiciones de desigualdad entre culturas, promoviendo un diálogo simétrico",
+      "Promover la asimilación de las culturas originarias a la cultura dominante"
+    ],
+    "respuesta": 1,
+    "explicacion": "La interculturalidad crítica va más allá del folclore y cuestiona las estructuras de poder que generan desigualdad entre culturas.",
+    "cita": "Walsh, C. (2010). Interculturalidad crítica y educación intercultural; SEP, Plan de Estudio 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El diálogo de saberes en el contexto educativo se refiere a:",
+    "opciones": [
+      "Que el docente transmita los conocimientos científicos como únicos válidos",
+      "El reconocimiento y valoración equitativa de diferentes sistemas de conocimiento, incluyendo los saberes comunitarios y originarios",
+      "Que los alumnos investiguen en internet para complementar el libro de texto"
+    ],
+    "respuesta": 1,
+    "explicacion": "El diálogo de saberes reconoce que existen diversas formas válidas de conocimiento y promueve su encuentro en condiciones de igualdad epistémica.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Interculturalidad crítica."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En una escuela primaria de Oaxaca, la maestra Guadalupe invita a una partera de la comunidad zapoteca a compartir con los alumnos de 4o grado sus conocimientos sobre plantas medicinales. Luego, los alumnos comparan estos saberes con lo que dice su libro de Ciencias Naturales.",
+    "pregunta": "¿Qué enfoque pedagógico está aplicando la maestra Guadalupe?",
+    "opciones": [
+      "Diálogo de saberes entre conocimiento comunitario y conocimiento científico",
+      "Sustitución del currículo oficial por saberes tradicionales",
+      "Folclorización de las prácticas indígenas"
+    ],
+    "respuesta": 0,
+    "explicacion": "Al poner en diálogo ambos sistemas de conocimiento sin jerarquizarlos, la maestra aplica el diálogo de saberes propio de la interculturalidad crítica.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Interculturalidad crítica."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál práctica docente es MÁS congruente con la interculturalidad crítica?",
+    "opciones": [
+      "Dedicar un día al año para que los alumnos se disfracen con trajes típicos de diferentes culturas",
+      "Integrar sistemáticamente los saberes comunitarios como contenido curricular válido y cuestionar por qué ciertos conocimientos se han invisibilizado",
+      "Enseñar una lengua indígena como materia optativa sin vincularla al resto del currículo"
+    ],
+    "respuesta": 1,
+    "explicacion": "La interculturalidad crítica no es folclórica ni aditiva; implica transformar el currículo para incluir saberes diversos cuestionando las relaciones de poder epistémico.",
+    "cita": "Walsh, C. (2010); SEP, Plan de Estudio 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Los saberes comunitarios en el Plan de Estudio 2022 se consideran como _______ que enriquecen el currículo nacional.",
+    "opciones": [
+      "conocimientos válidos y fuentes legítimas de aprendizaje",
+      "complementos opcionales sin valor curricular",
+      "obstáculos para el aprendizaje del conocimiento universal"
+    ],
+    "respuesta": 0,
+    "explicacion": "El Plan 2022 reconoce los saberes comunitarios como conocimientos legítimos que se integran al currículo, no como adornos o complementos opcionales.",
+    "cita": "SEP, Plan de Estudio 2022, Marco curricular."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En el Plan de Estudio 2022, los pueblos originarios son reconocidos como:",
+    "opciones": [
+      "Grupos vulnerables que requieren programas asistenciales especiales",
+      "Sujetos de derecho con saberes, lenguas y culturas que deben estar presentes en la educación",
+      "Comunidades que deben integrarse a la cultura nacional dominante"
+    ],
+    "respuesta": 1,
+    "explicacion": "El Plan 2022 reconoce a los pueblos originarios como sujetos de derecho cuyas lenguas, saberes y culturas enriquecen la educación nacional.",
+    "cita": "SEP, Plan de Estudio 2022; Constitución Política, Art. 2."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Lenguajes",
+    "categoria": "Campos formativos - Lenguajes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El campo formativo Lenguajes en primaria integra:",
+    "opciones": [
+      "Únicamente la asignatura de Español (lectura y escritura)",
+      "Español, lenguas indígenas, inglés, artes y expresiones culturales como formas diversas de comunicación",
+      "Solo español e inglés como lenguas de comunicación internacional"
+    ],
+    "respuesta": 1,
+    "explicacion": "El campo Lenguajes es integral e incluye diversas formas de expresión y comunicación: lenguas (español, indígenas, inglés) y expresiones artísticas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo formativo Lenguajes."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Lenguajes",
+    "categoria": "Campos formativos - Lenguajes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Rocío, de 3er grado, diseña un proyecto donde los alumnos crean un libro de leyendas de su comunidad. Investigan con familiares, escriben borradores, los revisan entre pares, ilustran las leyendas y presentan el libro en una asamblea escolar.",
+    "pregunta": "¿Qué contenidos del campo Lenguajes se articulan en este proyecto?",
+    "opciones": [
+      "Solo producción de textos escritos",
+      "Oralidad, lectura, escritura, expresión artística y vinculación comunitaria",
+      "Únicamente la tradición oral y las artes visuales"
+    ],
+    "respuesta": 1,
+    "explicacion": "El proyecto integra múltiples lenguajes: la investigación oral, la lectura de referentes, la producción escrita, la ilustración artística y la presentación oral.",
+    "cita": "SEP, Programa Sintético, Campo Lenguajes, Fases 3-5."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Saberes y Pensamiento Científico",
+    "categoria": "Campos formativos - Saberes y pensamiento científico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El campo formativo Saberes y Pensamiento Científico en primaria busca que los alumnos:",
+    "opciones": [
+      "Memoricen definiciones científicas y fórmulas matemáticas",
+      "Desarrollen pensamiento crítico y científico mediante la indagación, la experimentación y el razonamiento lógico-matemático",
+      "Aprendan únicamente los contenidos que aparecen en el examen estandarizado"
+    ],
+    "respuesta": 1,
+    "explicacion": "Este campo promueve que los alumnos construyan conocimiento mediante la indagación, la experimentación y el pensamiento lógico, no la memorización.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Saberes y Pensamiento Científico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Saberes y Pensamiento Científico",
+    "categoria": "Campos formativos - Saberes y pensamiento científico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El maestro Enrique, de 5o grado, propone investigar por qué se contamina el arroyo cercano a la escuela. Los alumnos toman muestras de agua, las observan con lupas, registran datos, consultan a vecinos y proponen acciones para cuidar el arroyo.",
+    "pregunta": "¿Qué enfoque didáctico del campo Saberes y Pensamiento Científico se evidencia?",
+    "opciones": [
+      "Aprendizaje basado en la indagación y vinculado al contexto comunitario",
+      "Enseñanza expositiva de contenidos de biología",
+      "Repetición de experimentos del libro de texto sin conexión con el entorno"
+    ],
+    "respuesta": 0,
+    "explicacion": "El enfoque indagatorio parte de problemas reales del contexto, involucra observación, registro y análisis de datos, y conecta con la comunidad.",
+    "cita": "SEP, Programa Sintético, Campo Saberes y Pensamiento Científico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Ética, Naturaleza y Sociedades",
+    "categoria": "Campos formativos - Ética, naturaleza y sociedades",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El campo formativo Ética, Naturaleza y Sociedades integra contenidos de:",
+    "opciones": [
+      "Solo formación cívica y ética",
+      "Historia, geografía, formación cívica y ética, y educación ambiental, desde una perspectiva crítica e integral",
+      "Únicamente ciencias naturales y ecología"
+    ],
+    "respuesta": 1,
+    "explicacion": "Este campo articula lo histórico, geográfico, ético y ambiental para comprender las relaciones entre sociedades y naturaleza de forma crítica.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Ética, Naturaleza y Sociedades."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Ética, Naturaleza y Sociedades",
+    "categoria": "Campos formativos - Ética, naturaleza y sociedades",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál actividad es MÁS congruente con el enfoque del campo Ética, Naturaleza y Sociedades?",
+    "opciones": [
+      "Memorizar fechas y nombres de héroes nacionales para un examen",
+      "Analizar críticamente un problema ambiental local desde perspectivas históricas, éticas y geográficas para proponer soluciones colectivas",
+      "Copiar del libro de texto las definiciones de democracia y ciudadanía"
+    ],
+    "respuesta": 1,
+    "explicacion": "El campo promueve el análisis crítico de problemas reales integrando múltiples perspectivas disciplinares para formar ciudadanía activa.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Ética, Naturaleza y Sociedades."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo De lo Humano y lo Comunitario",
+    "categoria": "Campos formativos - De lo humano y lo comunitario",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El campo formativo De lo Humano y lo Comunitario en primaria abarca:",
+    "opciones": [
+      "Solo educación física y deporte competitivo",
+      "Educación socioemocional, educación física, vida saludable y sentido de comunidad de manera integrada",
+      "Exclusivamente habilidades socioemocionales sin componente corporal"
+    ],
+    "respuesta": 1,
+    "explicacion": "Este campo integra el desarrollo corporal, socioemocional, la vida saludable y el sentido de pertenencia comunitaria como dimensiones interrelacionadas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo Humano y lo Comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Una secuencia didáctica se estructura generalmente en tres momentos que son:",
+    "opciones": [
+      "Inicio (activación de conocimientos previos), desarrollo (construcción del aprendizaje) y cierre (consolidación y evaluación)",
+      "Dictado, ejercicios y examen",
+      "Exposición del maestro, copia del pizarrón y tarea para casa"
+    ],
+    "respuesta": 0,
+    "explicacion": "La secuencia didáctica organiza las actividades en inicio, desarrollo y cierre, cada momento con funciones pedagógicas específicas.",
+    "cita": "SEP, Plan de Estudio 2022, Sugerencias de evaluación y planeación."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Un proyecto integrador en primaria se caracteriza por:",
+    "opciones": [
+      "Abordar contenidos de un solo campo formativo de manera aislada",
+      "Articular aprendizajes de varios campos formativos alrededor de una situación problema o pregunta generadora vinculada al contexto",
+      "Ser una actividad manual decorativa para entregar al final del bimestre"
+    ],
+    "respuesta": 1,
+    "explicacion": "El proyecto integrador articula varios campos formativos en torno a una problemática o pregunta significativa, promoviendo aprendizajes situados.",
+    "cita": "SEP, Plan de Estudio 2022, Orientaciones didácticas."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Verónica, de 6o grado, planea un proyecto integrador sobre la alimentación saludable en su comunidad. Articula Lenguajes (textos informativos), Saberes y Pensamiento Científico (nutrientes), Ética, Naturaleza y Sociedades (producción de alimentos) y De lo Humano y Comunitario (hábitos saludables).",
+    "pregunta": "¿Qué elemento de la planeación didáctica está aplicando la maestra Verónica?",
+    "opciones": [
+      "Planeación por asignatura aislada",
+      "Planeación mediante un proyecto integrador que articula los cuatro campos formativos",
+      "Planeación basada en el libro de texto como único recurso"
+    ],
+    "respuesta": 1,
+    "explicacion": "La maestra está diseñando un proyecto integrador que articula todos los campos formativos alrededor de un tema significativo del contexto.",
+    "cita": "SEP, Plan de Estudio 2022, Orientaciones para la planeación didáctica."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la característica MÁS importante de una situación de aprendizaje según el Plan de Estudio 2022?",
+    "opciones": [
+      "Que presente un reto cognitivo vinculado al contexto real del estudiante y promueva la participación activa",
+      "Que sea fácil de resolver para que todos los alumnos obtengan buenas calificaciones",
+      "Que se pueda resolver solo con la información del libro de texto"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las situaciones de aprendizaje deben ser retadoras, significativas y vinculadas al contexto real, promoviendo la participación activa del estudiante.",
+    "cita": "SEP, Plan de Estudio 2022, Orientaciones didácticas."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden correcto para diseñar una planeación didáctica según el Plan 2022?",
+    "opciones": [
+      "Identificar contenidos y procesos de desarrollo - Diseñar situaciones de aprendizaje - Seleccionar estrategias de evaluación formativa",
+      "Elegir el examen - Dar el tema - Calificar",
+      "Copiar la planeación del ciclo anterior - Ajustar fechas - Entregar al director"
+    ],
+    "respuesta": 0,
+    "explicacion": "La planeación parte de los contenidos y procesos de desarrollo del programa, luego se diseñan situaciones de aprendizaje y se planea la evaluación formativa.",
+    "cita": "SEP, Plan de Estudio 2022, Orientaciones para la planeación."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El maestro Luis, de 1er grado, planea su semana copiando textualmente las actividades sugeridas en el libro del docente sin considerar el contexto de sus alumnos, que viven en una comunidad pesquera costera.",
+    "pregunta": "¿Qué principio de la planeación didáctica está omitiendo el maestro Luis?",
+    "opciones": [
+      "La contextualización del currículo a las características y necesidades de los alumnos y su comunidad",
+      "El uso de tecnología educativa en el aula",
+      "La evaluación estandarizada bimestral"
+    ],
+    "respuesta": 0,
+    "explicacion": "La planeación debe contextualizar los contenidos al entorno de los estudiantes; copiar actividades genéricas ignora la realidad del grupo y su comunidad.",
+    "cita": "SEP, Plan de Estudio 2022, Programa analítico y contextualización."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El programa analítico es el resultado de la _______ que el docente realiza del programa sintético considerando su contexto escolar y comunitario.",
+    "opciones": [
+      "contextualización",
+      "simplificación",
+      "traducción literal"
+    ],
+    "respuesta": 0,
+    "explicacion": "El programa analítico surge de contextualizar el programa sintético a la realidad específica de la escuela, los alumnos y la comunidad.",
+    "cita": "SEP, Plan de Estudio 2022, Programa analítico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Ana, de 2o grado, utiliza una lista de cotejo diaria para registrar si cada alumno participa oralmente, respeta turnos y expresa sus ideas con claridad. Al final de la semana, revisa los registros y ajusta su planeación.",
+    "pregunta": "¿Qué técnica de evaluación formativa está empleando la maestra Ana?",
+    "opciones": [
+      "Observación sistemática con registro en lista de cotejo",
+      "Evaluación sumativa bimestral",
+      "Autoevaluación del alumno"
+    ],
+    "respuesta": 0,
+    "explicacion": "La observación sistemática con registro en instrumentos como la lista de cotejo es una técnica de evaluación formativa que permite dar seguimiento continuo.",
+    "cita": "SEP, Lineamientos de Evaluación, Educación Básica."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La autoevaluación como estrategia de evaluación formativa en primaria promueve que el alumno:",
+    "opciones": [
+      "Se ponga la calificación que desee sin criterios claros",
+      "Reflexione sobre su propio proceso de aprendizaje, identifique sus logros y áreas de mejora con base en criterios compartidos",
+      "Evalúe al docente y a sus compañeros"
+    ],
+    "respuesta": 1,
+    "explicacion": "La autoevaluación desarrolla la metacognición al permitir que el estudiante reflexione sobre su aprendizaje usando criterios previamente establecidos.",
+    "cita": "SEP, Plan de Estudio 2022, apartado de evaluación."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En la primaria 'José Martí', la maestra de 3o grado tiene un alumno con TDAH que frecuentemente se levanta de su lugar y no termina las actividades. La maestra decide sentarlo al frente, darle instrucciones cortas y permitirle pausas de movimiento cada 20 minutos.",
+    "pregunta": "¿Qué tipo de ajuste está realizando la maestra?",
+    "opciones": [
+      "Ajustes razonables para eliminar barreras pedagógicas",
+      "Castigo encubierto por mala conducta",
+      "Exclusión del alumno de las actividades del grupo"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los ajustes razonables son modificaciones necesarias y adecuadas para garantizar la participación del alumno sin imponer una carga desproporcionada.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019; Convención sobre los Derechos de las PcD."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál acción es MÁS congruente con la educación inclusiva en primaria?",
+    "opciones": [
+      "Diseñar desde el inicio actividades con diferentes niveles de complejidad y formas de participación para todo el grupo",
+      "Preparar una actividad general y luego hacer una versión simplificada aparte para los alumnos con dificultades",
+      "Enviar a los alumnos con BAP al aula de USAER mientras el grupo trabaja normalmente"
+    ],
+    "respuesta": 0,
+    "explicacion": "La inclusión genuina implica diseñar desde el inicio (DUA) pensando en la diversidad, no hacer adaptaciones posteriores o segregar.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En 4o grado, el maestro Carlos implementa 'círculos de diálogo' semanales donde los alumnos comparten cómo se sintieron durante la semana, escuchan a los demás sin interrumpir y proponen soluciones a conflictos grupales.",
+    "pregunta": "¿Qué habilidades socioemocionales se desarrollan con esta práctica?",
+    "opciones": [
+      "Solo regulación emocional",
+      "Empatía, escucha activa y resolución colaborativa de conflictos",
+      "Competitividad y liderazgo individual"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los círculos de diálogo promueven la empatía (escuchar al otro), la escucha activa y la resolución de conflictos de manera colaborativa.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El desarrollo socioemocional en primaria contribuye a que los niños construyan su _______ a través del autoconocimiento, la autorregulación y las relaciones interpersonales positivas.",
+    "opciones": [
+      "identidad personal y sentido de pertenencia",
+      "rendimiento académico exclusivamente",
+      "obediencia a las normas escolares"
+    ],
+    "respuesta": 0,
+    "explicacion": "La educación socioemocional contribuye a la construcción de identidad y sentido de pertenencia, no se reduce al rendimiento académico ni a la obediencia.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según el Plan de Estudio 2022, la comunidad en relación con la escuela es concebida como:",
+    "opciones": [
+      "Un obstáculo para el aprendizaje que debe mantenerse alejado",
+      "El núcleo integrador de los procesos de enseñanza y aprendizaje, fuente de saberes y espacio de transformación",
+      "Un proveedor de recursos materiales para la escuela"
+    ],
+    "respuesta": 1,
+    "explicacion": "El Plan 2022 posiciona a la comunidad como núcleo integrador del proceso educativo, no como un elemento externo o meramente de apoyo material.",
+    "cita": "SEP, Plan de Estudio 2022, La comunidad como núcleo integrador."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una escuela rural de Chiapas, el colectivo docente identifica que muchos padres son agricultores y conocen técnicas ancestrales de siembra. Deciden invitarlos a participar en el proyecto escolar de huerto, donde comparten sus saberes con los alumnos.",
+    "pregunta": "¿Qué principio de la relación escuela-comunidad se está aplicando?",
+    "opciones": [
+      "La comunidad como fuente de saberes y los padres como agentes educativos",
+      "Los padres como mano de obra gratuita para la escuela",
+      "La escuela como espacio cerrado que decide qué enseñar sin consultar a la comunidad"
+    ],
+    "respuesta": 0,
+    "explicacion": "Al reconocer los saberes de los padres e integrarlos al proceso educativo, la escuela los posiciona como agentes educativos, no como mano de obra.",
+    "cita": "SEP, Plan de Estudio 2022, La comunidad como núcleo integrador."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En la fase intensiva del CTE (antes del inicio de clases), el colectivo docente de la primaria 'Niños Héroes' realiza el diagnóstico integral de la escuela, revisa indicadores educativos y define las prioridades del PEMC para el nuevo ciclo.",
+    "pregunta": "¿Cuál es la función principal de la fase intensiva del CTE?",
+    "opciones": [
+      "Organizar los eventos sociales y festivales del ciclo escolar",
+      "Realizar el diagnóstico escolar, establecer acuerdos y diseñar el PEMC del ciclo",
+      "Capacitar a los docentes en temas administrativos de la SEP"
+    ],
+    "respuesta": 1,
+    "explicacion": "La fase intensiva del CTE sirve para diagnosticar la situación escolar y planear colectivamente las acciones de mejora del ciclo mediante el PEMC.",
+    "cita": "SEP, Lineamientos del CTE, Fase Intensiva."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El CTE es el órgano colegiado de mayor decisión _______ de cada escuela, donde se analiza y se toman acuerdos sobre la mejora del servicio educativo.",
+    "opciones": [
+      "técnico-pedagógica",
+      "administrativa y financiera",
+      "disciplinaria y de control"
+    ],
+    "respuesta": 0,
+    "explicacion": "El CTE es el máximo órgano de decisión técnico-pedagógica de la escuela, centrado en mejorar los aprendizajes y la práctica docente.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Los estereotipos de género en la educación primaria se refieren a:",
+    "opciones": [
+      "Las diferencias biológicas naturales entre niños y niñas",
+      "Creencias socialmente construidas sobre cómo deben ser, actuar y sentir las personas según su sexo",
+      "Las preferencias individuales de cada alumno sobre actividades y juegos"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los estereotipos de género son construcciones sociales, no diferencias naturales, que prescriben comportamientos según el sexo y limitan el desarrollo.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En la biblioteca escolar de una primaria, la maestra Sara se percata de que la mayoría de los cuentos muestran a princesas esperando ser rescatadas y a héroes masculinos salvando al mundo. Decide complementar el acervo con libros que muestren diversidad de roles.",
+    "pregunta": "¿Qué acción con perspectiva de género está realizando la maestra Sara?",
+    "opciones": [
+      "Censura de material didáctico",
+      "Diversificación de referentes de género en los materiales educativos",
+      "Imposición de una ideología política a los alumnos"
+    ],
+    "respuesta": 1,
+    "explicacion": "Diversificar los referentes de género en materiales educativos permite que niñas y niños se identifiquen con modelos variados, sin limitar sus aspiraciones.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En una escuela primaria de Ciudad de México, el 30% de los alumnos proviene de familias indígenas migrantes. El director propone que en lugar de celebrar solo el 'Día de los pueblos indígenas', se incorporen los saberes y lenguas de estas familias de forma permanente en las actividades escolares.",
+    "pregunta": "¿Qué enfoque intercultural promueve el director?",
+    "opciones": [
+      "Interculturalidad funcional (celebración folclórica)",
+      "Interculturalidad crítica (integración permanente y cuestionamiento de relaciones de poder)",
+      "Asimilacionismo (integración a la cultura dominante)"
+    ],
+    "respuesta": 1,
+    "explicacion": "Al proponer la inclusión permanente de saberes y lenguas (no solo celebraciones puntuales), el director promueve la interculturalidad crítica.",
+    "cita": "Walsh, C. (2010); SEP, Plan de Estudio 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Lenguajes",
+    "categoria": "Campos formativos - Lenguajes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál enfoque es MÁS adecuado para enseñar la producción de textos en primaria según el campo Lenguajes?",
+    "opciones": [
+      "Dictar textos modelo para que los alumnos los copien con buena caligrafía",
+      "Involucrar a los alumnos en prácticas sociales del lenguaje donde escriban con propósitos comunicativos reales y destinatarios auténticos",
+      "Enseñar reglas gramaticales de forma aislada y luego pedir que las apliquen en oraciones sueltas"
+    ],
+    "respuesta": 1,
+    "explicacion": "El campo Lenguajes promueve la escritura como práctica social con propósitos comunicativos reales, no como ejercicio mecánico descontextualizado.",
+    "cita": "SEP, Plan de Estudio 2022, Campo formativo Lenguajes."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Saberes y Pensamiento Científico",
+    "categoria": "Campos formativos - Saberes y pensamiento científico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "En el campo Saberes y Pensamiento Científico, el pensamiento matemático se desarrolla mediante la resolución de _______ que implican razonamiento, no la repetición mecánica de algoritmos.",
+    "opciones": [
+      "problemas significativos",
+      "planas de operaciones",
+      "cuestionarios de opción múltiple"
+    ],
+    "respuesta": 0,
+    "explicacion": "El campo promueve el desarrollo del pensamiento matemático a través de la resolución de problemas significativos que requieren razonamiento lógico.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Saberes y Pensamiento Científico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Ética, Naturaleza y Sociedades",
+    "categoria": "Campos formativos - Ética, naturaleza y sociedades",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Patricia, de 6o grado, propone un proyecto donde los alumnos investigan la historia de su barrio, identifican problemas ambientales actuales, reflexionan sobre la responsabilidad ciudadana y proponen acciones éticas para mejorar su entorno.",
+    "pregunta": "¿Qué características del campo Ética, Naturaleza y Sociedades se reflejan en este proyecto?",
+    "opciones": [
+      "La integración de lo histórico, geográfico, ético y ambiental en torno a un problema situado",
+      "La enseñanza aislada de historia como memorización de hechos",
+      "La formación cívica reducida a conocer los símbolos patrios"
+    ],
+    "respuesta": 0,
+    "explicacion": "El proyecto integra las dimensiones histórica, geográfica, ética y ambiental del campo, articuladas en un problema real del contexto.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Ética, Naturaleza y Sociedades."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La codiseño curricular en el Plan de Estudio 2022 se refiere a:",
+    "opciones": [
+      "Que los alumnos diseñen su propio currículo sin guía del docente",
+      "El proceso colaborativo entre docentes del CTE para contextualizar el programa sintético en un programa analítico pertinente",
+      "Que la SEP imponga un currículo único sin posibilidad de adaptación"
+    ],
+    "respuesta": 1,
+    "explicacion": "El codiseño curricular implica que los docentes, de forma colegiada, contextualicen el programa sintético para generar el programa analítico de su escuela.",
+    "cita": "SEP, Plan de Estudio 2022, Codiseño del programa analítico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden correcto del ciclo de evaluación formativa?",
+    "opciones": [
+      "Recoger evidencias - Analizar e interpretar - Retroalimentar - Ajustar la enseñanza",
+      "Calificar - Registrar - Reportar a padres - Archivar",
+      "Examinar - Promediar - Asignar número - Entregar boleta"
+    ],
+    "respuesta": 0,
+    "explicacion": "El ciclo formativo implica recoger evidencias, analizarlas, dar retroalimentación al estudiante y usar la información para ajustar la práctica docente.",
+    "cita": "SEP, Plan de Estudio 2022, apartado de evaluación."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El modelo social de la discapacidad, que fundamenta la educación inclusiva, plantea que:",
+    "opciones": [
+      "La discapacidad es un problema médico individual que debe curarse",
+      "La discapacidad es resultado de la interacción entre la persona y las barreras del entorno que limitan su participación",
+      "Las personas con discapacidad no pueden aprender en escuelas regulares"
+    ],
+    "respuesta": 1,
+    "explicacion": "El modelo social ubica la discapacidad en la interacción persona-entorno, no en el individuo; son las barreras del contexto las que discapacitan.",
+    "cita": "Convención sobre los Derechos de las Personas con Discapacidad, ONU, 2006."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "El personal de USAER de una primaria sugiere al maestro de 5o grado que para un alumno con discapacidad visual utilice material en Braille, maquetas táctiles y describa verbalmente todo lo que escribe en el pizarrón.",
+    "pregunta": "¿Qué principio del DUA están aplicando?",
+    "opciones": [
+      "Múltiples formas de acción y expresión",
+      "Múltiples formas de representación",
+      "Múltiples formas de implicación"
+    ],
+    "respuesta": 1,
+    "explicacion": "Al ofrecer la información en diferentes formatos sensoriales (táctil, auditivo), se aplica el principio de múltiples formas de representación.",
+    "cita": "CAST (2018). UDL Guidelines; SEP, USAER."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el papel del docente en el desarrollo socioemocional de los alumnos de primaria?",
+    "opciones": [
+      "Ser un modelo de regulación emocional y crear un ambiente seguro que favorezca la expresión y el manejo de emociones",
+      "Ignorar las emociones de los alumnos y centrarse exclusivamente en los contenidos académicos",
+      "Castigar las expresiones emocionales que interfieran con la disciplina del aula"
+    ],
+    "respuesta": 0,
+    "explicacion": "El docente es modelo y mediador socioemocional; debe crear un ambiente seguro donde los alumnos puedan expresar y regular sus emociones.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál estrategia es MÁS efectiva para desarrollar la empatía en alumnos de 6o grado?",
+    "opciones": [
+      "Leer y analizar testimonios de personas en diferentes situaciones de vida, reflexionar sobre sus sentimientos y discutir en grupo cómo se sentirían en su lugar",
+      "Dar una conferencia sobre la importancia de ser empáticos",
+      "Poner un video motivacional y pedir que escriban 'seré más empático' 10 veces"
+    ],
+    "respuesta": 0,
+    "explicacion": "La empatía se desarrolla mediante experiencias reflexivas que implican ponerse en el lugar del otro, no mediante discursos o repetición mecánica.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La Ley General de Educación establece que las familias tienen derecho a:",
+    "opciones": [
+      "Decidir los contenidos curriculares que se enseñan en la escuela",
+      "Ser informadas sobre el avance educativo de sus hijos y participar en acciones que fortalezcan su desarrollo integral",
+      "Evaluar y despedir a los docentes que consideren incompetentes"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las familias tienen derecho a información sobre el avance educativo y a participar en acciones de fortalecimiento, no a decidir contenidos ni evaluar docentes.",
+    "cita": "Ley General de Educación, Art. 78, 2019."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál práctica de vinculación escuela-comunidad es MÁS transformadora según la NEM?",
+    "opciones": [
+      "La escuela abre sus puertas a la comunidad para realizar asambleas donde se identifican problemas comunes y se diseñan proyectos educativos compartidos",
+      "La escuela solicita a los padres que firmen las boletas y asistan a festivales",
+      "La escuela coloca un buzón de quejas y sugerencias en la entrada"
+    ],
+    "respuesta": 0,
+    "explicacion": "La vinculación transformadora implica diálogo real, identificación compartida de problemas y diseño conjunto de proyectos, no solo actos informativos.",
+    "cita": "SEP, Plan de Estudio 2022, La comunidad como núcleo integrador."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es la relación entre el CTE y el PEMC?",
+    "opciones": [
+      "Son instancias independientes que no se relacionan entre sí",
+      "El CTE es el espacio colegiado donde se elabora, da seguimiento y evalúa el PEMC de manera participativa",
+      "El PEMC sustituye al CTE como máximo órgano de decisión escolar"
+    ],
+    "respuesta": 1,
+    "explicacion": "El CTE es el espacio donde el colectivo docente diseña, implementa, da seguimiento y evalúa el PEMC a lo largo del ciclo escolar.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una sesión ordinaria de CTE, la directora de la primaria presenta los resultados de una encuesta a familias que muestra alta inasistencia los lunes. El colectivo analiza las causas y acuerda estrategias para mejorar la asistencia involucrando a los padres.",
+    "pregunta": "¿Qué principio del CTE se está ejerciendo?",
+    "opciones": [
+      "Toma de decisiones basada en datos y evidencias con participación del colectivo",
+      "Imposición de sanciones a los alumnos inasistentes",
+      "Cumplimiento de un formato administrativo sin análisis real"
+    ],
+    "respuesta": 0,
+    "explicacion": "El CTE funciona cuando el colectivo usa datos reales para analizar problemáticas y tomar decisiones informadas de forma participativa.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La igualdad de género como eje articulador del Plan de Estudio 2022 debe _______ de forma transversal todos los campos formativos y las actividades escolares.",
+    "opciones": [
+      "atravesar",
+      "limitarse a una asignatura específica dentro de",
+      "ignorarse en"
+    ],
+    "respuesta": 0,
+    "explicacion": "La igualdad de género es un eje articulador transversal que debe estar presente en todos los campos formativos y actividades, no solo en una materia.",
+    "cita": "SEP, Plan de Estudio 2022, Ejes articuladores."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es la diferencia entre multiculturalidad e interculturalidad?",
+    "opciones": [
+      "Son sinónimos que se usan indistintamente",
+      "La multiculturalidad reconoce la coexistencia de culturas, mientras que la interculturalidad promueve el diálogo y la interacción entre ellas",
+      "La multiculturalidad es más avanzada que la interculturalidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "La multiculturalidad solo constata la diversidad; la interculturalidad va más allá al promover el diálogo, intercambio e interacción entre culturas.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Interculturalidad crítica."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Lenguajes",
+    "categoria": "Campos formativos - Lenguajes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el enfoque comunicativo funcional del campo Lenguajes en primaria?",
+    "opciones": [
+      "Priorizar la gramática y la ortografía como contenidos centrales aislados",
+      "Desarrollar competencias comunicativas a través de prácticas sociales del lenguaje en contextos significativos",
+      "Enseñar a leer y escribir únicamente mediante métodos silábicos"
+    ],
+    "respuesta": 1,
+    "explicacion": "El enfoque comunicativo funcional se centra en desarrollar las competencias comunicativas mediante prácticas sociales del lenguaje significativas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo formativo Lenguajes."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Saberes y Pensamiento Científico",
+    "categoria": "Campos formativos - Saberes y pensamiento científico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "La maestra Mónica, de 4o grado, pregunta a sus alumnos: '¿Por qué creen que las hojas de los árboles del patio cambian de color en otoño?' Los alumnos formulan hipótesis, diseñan un experimento de observación semanal y registran cambios en una bitácora.",
+    "pregunta": "¿Qué habilidad del pensamiento científico está promoviendo la maestra?",
+    "opciones": [
+      "La formulación de hipótesis y la observación sistemática como parte del método indagatorio",
+      "La memorización de datos sobre los árboles",
+      "La copia de información del libro de texto sobre las estaciones"
+    ],
+    "respuesta": 0,
+    "explicacion": "La maestra promueve habilidades del pensamiento científico: formular hipótesis, observar sistemáticamente y registrar datos para contrastar ideas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Saberes y Pensamiento Científico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo De lo Humano y lo Comunitario",
+    "categoria": "Campos formativos - De lo humano y lo comunitario",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En 2o grado, la maestra Teresa organiza un juego cooperativo donde los niños deben construir una torre juntos sin que nadie quede excluido. Al terminar, reflexionan sobre cómo se sintieron, qué hicieron para incluir a todos y qué dificultades tuvieron.",
+    "pregunta": "¿Qué dimensión del campo De lo Humano y lo Comunitario se aborda?",
+    "opciones": [
+      "Desarrollo corporal y motriz exclusivamente",
+      "Desarrollo socioemocional y sentido de comunidad a través del juego cooperativo",
+      "Formación deportiva competitiva"
+    ],
+    "respuesta": 1,
+    "explicacion": "El juego cooperativo con reflexión emocional aborda el desarrollo socioemocional y el sentido de comunidad, dimensiones centrales del campo.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo Humano y lo Comunitario."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál elemento es MÁS importante considerar al diseñar una secuencia didáctica para primaria?",
+    "opciones": [
+      "Que las actividades estén articuladas progresivamente, partan de los saberes previos y conduzcan a aprendizajes significativos",
+      "Que cada actividad sea independiente y pueda realizarse en cualquier orden",
+      "Que se cubra la mayor cantidad de temas posibles en el menor tiempo"
+    ],
+    "respuesta": 0,
+    "explicacion": "Una secuencia didáctica efectiva tiene actividades progresivas, articuladas entre sí, que parten de lo que saben los alumnos y construyen aprendizajes.",
+    "cita": "SEP, Plan de Estudio 2022, Orientaciones para la planeación didáctica."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Los ejes articuladores del Plan de Estudio 2022 que deben considerarse en la planeación son:",
+    "opciones": [
+      "Igualdad de género, interculturalidad crítica, inclusión, pensamiento crítico, vida saludable, artes y experiencias estéticas, y apropiación de las culturas a través de la lectura y la escritura",
+      "Español, Matemáticas, Ciencias Naturales e Historia",
+      "Aprendizajes clave, estándares curriculares y competencias para la vida"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los ejes articuladores son temas transversales que dan sentido y coherencia al currículo: igualdad de género, interculturalidad, inclusión, entre otros.",
+    "cita": "SEP, Plan de Estudio 2022, Ejes articuladores."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál instrumento de evaluación es MÁS pertinente para valorar el proceso de un proyecto integrador en 4o grado?",
+    "opciones": [
+      "Un examen de opción múltiple al finalizar el proyecto",
+      "Una rúbrica analítica que valore tanto el proceso (colaboración, investigación, creatividad) como el producto final",
+      "Una calificación numérica basada solo en la presentación oral final"
+    ],
+    "respuesta": 1,
+    "explicacion": "La rúbrica analítica permite valorar múltiples dimensiones del proyecto (proceso y producto) con criterios claros y diferenciados.",
+    "cita": "SEP, Lineamientos de Evaluación; Plan de Estudio 2022."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es la diferencia entre integración educativa e inclusión educativa?",
+    "opciones": [
+      "Son lo mismo, solo cambió el nombre",
+      "La integración pide al alumno que se adapte al sistema; la inclusión transforma el sistema para responder a la diversidad de todos",
+      "La inclusión es para alumnos con discapacidad y la integración es para todos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La integración pone la responsabilidad en el alumno de adaptarse; la inclusión exige que el sistema se transforme para atender a la diversidad.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva, 2019."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden progresivo del desarrollo de la regulación emocional en primaria?",
+    "opciones": [
+      "Identificar la emoción - Nombrarla - Comprender su causa - Aplicar una estrategia de manejo",
+      "Suprimir la emoción - Olvidarla - Seguir trabajando",
+      "Expresar la emoción sin control - Recibir castigo - Aprender a callarse"
+    ],
+    "respuesta": 0,
+    "explicacion": "La regulación emocional se desarrolla progresivamente: primero identificar, luego nombrar, después comprender causas y finalmente aplicar estrategias de manejo.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La directora de una primaria convoca a una asamblea con padres de familia donde se presenta el diagnóstico del PEMC. Los padres aportan información sobre las necesidades de la comunidad y se comprometen a apoyar con acciones específicas como acompañar lecturas en casa.",
+    "pregunta": "¿Qué principio de participación social educativa se ejemplifica?",
+    "opciones": [
+      "Rendición de cuentas unidireccional",
+      "Participación democrática de las familias en la mejora escolar",
+      "Fiscalización del gasto escolar por los padres"
+    ],
+    "respuesta": 1,
+    "explicacion": "Involucrar a las familias en el diagnóstico y en compromisos de acción refleja la participación democrática en la mejora educativa.",
+    "cita": "Ley General de Educación, 2019; SEP, Lineamientos de Participación Social."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál indicador muestra MEJOR que el CTE está funcionando como espacio de mejora continua?",
+    "opciones": [
+      "Los docentes analizan colectivamente sus prácticas, comparten estrategias exitosas y ajustan el PEMC según resultados observados",
+      "Los docentes firman la minuta de asistencia y se retiran sin participar en el análisis",
+      "El director lee un documento oficial mientras los docentes revisan su teléfono"
+    ],
+    "respuesta": 0,
+    "explicacion": "Un CTE efectivo se caracteriza por la participación activa del colectivo en el análisis de la práctica y la toma de decisiones para la mejora.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál acción docente refleja MEJOR la integración de la perspectiva de género en la planeación didáctica?",
+    "opciones": [
+      "Revisar que las actividades, materiales, ejemplos e interacciones no reproduzcan estereotipos y promuevan la participación equitativa",
+      "Agregar un tema de 'igualdad de género' una vez al año en la clase de cívica",
+      "Separar actividades para niños y niñas según sus 'intereses naturales'"
+    ],
+    "respuesta": 0,
+    "explicacion": "La perspectiva de género debe integrarse transversalmente en la planeación, revisando materiales, actividades e interacciones cotidianas.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La interculturalidad crítica como eje articulador del Plan 2022 busca superar la _______ que históricamente ha marginado los saberes y lenguas de los pueblos originarios.",
+    "opciones": [
+      "injusticia epistémica",
+      "falta de internet",
+      "carencia de libros de texto"
+    ],
+    "respuesta": 0,
+    "explicacion": "La interculturalidad crítica busca superar la injusticia epistémica que ha invisibilizado y desvalorizado los conocimientos de los pueblos originarios.",
+    "cita": "Walsh, C. (2010); SEP, Plan de Estudio 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Lenguajes",
+    "categoria": "Campos formativos - Lenguajes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "En el campo Lenguajes, las prácticas sociales del lenguaje se organizan en ámbitos que incluyen: estudio, _______ y participación social.",
+    "opciones": [
+      "literatura",
+      "gramática",
+      "ortografía"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las prácticas sociales del lenguaje se organizan en tres ámbitos: estudio, literatura y participación social, cada uno con propósitos comunicativos distintos.",
+    "cita": "SEP, Plan de Estudio 2022, Campo formativo Lenguajes."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Saberes y Pensamiento Científico",
+    "categoria": "Campos formativos - Saberes y pensamiento científico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál enfoque es MÁS adecuado para enseñar matemáticas en primaria según el campo Saberes y Pensamiento Científico?",
+    "opciones": [
+      "Plantear situaciones problemáticas que provoquen el razonamiento y la búsqueda de estrategias propias antes de formalizar procedimientos",
+      "Enseñar primero el algoritmo formal y luego pedir que resuelvan 50 ejercicios iguales",
+      "Dictar las fórmulas y definiciones para que las memoricen"
+    ],
+    "respuesta": 0,
+    "explicacion": "El enfoque promueve que los alumnos enfrenten problemas que generen razonamiento propio antes de la formalización, no la repetición mecánica de algoritmos.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Saberes y Pensamiento Científico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Ética, Naturaleza y Sociedades",
+    "categoria": "Campos formativos - Ética, naturaleza y sociedades",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En el campo Ética, Naturaleza y Sociedades, la formación ciudadana se concibe como:",
+    "opciones": [
+      "La memorización de artículos constitucionales y símbolos patrios",
+      "El desarrollo de capacidades para participar de forma crítica, ética y responsable en la vida democrática y comunitaria",
+      "La obediencia incondicional a las autoridades escolares y gubernamentales"
+    ],
+    "respuesta": 1,
+    "explicacion": "La formación ciudadana en este campo implica desarrollar capacidades de participación crítica, ética y responsable, no solo conocer normas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Ética, Naturaleza y Sociedades."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El maestro Alejandro, de 3er grado, planea una situación de aprendizaje donde los alumnos investigan cuánta agua consume su escuela, calculan costos, entrevistan al intendente, diseñan un plan de ahorro y presentan resultados a la comunidad escolar.",
+    "pregunta": "¿Qué tipo de metodología didáctica está empleando?",
+    "opciones": [
+      "Aprendizaje basado en proyectos (ABP) con vinculación comunitaria",
+      "Método expositivo tradicional",
+      "Enseñanza programada por objetivos conductuales"
+    ],
+    "respuesta": 0,
+    "explicacion": "Es un proyecto que parte de un problema real, integra diversas habilidades, involucra investigación y tiene impacto comunitario: rasgos del ABP.",
+    "cita": "SEP, Plan de Estudio 2022, Orientaciones didácticas."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La maestra Claudia devuelve los trabajos escritos de sus alumnos de 5o grado con comentarios como: 'Tu argumento principal es claro, pero necesitas agregar evidencias que lo respalden. Revisa la entrevista que hiciste y selecciona dos datos que apoyen tu idea.'",
+    "pregunta": "¿Qué tipo de retroalimentación está ofreciendo la maestra Claudia?",
+    "opciones": [
+      "Retroalimentación descriptiva orientada a la mejora",
+      "Retroalimentación evaluativa (solo calificación)",
+      "Retroalimentación punitiva (señalar errores sin guía)"
+    ],
+    "respuesta": 0,
+    "explicacion": "La maestra ofrece retroalimentación descriptiva: señala fortalezas, identifica lo que falta y da indicaciones concretas para mejorar.",
+    "cita": "Anijovich, R. (2017). La evaluación como oportunidad."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué profesionales conforman típicamente el equipo de USAER en una escuela primaria?",
+    "opciones": [
+      "Únicamente un psicólogo escolar",
+      "Maestro de apoyo, psicólogo, trabajador social y en algunos casos terapeuta de lenguaje",
+      "Solo el maestro de educación especial que trabaja en aula aparte"
+    ],
+    "respuesta": 1,
+    "explicacion": "El equipo de USAER es interdisciplinario: incluye maestro de apoyo, psicólogo, trabajador social y puede incluir terapeuta de lenguaje.",
+    "cita": "SEP, Lineamientos de operación de USAER."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "El maestro Miguel, de 6o grado, nota que hay conflictos frecuentes entre dos grupos de alumnos. Decide implementar un programa de mediación entre pares donde alumnos capacitados ayudan a sus compañeros a resolver conflictos mediante el diálogo.",
+    "pregunta": "¿Qué habilidad socioemocional se fortalece con la mediación entre pares?",
+    "opciones": [
+      "La competitividad y el liderazgo autoritario",
+      "La resolución pacífica de conflictos, la escucha activa y la empatía",
+      "La obediencia y sumisión ante la autoridad"
+    ],
+    "respuesta": 1,
+    "explicacion": "La mediación entre pares desarrolla resolución pacífica de conflictos, escucha activa y empatía al poner a los alumnos como agentes de solución.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La NEM establece que la escuela debe ser un espacio de _______ social donde se reconstruye el tejido comunitario.",
+    "opciones": [
+      "transformación",
+      "aislamiento",
+      "competencia"
+    ],
+    "respuesta": 0,
+    "explicacion": "La NEM concibe a la escuela como espacio de transformación social que contribuye a reconstruir el tejido comunitario, no como institución aislada.",
+    "cita": "SEP, Plan de Estudio 2022, La Nueva Escuela Mexicana."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál NO es una función del Consejo Técnico Escolar?",
+    "opciones": [
+      "Analizar los resultados educativos del plantel y tomar decisiones pedagógicas colectivas",
+      "Asignar calificaciones individuales a los alumnos",
+      "Diseñar y dar seguimiento al Programa Escolar de Mejora Continua"
+    ],
+    "respuesta": 1,
+    "explicacion": "Asignar calificaciones es responsabilidad individual de cada docente; el CTE se enfoca en decisiones pedagógicas colectivas y la mejora escolar.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El currículo oculto de género en la escuela primaria se refiere a:",
+    "opciones": [
+      "Los contenidos explícitos sobre igualdad de género en los libros de texto",
+      "Los mensajes implícitos que transmiten estereotipos de género a través de interacciones, materiales y organización escolar sin ser parte del currículo formal",
+      "Las actividades extraescolares opcionales sobre equidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "El currículo oculto de género son los mensajes implícitos no planeados que reproducen estereotipos en la vida cotidiana del aula y la escuela.",
+    "cita": "SEP, Plan de Estudio 2022; Jackson, P. La vida en las aulas."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Interculturalidad",
+    "categoria": "Interculturalidad crítica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál acción docente refleja MEJOR la interculturalidad crítica en un grupo de primaria con alumnos de diversas culturas?",
+    "opciones": [
+      "Pedir a cada alumno que haga una exposición sobre su cultura de origen como tarea extra",
+      "Diseñar proyectos donde los diferentes saberes culturales del grupo dialoguen con los contenidos curriculares como fuentes igualmente válidas de conocimiento",
+      "Ignorar las diferencias culturales y tratar a todos exactamente igual sin considerar su contexto"
+    ],
+    "respuesta": 1,
+    "explicacion": "La interculturalidad crítica exige integrar los saberes culturales como fuentes legítimas en el currículo, no como actividades extra ni ignorando diferencias.",
+    "cita": "Walsh, C. (2010); SEP, Plan de Estudio 2022."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Lenguajes",
+    "categoria": "Campos formativos - Lenguajes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En 1er grado, la maestra Irma implementa un 'diario del grupo' donde cada día un alumno diferente dicta una oración sobre lo que vivieron y ella la escribe en un papel grande frente a todos. Después, los niños copian e ilustran la oración.",
+    "pregunta": "¿Qué estrategia de alfabetización inicial está empleando?",
+    "opciones": [
+      "Dictado al maestro como estrategia de escritura colectiva que modela convenciones del sistema de escritura",
+      "Método silábico tradicional",
+      "Planas repetitivas de caligrafía"
+    ],
+    "respuesta": 0,
+    "explicacion": "El dictado al maestro permite que los niños vean la escritura como acto comunicativo mientras el docente modela convenciones del lenguaje escrito.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Lenguajes, Fase 3."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Saberes y Pensamiento Científico",
+    "categoria": "Campos formativos - Saberes y pensamiento científico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El campo Saberes y Pensamiento Científico integra el pensamiento matemático y las ciencias porque:",
+    "opciones": [
+      "Son las dos materias más difíciles y conviene juntarlas",
+      "Comparten el desarrollo del pensamiento lógico, la indagación y el razonamiento como herramientas para comprender y transformar la realidad",
+      "No hay suficientes horas en el horario para separarlas"
+    ],
+    "respuesta": 1,
+    "explicacion": "Matemáticas y ciencias comparten el desarrollo del pensamiento lógico e indagatorio, por lo que se articulan en un mismo campo formativo.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Saberes y Pensamiento Científico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "¿Cuál es el orden correcto para el desarrollo de un proyecto integrador?",
+    "opciones": [
+      "Identificación del problema o pregunta generadora - Planeación colectiva - Desarrollo de actividades - Socialización de resultados - Evaluación formativa",
+      "Examen diagnóstico - Exposición del tema - Examen final",
+      "Socialización - Evaluación - Problema - Planeación - Desarrollo"
+    ],
+    "respuesta": 0,
+    "explicacion": "El proyecto integrador sigue una secuencia lógica: inicia con un problema, se planea colectivamente, se desarrolla, se socializa y se evalúa formativamente.",
+    "cita": "SEP, Plan de Estudio 2022, Orientaciones didácticas."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el papel de la evaluación diagnóstica al inicio de una secuencia didáctica?",
+    "opciones": [
+      "Calificar a los alumnos antes de enseñar para predecir quiénes reprobarán",
+      "Identificar los conocimientos previos, intereses y necesidades de los alumnos para ajustar la planeación",
+      "Demostrar a los alumnos lo poco que saben para motivarlos a estudiar más"
+    ],
+    "respuesta": 1,
+    "explicacion": "La evaluación diagnóstica permite conocer el punto de partida de los alumnos para diseñar intervenciones pedagógicas pertinentes.",
+    "cita": "SEP, Plan de Estudio 2022, apartado de evaluación."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En una primaria, la maestra de 1er grado tiene 30 alumnos incluyendo uno con autismo. El equipo de USAER le sugiere usar pictogramas para la rutina diaria, anticipar cambios de actividad verbalmente y ofrecer un espacio de regulación sensorial.",
+    "pregunta": "¿Cómo benefician estas estrategias al grupo completo y no solo al alumno con autismo?",
+    "opciones": [
+      "No benefician al grupo, solo al alumno con autismo",
+      "Los pictogramas y la anticipación de rutinas proporcionan estructura y predictibilidad que favorecen a todos los niños de primer grado",
+      "Solo benefician a los alumnos que también tienen discapacidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las estrategias diseñadas con DUA benefician a todo el grupo: la estructura visual y la predictibilidad apoyan a todos los niños pequeños en su adaptación escolar.",
+    "cita": "SEP, Estrategia Nacional de Educación Inclusiva; CAST, UDL Guidelines."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "El enfoque de la educación socioemocional en la NEM se distingue porque:",
+    "opciones": [
+      "Se enseña como una asignatura separada con libro de texto propio",
+      "Se integra de manera transversal en todos los campos formativos y en la convivencia cotidiana del aula",
+      "Solo se aborda cuando hay problemas de conducta en el grupo"
+    ],
+    "respuesta": 1,
+    "explicacion": "La educación socioemocional en la NEM no es una asignatura aislada sino una dimensión transversal presente en todos los campos y en la convivencia diaria.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué implica el concepto de 'escuela abierta' en la NEM?",
+    "opciones": [
+      "Que la escuela no tenga bardas ni puertas por motivos arquitectónicos",
+      "Que la escuela se abra a la comunidad como espacio de participación, diálogo y construcción colectiva de saberes",
+      "Que cualquier persona pueda entrar a las aulas sin permiso"
+    ],
+    "respuesta": 1,
+    "explicacion": "La escuela abierta implica apertura a la comunidad como espacio de participación y diálogo, no la ausencia de límites físicos o de seguridad.",
+    "cita": "SEP, Plan de Estudio 2022, La Nueva Escuela Mexicana."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Campo Ética, Naturaleza y Sociedades",
+    "categoria": "Campos formativos - Ética, naturaleza y sociedades",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La maestra Isabel, de 5o grado, trabaja el tema de la Conquista presentando tanto la versión de los cronistas españoles como los testimonios de códices y relatos de pueblos originarios. Pide a los alumnos que analicen ambas perspectivas y reflexionen sobre quién escribe la historia.",
+    "pregunta": "¿Qué enfoque del campo Ética, Naturaleza y Sociedades aplica la maestra?",
+    "opciones": [
+      "Historia memorística con una sola versión oficial",
+      "Pensamiento histórico crítico con multiperspectividad y cuestionamiento de las narrativas hegemónicas",
+      "Relativismo donde todas las versiones son igualmente verdaderas sin análisis"
+    ],
+    "respuesta": 1,
+    "explicacion": "La maestra promueve el pensamiento histórico crítico al presentar múltiples perspectivas y cuestionar quién construye las narrativas históricas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo Ética, Naturaleza y Sociedades."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es la función del programa analítico en la planeación del docente?",
+    "opciones": [
+      "Sustituir completamente al programa sintético sin seguir ningún lineamiento nacional",
+      "Ser la contextualización del programa sintético que el docente elabora considerando las necesidades específicas de su grupo y comunidad",
+      "Un formato administrativo que se entrega al supervisor sin impacto en la práctica"
+    ],
+    "respuesta": 1,
+    "explicacion": "El programa analítico es la contextualización que el docente hace del programa sintético considerando su realidad escolar y comunitaria específica.",
+    "cita": "SEP, Plan de Estudio 2022, Programa analítico."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Planeación Didáctica",
+    "categoria": "Planeación didáctica",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La maestra Karla, de 2o grado, revisa el programa sintético de Lenguajes y nota que incluye 'participar en intercambios orales'. Considerando que sus alumnos viven en una comunidad bilingüe español-mixteco, decide incluir en su programa analítico intercambios orales en ambas lenguas usando temas comunitarios.",
+    "pregunta": "¿Qué proceso de planeación está realizando la maestra Karla?",
+    "opciones": [
+      "Contextualización del programa sintético en el programa analítico",
+      "Modificación no autorizada del currículo nacional",
+      "Planeación improvisada sin fundamento"
+    ],
+    "respuesta": 0,
+    "explicacion": "La maestra contextualiza el programa sintético (intercambios orales) a su realidad bilingüe, que es exactamente la función del programa analítico.",
+    "cita": "SEP, Plan de Estudio 2022, Programa analítico y codiseño."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Evaluación",
+    "categoria": "Evaluación formativa",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El portafolio de evidencias como instrumento de evaluación formativa se distingue porque permite observar el _______ del aprendizaje a lo largo del tiempo, no solo un resultado final.",
+    "opciones": [
+      "proceso y la evolución",
+      "puntaje numérico",
+      "ranking comparativo"
+    ],
+    "respuesta": 0,
+    "explicacion": "El portafolio documenta el proceso y evolución del aprendizaje a lo largo del tiempo, a diferencia de instrumentos que solo capturan un momento puntual.",
+    "cita": "SEP, Lineamientos de Evaluación, Educación Básica."
+  },
+  {
+    "fuente": "Estrategia Nacional de Educación Inclusiva",
+    "categoria": "Inclusión y atención a la diversidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "La educación inclusiva es un derecho que implica que:",
+    "opciones": [
+      "Los alumnos con discapacidad asistan a escuelas especiales segregadas",
+      "Todos los niños, niñas y adolescentes, sin importar su condición, tengan acceso a una educación de calidad en la escuela regular",
+      "Solo los alumnos que demuestren un nivel académico suficiente permanezcan en la escuela regular"
+    ],
+    "respuesta": 1,
+    "explicacion": "La educación inclusiva es un derecho universal: todos los estudiantes deben tener acceso a educación de calidad en escuelas regulares sin discriminación.",
+    "cita": "Convención sobre los Derechos de las PcD, Art. 24; Ley General de Educación, 2019."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Educación Socioemocional",
+    "categoria": "Educación socioemocional",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La directora de una primaria implementa 'asambleas escolares' mensuales donde los alumnos de todos los grados exponen problemas de convivencia, proponen soluciones y establecen acuerdos. Los docentes facilitan pero son los alumnos quienes dirigen la asamblea.",
+    "pregunta": "¿Qué habilidades socioemocionales y ciudadanas se desarrollan con esta práctica?",
+    "opciones": [
+      "Solo la obediencia a las normas impuestas por adultos",
+      "Participación democrática, autonomía, expresión asertiva y corresponsabilidad en la convivencia escolar",
+      "Competitividad oratoria entre los alumnos"
+    ],
+    "respuesta": 1,
+    "explicacion": "Las asambleas escolares desarrollan participación democrática, autonomía, expresión asertiva y corresponsabilidad: habilidades socioemocionales y ciudadanas.",
+    "cita": "SEP, Plan de Estudio 2022, Campo De lo humano y lo comunitario."
+  },
+  {
+    "fuente": "Ley General de Educación - Participación Social",
+    "categoria": "Trabajo con familias y comunidad",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En una comunidad indígena tseltal de Chiapas, la escuela primaria organiza las clases siguiendo parcialmente el calendario agrícola local, incorpora las ceremonias comunitarias como espacios de aprendizaje y los ancianos participan como maestros invitados regulares.",
+    "pregunta": "¿Qué principio de la relación escuela-comunidad de la NEM se está aplicando?",
+    "opciones": [
+      "La escuela como extensión orgánica de la vida comunitaria y sus ciclos culturales",
+      "La imposición del calendario urbano en comunidades rurales",
+      "La sustitución del currículo oficial por prácticas locales"
+    ],
+    "respuesta": 0,
+    "explicacion": "La NEM promueve que la escuela se integre orgánicamente a la vida comunitaria, respetando sus ciclos y reconociendo sus saberes como educativos.",
+    "cita": "SEP, Plan de Estudio 2022, La comunidad como núcleo integrador."
+  },
+  {
+    "fuente": "Lineamientos del CTE",
+    "categoria": "CTE (Consejo Técnico Escolar)",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El seguimiento del PEMC en las sesiones ordinarias del CTE permite al colectivo docente _______ las estrategias implementadas y realizar los ajustes necesarios.",
+    "opciones": [
+      "valorar la efectividad de",
+      "olvidarse de",
+      "delegar completamente"
+    ],
+    "respuesta": 0,
+    "explicacion": "El seguimiento mensual permite que el colectivo valore si las estrategias del PEMC están funcionando y haga ajustes oportunos.",
+    "cita": "SEP, Lineamientos del CTE, 2022-2023."
+  },
+  {
+    "fuente": "Plan de Estudio 2022 - Igualdad de Género",
+    "categoria": "Igualdad de género en primaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "El colectivo docente de una primaria detecta en el CTE que en los reportes de disciplina, el 80% de las sanciones son para varones. Analizan si las reglas del plantel tienen sesgos de género y si las expectativas de comportamiento son diferenciadas.",
+    "pregunta": "¿Qué ejercicio con perspectiva de género está realizando el colectivo?",
+    "opciones": [
+      "Análisis institucional de posibles sesgos de género en la normativa escolar",
+      "Justificación de que los varones son naturalmente más indisciplinados",
+      "Reducción de sanciones para igualar estadísticas sin análisis"
+    ],
+    "respuesta": 0,
+    "explicacion": "El colectivo realiza un análisis crítico para identificar si la normativa escolar contiene sesgos de género que producen sanciones diferenciadas.",
+    "cita": "SEP, Plan de Estudio 2022, Eje articulador: Igualdad de género."
+  }
+]

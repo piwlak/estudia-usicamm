@@ -1,0 +1,313 @@
+{
+  "Marco normativo": [
+    {
+      "sigla": "Artículo 3° constitucional",
+      "termino": "Artículo 3° de la Constitución",
+      "definicion": "Establece el derecho a la educación. Caracteriza la educación como universal, inclusiva, pública, gratuita, laica, democrática, nacional, humanista, equitativa, intercultural, integral y de excelencia."
+    },
+    {
+      "sigla": "LGE",
+      "termino": "Ley General de Educación",
+      "definicion": "Ley federal que reglamenta el artículo 3° constitucional. Establece principios de gratuidad, universalidad, inclusión, laicidad, excelencia y equidad."
+    },
+    {
+      "sigla": "LGDNNA",
+      "termino": "Ley General de los Derechos de Niñas, Niños y Adolescentes",
+      "definicion": "Reconoce a niñas, niños y adolescentes como titulares de derechos. Principios rectores: interés superior de la niñez, no discriminación, vida libre de violencia, derecho a la participación."
+    },
+    {
+      "sigla": "USICAMM",
+      "termino": "Unidad del Sistema para la Carrera de las Maestras y los Maestros",
+      "definicion": "Órgano administrativo desconcentrado de la SEP encargado de la admisión, promoción y reconocimiento del personal docente en educación básica y media superior."
+    },
+    {
+      "sigla": "ADEB",
+      "termino": "Admisión Docente en Educación Básica",
+      "definicion": "Proceso a cargo de la USICAMM para la admisión al servicio docente. Incluye examen de conocimientos y aptitudes, valoración del perfil profesional y verificación documental."
+    },
+    {
+      "sigla": "SEP",
+      "termino": "Secretaría de Educación Pública",
+      "definicion": "Dependencia federal responsable de regir el sistema educativo nacional."
+    },
+    {
+      "sigla": "DOF",
+      "termino": "Diario Oficial de la Federación",
+      "definicion": "Publicación oficial donde aparecen leyes, reglamentos y disposiciones que rigen el sistema educativo."
+    },
+    {
+      "sigla": "Acuerdo 14/12/23",
+      "termino": "Acuerdo de Convivencia Escolar (DOF, dic. 2023)",
+      "definicion": "Establece lineamientos para la convivencia escolar, incluyendo el protocolo de prevención, detección y atención del acoso escolar en educación básica."
+    },
+    {
+      "sigla": "Acuerdo Alimentos DOF 2024",
+      "termino": "Acuerdo sobre alimentos saludables (DOF, sep. 2024)",
+      "definicion": "Lineamientos para preparación y expendio de alimentos en escuelas. Prohíbe productos con sellos de advertencia."
+    }
+  ],
+  "Plan y programas de estudio": [
+    {
+      "sigla": "NEM",
+      "termino": "Nueva Escuela Mexicana",
+      "definicion": "Concepción humanista de la educación. Reorienta el currículo hacia la formación integral, la equidad, la inclusión, el reconocimiento de la diversidad y el vínculo escuela-comunidad."
+    },
+    {
+      "sigla": "Plan 2022",
+      "termino": "Plan de Estudio 2022",
+      "definicion": "Plan curricular vigente que organiza el trayecto formativo en 6 fases y articula 4 campos formativos y 7 ejes articuladores. En telesecundaria aplica la Fase 6."
+    },
+    {
+      "sigla": "Fase 6",
+      "termino": "Fase 6 — 1°, 2° y 3° de Secundaria",
+      "definicion": "Comprende los tres grados de educación secundaria (incluida telesecundaria). Consolida el pensamiento abstracto, la argumentación y la autonomía del adolescente."
+    },
+    {
+      "sigla": "Campos formativos",
+      "termino": "Campos formativos del Plan 2022",
+      "definicion": "Cuatro: (1) Lenguajes; (2) Saberes y Pensamiento Científico; (3) Ética, Naturaleza y Sociedades; (4) De lo Humano y lo Comunitario. Se mantienen en toda la educación básica, incluida telesecundaria."
+    },
+    {
+      "sigla": "Ejes articuladores",
+      "termino": "Ejes articuladores del Plan 2022",
+      "definicion": "Siete temas transversales: inclusión, pensamiento crítico, interculturalidad crítica, igualdad de género, vida saludable, apropiación de las culturas a través de la lectura y la escritura, y artes."
+    },
+    {
+      "sigla": "Programa Sintético",
+      "termino": "Programa Sintético Fase 6",
+      "definicion": "Documento curricular nacional para secundaria. Enuncia los Contenidos y Procesos de Desarrollo de Aprendizaje de cada campo formativo para los tres grados."
+    },
+    {
+      "sigla": "Programa Analítico",
+      "termino": "Programa Analítico del colectivo docente",
+      "definicion": "Segundo nivel de concreción curricular. En telesecundaria lo elabora el docente (frecuentemente unitario) a partir de la lectura crítica de la realidad de su comunidad-territorio."
+    },
+    {
+      "sigla": "Planeación didáctica",
+      "termino": "Planeación didáctica",
+      "definicion": "Tercer nivel de concreción. En telesecundaria el docente planea para múltiples campos formativos y grados. Flexible, se ajusta durante la práctica."
+    },
+    {
+      "sigla": "PDA",
+      "termino": "Procesos de Desarrollo de Aprendizaje",
+      "definicion": "Procesos progresivos que describen cómo se construye el aprendizaje a lo largo de la Fase 6. Orientan la práctica didáctica del docente de telesecundaria."
+    },
+    {
+      "sigla": "Codiseño",
+      "termino": "Codiseño curricular",
+      "definicion": "En telesecundaria puede ser individual o con colectivos de zona. El docente contextualiza el Programa Sintético considerando el contexto rural/semiurbano de su comunidad."
+    },
+    {
+      "sigla": "Proyecto comunitario",
+      "termino": "Proyecto comunitario / integrador",
+      "definicion": "Estrategia didáctica central en telesecundaria: articula campos formativos con problemáticas reales de la comunidad rural. Involucra a familias y actores locales."
+    }
+  ],
+  "Modalidad telesecundaria": [
+    {
+      "sigla": "Telesecundaria",
+      "termino": "Modalidad de Telesecundaria",
+      "definicion": "Modalidad de educación secundaria diseñada para comunidades rurales, semiurbanas o de difícil acceso. Características: un solo docente atiende todas las asignaturas/campos formativos, frecuentemente multigrado."
+    },
+    {
+      "sigla": "Docente unitario",
+      "termino": "Docente unitario / multigrado",
+      "definicion": "Docente que atiende dos o más grados simultáneamente. En telesecundaria puede atender los tres grados y todos los campos formativos. Requiere planeación diferenciada y uso estratégico del tiempo."
+    },
+    {
+      "sigla": "Contexto rural",
+      "termino": "Contexto rural y semiurbano",
+      "definicion": "Las telesecundarias se ubican mayoritariamente en comunidades rurales, indígenas o semiurbanas. El contexto determina la contextualización curricular, las problemáticas comunitarias y los recursos disponibles."
+    },
+    {
+      "sigla": "Tecnología educativa",
+      "termino": "Uso de tecnología educativa en telesecundaria",
+      "definicion": "Herramientas digitales y audiovisuales que apoyan la enseñanza cuando el docente atiende múltiples grados. Incluye materiales audiovisuales SEP, recursos digitales y plataformas cuando hay conectividad."
+    },
+    {
+      "sigla": "Multigrado",
+      "termino": "Organización multigrado",
+      "definicion": "Estructura donde un docente trabaja con estudiantes de diferentes grados en el mismo espacio. Requiere actividades diferenciadas por nivel, trabajo autónomo y colaboración entre pares de distintos grados."
+    },
+    {
+      "sigla": "Vinculación comunitaria",
+      "termino": "Vinculación comunitaria en telesecundaria",
+      "definicion": "La telesecundaria frecuentemente es la única institución educativa de la comunidad. Su vínculo con familias y actores locales es más intenso y directo que en contextos urbanos."
+    }
+  ],
+  "Desarrollo del adolescente": [
+    {
+      "sigla": "Adolescencia",
+      "termino": "Desarrollo del adolescente (12-15 años)",
+      "definicion": "Período de transición caracterizado por cambios físicos, cognitivos, emocionales y sociales. El adolescente busca identidad, autonomía y pertenencia al grupo de pares."
+    },
+    {
+      "sigla": "Pensamiento formal",
+      "termino": "Pensamiento operatorio formal (Piaget)",
+      "definicion": "Capacidad de razonamiento abstracto, hipotético-deductivo. El adolescente puede formular hipótesis, considerar múltiples variables y pensar sobre el pensamiento (metacognición)."
+    },
+    {
+      "sigla": "Identidad",
+      "termino": "Construcción de identidad (Erikson)",
+      "definicion": "Tarea central del desarrollo adolescente. El joven explora valores, creencias, roles y relaciones para construir un sentido coherente de quién es. Crisis normativa, no patológica."
+    },
+    {
+      "sigla": "Pensamiento crítico",
+      "termino": "Pensamiento crítico en adolescentes",
+      "definicion": "Capacidad de analizar, cuestionar y evaluar información y argumentos. En la adolescencia se potencia por el desarrollo del pensamiento formal. Eje articulador del Plan 2022."
+    },
+    {
+      "sigla": "Autorregulación",
+      "termino": "Autorregulación en la adolescencia",
+      "definicion": "Capacidad progresiva de gestionar emociones, impulsos y comportamiento. El adolescente está desarrollando el córtex prefrontal; necesita apoyo para construir esta capacidad, no castigo."
+    },
+    {
+      "sigla": "Vygotsky",
+      "termino": "Lev Vygotsky — ZDP en adolescentes",
+      "definicion": "La Zona de Desarrollo Próximo en adolescentes opera con mediadores más complejos: discusión, argumentación, escritura académica, proyectos de investigación. Los pares también son mediadores eficaces."
+    },
+    {
+      "sigla": "Grupo de pares",
+      "termino": "Grupo de pares y pertenencia",
+      "definicion": "En la adolescencia el grupo de pares se vuelve referente central de identidad. La escuela puede aprovechar esta necesidad de pertenencia para el trabajo colaborativo y el aprendizaje entre iguales."
+    },
+    {
+      "sigla": "Metacognición",
+      "termino": "Metacognición",
+      "definicion": "Capacidad de pensar sobre el propio pensamiento: planificar, monitorear y evaluar los procesos cognitivos propios. Se fortalece en la adolescencia y es clave para el aprendizaje autónomo."
+    }
+  ],
+  "Evaluación y didáctica": [
+    {
+      "sigla": "Evaluación formativa",
+      "termino": "Evaluación formativa con adolescentes",
+      "definicion": "Evaluación continua que incluye autoevaluación y coevaluación. Con adolescentes se enfatiza la metacognición: que el estudiante reflexione sobre cómo aprende, no solo qué aprende."
+    },
+    {
+      "sigla": "Díaz-Barriga",
+      "termino": "Frida Díaz-Barriga",
+      "definicion": "Pedagoga mexicana especialista en evaluación formativa. La retroalimentación primero señala logros, luego describe áreas de mejora sin expresiones de rechazo."
+    },
+    {
+      "sigla": "Coevaluación",
+      "termino": "Coevaluación entre pares",
+      "definicion": "Evaluación donde los estudiantes valoran el trabajo de sus compañeros con criterios claros. En telesecundaria aprovecha la dinámica multigrado: estudiantes mayores evalúan a menores."
+    },
+    {
+      "sigla": "Aprendizaje significativo",
+      "termino": "Aprendizaje significativo (Ausubel)",
+      "definicion": "Aprendizaje que conecta contenido nuevo con conocimientos previos. En telesecundaria rural, vincular con saberes y experiencias de la comunidad potencia la significatividad."
+    },
+    {
+      "sigla": "ABP",
+      "termino": "Aprendizaje Basado en Proyectos",
+      "definicion": "Metodología donde los estudiantes abordan problemas reales mediante proyectos. En telesecundaria integra campos formativos y vincula con problemáticas comunitarias."
+    },
+    {
+      "sigla": "OCDE",
+      "termino": "Principios del aprendizaje (OCDE)",
+      "definicion": "El aprendizaje es centrado en el aprendiz, social, motivacional, sensible a diferencias individuales, y demanda esfuerzo arduo sin sobrecarga. Aplica a la planificación en telesecundaria."
+    },
+    {
+      "sigla": "Trabajo colaborativo",
+      "termino": "Trabajo colaborativo y entre pares",
+      "definicion": "En telesecundaria multigrado, los estudiantes de grados superiores apoyan a los de grados inferiores. La colaboración es estrategia organizativa y formativa simultáneamente."
+    }
+  ],
+  "Inclusión y diversidad": [
+    {
+      "sigla": "Inclusión",
+      "termino": "Inclusión educativa en telesecundaria",
+      "definicion": "Atención a la diversidad en contextos rurales: estudiantes indígenas, con discapacidad, en situación de migración o trabajo infantil. La telesecundaria frecuentemente es la única opción educativa."
+    },
+    {
+      "sigla": "Interculturalidad crítica",
+      "termino": "Interculturalidad crítica",
+      "definicion": "Cuestiona relaciones de poder entre culturas. En telesecundarias rurales con presencia indígena, implica valorar las lenguas y saberes originarios como parte del currículo."
+    },
+    {
+      "sigla": "Lenguas indígenas",
+      "termino": "Lenguas indígenas y bilingüismo",
+      "definicion": "En telesecundarias con población hablante de lenguas indígenas, la lengua materna es recurso para el aprendizaje, no obstáculo. El bilingüismo se fortalece, no se sustituye."
+    },
+    {
+      "sigla": "Igualdad de género",
+      "termino": "Igualdad de género en contextos rurales",
+      "definicion": "En comunidades rurales pueden persistir roles de género tradicionales. La telesecundaria es espacio para problematizarlos y promover la igualdad sin imponer desde fuera."
+    },
+    {
+      "sigla": "DUA",
+      "termino": "Diseño Universal para el Aprendizaje",
+      "definicion": "Múltiples formas de representación, acción y motivación. En telesecundaria multigrado permite atender diferentes niveles sin diseñar una clase para cada grado."
+    },
+    {
+      "sigla": "Migración",
+      "termino": "Estudiantes en situación de migración",
+      "definicion": "En comunidades rurales puede haber estudiantes cuyas familias migran estacionalmente. La planeación debe considerar la intermitencia y garantizar continuidad educativa."
+    },
+    {
+      "sigla": "Diálogo de saberes",
+      "termino": "Diálogo de saberes",
+      "definicion": "Articulación del conocimiento científico con saberes comunitarios, agrícolas, artesanales e indígenas. En telesecundaria rural estos saberes son parte del contexto inmediato."
+    }
+  ],
+  "Convivencia y prevención": [
+    {
+      "sigla": "Acoso escolar",
+      "termino": "Acoso escolar en adolescentes",
+      "definicion": "Incluye ciberacoso, que se intensifica en la adolescencia. El desequilibrio de poder puede relacionarse con diferencias culturales, de género o económicas en contextos rurales."
+    },
+    {
+      "sigla": "Cultura de paz",
+      "termino": "Cultura de paz",
+      "definicion": "Valores, actitudes y prácticas que rechazan la violencia. En telesecundaria se vincula con la reconstrucción del tejido social en comunidades afectadas por violencia."
+    },
+    {
+      "sigla": "Prevención de adicciones",
+      "termino": "Prevención de adicciones en adolescentes",
+      "definicion": "La adolescencia es período de mayor riesgo de inicio de consumo. La prevención escolar es protectora cuando vincula a familias y comunidad, no solo información."
+    },
+    {
+      "sigla": "Mediación",
+      "termino": "Mediación de conflictos con adolescentes",
+      "definicion": "Con adolescentes se puede avanzar a la mediación entre pares: estudiantes capacitados que facilitan la resolución de conflictos entre compañeros."
+    },
+    {
+      "sigla": "Violencia sexual",
+      "termino": "Prevención de violencia sexual",
+      "definicion": "El personal educativo tiene deber de denuncia ante indicios. En contextos rurales con aislamiento, la telesecundaria puede ser el único espacio de detección."
+    },
+    {
+      "sigla": "Tejido social",
+      "termino": "Reconstrucción del tejido social",
+      "definicion": "Restauración de vínculos comunitarios después de violencia o ruptura social. La telesecundaria es actor clave en comunidades donde es la principal institución presente."
+    },
+    {
+      "sigla": "Familias rurales",
+      "termino": "Trabajo con familias en contextos rurales",
+      "definicion": "Las familias rurales pueden tener jornadas laborales extensas, migración, o baja escolaridad. La comunicación debe adaptarse: horarios, medios y lenguaje accesible."
+    }
+  ],
+  "Vida escolar": [
+    {
+      "sigla": "CTE",
+      "termino": "Consejo Técnico Escolar en telesecundaria",
+      "definicion": "En telesecundarias unitarias o bidocentes, el CTE puede funcionar como consejo de zona con otras telesecundarias cercanas. Espacio de decisión colegiada y formación profesional."
+    },
+    {
+      "sigla": "PEMC",
+      "termino": "Programa Escolar de Mejora Continua",
+      "definicion": "En telesecundaria se elabora considerando el contexto rural: problemáticas comunitarias, recursos limitados y vínculo con familias."
+    },
+    {
+      "sigla": "Comunidad-territorio",
+      "termino": "Comunidad-territorio en telesecundaria",
+      "definicion": "La telesecundaria está profundamente vinculada con su comunidad: frecuentemente es la única institución educativa y espacio de encuentro comunitario."
+    },
+    {
+      "sigla": "Autonomía profesional",
+      "termino": "Autonomía profesional del docente",
+      "definicion": "El docente de telesecundaria toma decisiones pedagógicas con autonomía: contextualización curricular, organización multigrado, vinculación comunitaria. La supervisión acompaña."
+    }
+  ]
+}

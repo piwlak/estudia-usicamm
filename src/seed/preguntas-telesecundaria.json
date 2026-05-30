@@ -1,0 +1,1702 @@
+[
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En el Programa Sintético Fase 6, ¿cuáles son los campos formativos que organizan los contenidos de secundaria?",
+    "opciones": [
+      "Lenguajes; Saberes y Pensamiento Científico; Ética, Naturaleza y Sociedades; De lo Humano y lo Comunitario",
+      "Español; Matemáticas; Ciencias Naturales; Formación Cívica y Ética; Historia; Geografía",
+      "Comunicación; Pensamiento Lógico-Matemático; Ciencias; Humanidades y Desarrollo Personal"
+    ],
+    "respuesta": 0,
+    "explicacion": "El Plan 2022 organiza los contenidos en cuatro campos formativos, no por asignaturas independientes como en planes anteriores.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023, p. 8."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué son los Procesos de Desarrollo de Aprendizaje (PDA) en el Programa Sintético Fase 6?",
+    "opciones": [
+      "Indicadores cuantitativos para medir el rendimiento académico de los estudiantes",
+      "Descriptores que expresan la progresión de los aprendizajes que se espera lograr en cada campo formativo",
+      "Estándares curriculares que determinan la promoción o reprobación del alumno"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los PDA describen la progresión del aprendizaje y orientan la intervención docente; no son indicadores de calificación ni criterios de promoción.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023, pp. 12-14."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El campo formativo Lenguajes en Fase 6 integra contenidos de ________, artes y lengua extranjera.",
+    "opciones": [
+      "literatura universal",
+      "comunicación digital",
+      "español"
+    ],
+    "respuesta": 2,
+    "explicacion": "El campo Lenguajes articula español, artes y lengua extranjera (inglés) como expresiones comunicativas diversas.",
+    "cita": "SEP, Programa Sintético Fase 6, campo formativo Lenguajes, 2023."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué el campo De lo Humano y lo Comunitario resulta especialmente relevante para adolescentes de telesecundaria en contextos rurales?",
+    "opciones": [
+      "Porque promueve el reconocimiento de la identidad, el bienestar socioemocional y la participación comunitaria",
+      "Porque se enfoca en contenidos de educación física exclusivamente",
+      "Porque sustituye los contenidos de formación cívica por talleres productivos"
+    ],
+    "respuesta": 0,
+    "explicacion": "Este campo atiende la construcción de identidad y el vínculo comunitario, aspectos cruciales para adolescentes en contextos rurales.",
+    "cita": "SEP, Programa Sintético Fase 6, De lo Humano y lo Comunitario, 2023."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En telesecundaria, ¿cuál es el rol principal del docente durante la transmisión del programa televisivo?",
+    "opciones": [
+      "Actuar como mediador: contextualizar el contenido, guiar la observación y promover la reflexión posterior",
+      "Permanecer fuera del aula mientras los alumnos ven la transmisión",
+      "Repetir textualmente lo que dice el conductor del programa"
+    ],
+    "respuesta": 0,
+    "explicacion": "El docente de telesecundaria media entre el recurso audiovisual y el aprendizaje, guiando la observación crítica y vinculando con actividades posteriores.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011, p. 34."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordene la secuencia didáctica típica de una sesión de telesecundaria: 1) Actividades de cierre y evaluación, 2) Trabajo con la guía de aprendizaje, 3) Observación del programa televisivo.",
+    "opciones": [
+      "3, 2, 1",
+      "2, 3, 1",
+      "1, 3, 2"
+    ],
+    "respuesta": 0,
+    "explicacion": "La secuencia clásica es: primero se observa el programa televisivo, luego se trabaja con la guía y finalmente se realizan actividades de cierre.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011, p. 42."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué implica ser 'mediador tecnológico' en el contexto de telesecundaria?",
+    "opciones": [
+      "Ser experto en reparación de equipos electrónicos y antenas satelitales",
+      "Operar la computadora del aula para que los alumnos copien información de internet",
+      "Facilitar el uso pedagógico de los recursos audiovisuales y digitales, vinculándolos con los contenidos curriculares"
+    ],
+    "respuesta": 2,
+    "explicacion": "La mediación tecnológica refiere al uso pedagógico intencionado de los recursos, no a la operación técnica de equipos.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Piaget, Teoría del desarrollo cognitivo",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Piaget, ¿qué caracteriza el estadio de operaciones formales que alcanzan los adolescentes?",
+    "opciones": [
+      "La capacidad de pensar de manera abstracta, hipotético-deductiva y sobre posibilidades no presentes",
+      "La dependencia del pensamiento concreto y la manipulación de objetos reales",
+      "El predominio del pensamiento egocéntrico propio de la primera infancia"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las operaciones formales permiten el razonamiento abstracto, hipotético y combinatorio, superando la necesidad de referentes concretos.",
+    "cita": "Piaget, J. (1972). Intellectual Evolution from Adolescence to Adulthood."
+  },
+  {
+    "fuente": "Piaget, Teoría del desarrollo cognitivo",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En una clase de telesecundaria, la maestra Laura plantea un problema: '¿Qué pasaría si la gravedad fuera el doble?' Los alumnos de segundo grado generan hipótesis y las debaten.",
+    "pregunta": "¿Qué capacidad cognitiva están ejercitando estos adolescentes según Piaget?",
+    "opciones": [
+      "Pensamiento preoperacional basado en la intuición",
+      "Pensamiento hipotético-deductivo propio de las operaciones formales",
+      "Pensamiento operatorio concreto limitado a lo observable"
+    ],
+    "respuesta": 1,
+    "explicacion": "Razonar sobre situaciones hipotéticas que no existen en la realidad es característico de las operaciones formales.",
+    "cita": "Piaget, J. (1972). Intellectual Evolution from Adolescence to Adulthood."
+  },
+  {
+    "fuente": "Erikson, Teoría del desarrollo psicosocial",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "Según Erikson, ¿cuál es la crisis psicosocial central de la adolescencia?",
+    "opciones": [
+      "Generatividad vs. estancamiento",
+      "Iniciativa vs. culpa",
+      "Identidad vs. confusión de roles"
+    ],
+    "respuesta": 2,
+    "explicacion": "La crisis identidad vs. confusión de roles es propia de la adolescencia; el joven busca definir quién es frente a múltiples expectativas sociales.",
+    "cita": "Erikson, E. (1968). Identity: Youth and Crisis."
+  },
+  {
+    "fuente": "Erikson, Teoría del desarrollo psicosocial",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Miguel, alumno de tercer grado de telesecundaria en una comunidad rural, expresa confusión entre quedarse a trabajar el campo como su familia o estudiar la preparatoria en la cabecera municipal.",
+    "pregunta": "Desde la perspectiva de Erikson, ¿qué proceso está viviendo Miguel?",
+    "opciones": [
+      "La búsqueda de identidad donde explora opciones de vida y se enfrenta a la confusión de roles",
+      "Una crisis de generatividad propia de la adultez media",
+      "Un retroceso al estadio de confianza vs. desconfianza"
+    ],
+    "respuesta": 0,
+    "explicacion": "Miguel experimenta la tensión propia de la construcción de identidad: explorar alternativas de vida frente a expectativas familiares y comunitarias.",
+    "cita": "Erikson, E. (1968). Identity: Youth and Crisis."
+  },
+  {
+    "fuente": "Desarrollo socioemocional del adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué característica del desarrollo socioemocional es predominante en adolescentes de 12 a 15 años?",
+    "opciones": [
+      "Desinterés total por la opinión de los pares y preferencia por la autoridad adulta",
+      "Mayor influencia del grupo de pares, necesidad de pertenencia y fluctuaciones emocionales intensas",
+      "Estabilidad emocional completa y autonomía plena respecto a los adultos"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los adolescentes experimentan una fuerte necesidad de pertenencia al grupo de pares y variabilidad emocional como parte de su maduración.",
+    "cita": "Papalia, D. (2012). Desarrollo Humano, cap. 11."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es una de las principales características de las comunidades donde se ubican las telesecundarias?",
+    "opciones": [
+      "Son localidades rurales o semiurbanas, frecuentemente dispersas, con población menor a 2,500 habitantes",
+      "Son comunidades urbanas densamente pobladas con amplia oferta educativa",
+      "Son exclusivamente comunidades indígenas monolingües"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las telesecundarias atienden predominantemente localidades rurales y semiurbanas de baja densidad poblacional donde no hay otras opciones de educación secundaria.",
+    "cita": "INEE (2019). La educación obligatoria en México. Informe 2019."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La telesecundaria 'Benito Juárez' tiene 45 alumnos distribuidos en tres grados. Solo cuenta con dos docentes, por lo que uno de ellos atiende dos grados simultáneamente.",
+    "pregunta": "¿Qué situación organizativa enfrenta esta escuela?",
+    "opciones": [
+      "Organización completa con un docente por grado",
+      "Condición multigrado donde un docente atiende más de un grado simultáneamente",
+      "Modelo de educación a distancia sin presencia docente"
+    ],
+    "respuesta": 1,
+    "explicacion": "Cuando un docente atiende más de un grado a la vez se configura el multigrado, situación frecuente en telesecundarias de comunidades muy pequeñas.",
+    "cita": "INEE (2019). La educación obligatoria en México."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "El profesor Carlos trabaja en una telesecundaria multigrado en la sierra. Tiene alumnos de primero y segundo grado en el mismo salón. Necesita planificar una actividad de Saberes y Pensamiento Científico.",
+    "pregunta": "¿Cuál es la estrategia más pertinente para atender ambos grados?",
+    "opciones": [
+      "Dar clase solo a un grado mientras el otro realiza copia de textos",
+      "Aplicar exactamente la misma actividad y evaluación para ambos grados sin distinción",
+      "Diseñar un tema común con diferentes niveles de profundidad y productos diferenciados por grado"
+    ],
+    "respuesta": 2,
+    "explicacion": "En multigrado se recomienda trabajar un tema común con actividades diferenciadas en complejidad según el grado.",
+    "cita": "SEP, Propuesta Educativa Multigrado 2005; lineamientos actualizados 2023."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es el principal desafío pedagógico de las telesecundarias ubicadas en comunidades dispersas?",
+    "opciones": [
+      "El exceso de personal docente sin funciones definidas",
+      "La saturación de grupos con más de 50 alumnos",
+      "La distancia geográfica que dificulta el acceso a materiales, conectividad y servicios de apoyo"
+    ],
+    "respuesta": 2,
+    "explicacion": "El aislamiento geográfico limita el acceso a recursos, conectividad, acompañamiento pedagógico y formación docente.",
+    "cita": "INEE (2019). Políticas para mejorar la educación en contextos rurales."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué es el Programa Analítico en el marco del Plan de Estudio 2022?",
+    "opciones": [
+      "Un documento elaborado por la SEP que sustituye al Programa Sintético",
+      "Un examen diagnóstico aplicado al inicio del ciclo escolar",
+      "La contextualización que hace el colectivo docente del Programa Sintético, incorporando la realidad local"
+    ],
+    "respuesta": 2,
+    "explicacion": "El Programa Analítico es la contextualización del Programa Sintético realizada por el colectivo docente considerando el contexto escolar y comunitario.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023, p. 6."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Los docentes de la telesecundaria 'José Vasconcelos' en una comunidad agrícola elaboran su Programa Analítico. Deciden incorporar el ciclo de siembra local como contexto para abordar contenidos de Saberes y Pensamiento Científico.",
+    "pregunta": "¿Qué proceso de contextualización curricular están realizando?",
+    "opciones": [
+      "Están eliminando contenidos del Programa Sintético que no les gustan",
+      "Están vinculando los contenidos nacionales con saberes y prácticas comunitarias relevantes",
+      "Están creando un plan de estudios alterno sin base curricular oficial"
+    ],
+    "respuesta": 1,
+    "explicacion": "La contextualización del Programa Analítico implica vincular los contenidos nacionales con la realidad local, no eliminar ni sustituir el currículo.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El Programa Analítico se construye a partir del Programa ________ e incorpora las necesidades del contexto escolar.",
+    "opciones": [
+      "Sintético",
+      "Operativo",
+      "Institucional"
+    ],
+    "respuesta": 0,
+    "explicacion": "El Programa Analítico parte del Programa Sintético como base nacional y lo enriquece con la contextualización local.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023, p. 6."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué la elaboración del Programa Analítico es un ejercicio colectivo y no individual en telesecundaria?",
+    "opciones": [
+      "Porque un solo docente no tiene autorización legal para modificar el currículo",
+      "Porque es un requisito administrativo sin valor pedagógico",
+      "Porque el análisis colectivo permite una visión integral del contexto y garantiza coherencia en la formación del alumno"
+    ],
+    "respuesta": 2,
+    "explicacion": "La construcción colectiva enriquece el diagnóstico contextual y asegura que las adecuaciones sean coherentes a lo largo de los tres grados.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el propósito principal de la evaluación formativa con adolescentes?",
+    "opciones": [
+      "Asignar calificaciones numéricas para el boletín",
+      "Clasificar a los alumnos en aprobados y reprobados al final del bimestre",
+      "Retroalimentar el proceso de aprendizaje para que docente y alumno identifiquen avances y áreas de mejora"
+    ],
+    "respuesta": 2,
+    "explicacion": "La evaluación formativa tiene función reguladora: ofrece información para mejorar el proceso de enseñanza-aprendizaje de manera continua.",
+    "cita": "SEP, Plan de Estudio 2022, apartado sobre evaluación formativa."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué instrumento de evaluación formativa permite recopilar evidencias del proceso de aprendizaje a lo largo del tiempo?",
+    "opciones": [
+      "El portafolio de evidencias",
+      "El examen de opción múltiple",
+      "La lista de asistencia"
+    ],
+    "respuesta": 0,
+    "explicacion": "El portafolio reúne trabajos seleccionados que muestran el progreso del estudiante y permiten reflexionar sobre el proceso de aprendizaje.",
+    "cita": "SEP, Lineamientos de evaluación, Plan 2022."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El profesor Arturo devuelve un ensayo a sus alumnos de tercer grado con comentarios como: 'Tu argumento central es claro, pero necesitas incluir evidencia que lo respalde. Revisa el párrafo 3 y agrega un ejemplo concreto.'",
+    "pregunta": "¿Qué tipo de retroalimentación está brindando el profesor Arturo?",
+    "opciones": [
+      "Retroalimentación descriptiva y orientada a la mejora, centrada en la tarea",
+      "Retroalimentación evaluativa que solo emite un juicio de valor (bien/mal)",
+      "Retroalimentación punitiva que busca sancionar errores"
+    ],
+    "respuesta": 0,
+    "explicacion": "La retroalimentación descriptiva señala fortalezas y áreas de mejora con indicaciones específicas para que el alumno sepa cómo mejorar.",
+    "cita": "Hattie, J. y Timperley, H. (2007). The Power of Feedback."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué el portafolio es especialmente útil en telesecundaria para evaluar a adolescentes?",
+    "opciones": [
+      "Porque elimina la necesidad de que el docente revise trabajos",
+      "Porque sustituye completamente la evaluación sumativa",
+      "Porque documenta el avance progresivo, fomenta la reflexión metacognitiva y es viable con un solo docente por grupo"
+    ],
+    "respuesta": 2,
+    "explicacion": "En telesecundaria, donde un docente atiende todas las áreas, el portafolio facilita el seguimiento longitudinal y promueve la autonomía del adolescente.",
+    "cita": "SEP, Lineamientos de evaluación, Plan 2022."
+  },
+  {
+    "fuente": "CTE",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En el CTE de la telesecundaria 'Emiliano Zapata', los tres docentes deciden invitar a padres de familia y autoridades ejidales para construir juntos el Programa Analítico, incorporando el conocimiento sobre plantas medicinales de la comunidad.",
+    "pregunta": "¿Qué principio del Plan 2022 están poniendo en práctica?",
+    "opciones": [
+      "La vinculación comunitaria y el reconocimiento de saberes locales como parte del currículo contextualizado",
+      "La desescolarización total del currículo",
+      "La privatización de la gestión escolar"
+    ],
+    "respuesta": 0,
+    "explicacion": "El Plan 2022 promueve la vinculación escuela-comunidad y el reconocimiento de saberes comunitarios como insumo para la contextualización curricular.",
+    "cita": "SEP, Plan de Estudio 2022, principios de la Nueva Escuela Mexicana."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué la vinculación comunitaria es especialmente importante en telesecundarias rurales?",
+    "opciones": [
+      "Porque la comunidad puede financiar la totalidad del presupuesto escolar",
+      "Porque en contextos rurales la escuela es el único espacio de encuentro y la comunidad posee saberes valiosos para el currículo",
+      "Porque los padres deben sustituir al docente cuando este se ausenta"
+    ],
+    "respuesta": 1,
+    "explicacion": "En comunidades rurales, la telesecundaria cumple un papel social central y los saberes comunitarios son un recurso pedagógico valioso.",
+    "cita": "SEP, Plan de Estudio 2022, Vínculo escuela-comunidad."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es el enfoque recomendado para la convivencia escolar con adolescentes en el marco de la NEM?",
+    "opciones": [
+      "Un enfoque punitivo basado en sanciones y expulsiones",
+      "Un enfoque formativo que promueva el diálogo, la resolución pacífica de conflictos y la participación estudiantil",
+      "Ignorar los conflictos para que los adolescentes los resuelvan solos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La NEM promueve una convivencia escolar basada en el diálogo, la inclusión y la resolución pacífica, no en medidas punitivas.",
+    "cita": "SEP, Marco para la Convivencia Escolar, 2023."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué estrategia preventiva es recomendable para reducir la violencia escolar entre adolescentes en telesecundaria?",
+    "opciones": [
+      "Desarrollar actividades de educación socioemocional, participación estudiantil y construcción colectiva de acuerdos",
+      "Instalar cámaras de vigilancia en todos los espacios y sancionar ante cualquier interacción",
+      "Separar por completo a hombres y mujeres en distintos horarios"
+    ],
+    "respuesta": 0,
+    "explicacion": "La prevención de violencia requiere un enfoque integral que desarrolle habilidades socioemocionales y fomente la participación del alumnado.",
+    "cita": "SEP, Marco para la Convivencia Escolar, 2023."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Según Piaget, en las operaciones formales el adolescente puede razonar sobre ________, no solo sobre realidades concretas.",
+    "opciones": [
+      "posibilidades e hipótesis",
+      "objetos manipulables",
+      "experiencias sensoriales inmediatas"
+    ],
+    "respuesta": 0,
+    "explicacion": "La capacidad de razonar sobre lo posible y lo hipotético, más allá de lo concreto, define las operaciones formales.",
+    "cita": "Piaget, J. (1972). Intellectual Evolution from Adolescence to Adulthood."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La maestra Sofía recibe una nueva serie de videos educativos. Antes de usarlos, los visualiza para identificar cómo se relacionan con los PDA que está trabajando y prepara preguntas guía para sus alumnos.",
+    "pregunta": "¿Qué función docente está ejerciendo la maestra Sofía?",
+    "opciones": [
+      "Función administrativa de inventario de materiales",
+      "Mediación pedagógica entre el recurso audiovisual y el aprendizaje de los estudiantes",
+      "Función de censura para eliminar contenidos inapropiados"
+    ],
+    "respuesta": 1,
+    "explicacion": "Al analizar el video y preparar mediaciones, la docente ejerce su rol de mediadora pedagógica entre el recurso y el aprendizaje.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué relación existe entre los ejes articuladores y los campos formativos en Fase 6?",
+    "opciones": [
+      "Los ejes articuladores sustituyen a los campos formativos",
+      "Cada eje articulador corresponde a un solo campo formativo exclusivamente",
+      "Los ejes articuladores son transversales y atraviesan los cuatro campos formativos"
+    ],
+    "respuesta": 2,
+    "explicacion": "Los ejes articuladores cruzan transversalmente todos los campos formativos, promoviendo la integralidad del currículo.",
+    "cita": "SEP, Programa Sintético Fase 6, 2023, p. 10."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordene los niveles de concreción curricular del Plan 2022: 1) Planeación didáctica del docente, 2) Programa Sintético (nacional), 3) Programa Analítico (escuela).",
+    "opciones": [
+      "2, 3, 1",
+      "1, 2, 3",
+      "3, 1, 2"
+    ],
+    "respuesta": 0,
+    "explicacion": "El orden va de lo general a lo específico: Programa Sintético (nacional), Analítico (escolar) y planeación didáctica (aula).",
+    "cita": "SEP, Plan de Estudio 2022, niveles de concreción curricular."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "Un docente de telesecundaria planifica un proyecto integrador sobre 'El agua en nuestra comunidad'. Aborda contenidos de Saberes y Pensamiento Científico (ciclo del agua), Lenguajes (elaborar un reportaje) y Ética, Naturaleza y Sociedades (derecho al agua).",
+    "pregunta": "¿Qué principio del Plan 2022 está aplicando este docente?",
+    "opciones": [
+      "La fragmentación disciplinar del conocimiento",
+      "La integralidad curricular mediante la articulación de campos formativos en un proyecto común",
+      "La especialización por asignaturas con horarios rígidos"
+    ],
+    "respuesta": 1,
+    "explicacion": "El trabajo por proyectos integradores que articulan varios campos formativos es uno de los principios pedagógicos del Plan 2022.",
+    "cita": "SEP, Plan de Estudio 2022; Programa Sintético Fase 6."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué implicación pedagógica tiene el pensamiento de operaciones formales para la enseñanza en telesecundaria?",
+    "opciones": [
+      "Se deben eliminar todas las actividades prácticas porque ya no son necesarias",
+      "Se debe volver a métodos de preescolar basados en el juego simbólico",
+      "Se pueden proponer actividades que requieran formulación de hipótesis, análisis de variables y argumentación"
+    ],
+    "respuesta": 2,
+    "explicacion": "El pensamiento formal permite plantear situaciones que exijan razonamiento abstracto y argumentación.",
+    "cita": "Piaget, J. (1972); aplicaciones pedagógicas del desarrollo cognitivo."
+  },
+  {
+    "fuente": "Erikson, Teoría del desarrollo psicosocial",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cómo puede el docente de telesecundaria apoyar la construcción de identidad de sus alumnos adolescentes?",
+    "opciones": [
+      "Imponiendo un modelo único de éxito que todos deben seguir",
+      "Ofreciendo espacios de exploración, reflexión sobre proyectos de vida y reconocimiento de diversas trayectorias posibles",
+      "Evitando cualquier tema personal porque no corresponde a la escuela"
+    ],
+    "respuesta": 1,
+    "explicacion": "Apoyar la identidad implica ofrecer espacios de exploración donde los adolescentes puedan considerar distintas posibilidades de ser.",
+    "cita": "Erikson, E. (1968). Identity: Youth and Crisis."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Por qué en telesecundaria un solo docente atiende todas las áreas del conocimiento?",
+    "opciones": [
+      "Porque los docentes de telesecundaria tienen formación en todas las disciplinas científicas",
+      "Porque no se consideró necesario contratar especialistas por asignatura",
+      "Porque el modelo fue diseñado para comunidades donde la baja matrícula no justifica un docente por asignatura"
+    ],
+    "respuesta": 2,
+    "explicacion": "El modelo de un docente generalista responde a la realidad de comunidades pequeñas; los materiales compensan la especialización disciplinar.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El profesor Ricardo implementa la coevaluación en su grupo de tercer grado: los alumnos intercambian sus textos argumentativos y utilizan una rúbrica para ofrecer retroalimentación a sus compañeros.",
+    "pregunta": "¿Qué beneficio formativo tiene esta práctica con adolescentes?",
+    "opciones": [
+      "Reduce el trabajo del docente sin ningún beneficio para los alumnos",
+      "Permite que los alumnos se califiquen entre sí para definir promedios finales",
+      "Desarrolla el pensamiento crítico y la autorregulación al aplicar criterios de calidad al trabajo de otros"
+    ],
+    "respuesta": 2,
+    "explicacion": "La coevaluación desarrolla habilidades metacognitivas en los adolescentes al analizar el trabajo de otros con criterios explícitos.",
+    "cita": "Anijovich, R. (2017). La evaluación como oportunidad."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué ventaja pedagógica ofrece el uso de materiales audiovisuales en telesecundaria para el aprendizaje de adolescentes?",
+    "opciones": [
+      "Permite que el docente no necesite preparar clase",
+      "Garantiza automáticamente el aprendizaje significativo sin necesidad de mediación",
+      "Estimula múltiples canales sensoriales y presenta situaciones difíciles de reproducir en el aula"
+    ],
+    "respuesta": 2,
+    "explicacion": "Los materiales audiovisuales enriquecen la experiencia al presentar contextos lejanos o abstractos, pero siempre requieren mediación docente.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "El colectivo de la telesecundaria 'Cuauhtémoc' decide incorporar un contenido local sobre 'sistemas de riego tradicional' que no aparece en el Programa Sintético, vinculándolo con Saberes y Pensamiento Científico.",
+    "pregunta": "¿Es válido incorporar contenidos locales que no están explícitamente en el Programa Sintético?",
+    "opciones": [
+      "No, porque solo se pueden abordar los contenidos listados textualmente en el Programa Sintético",
+      "Solo si la supervisión escolar lo autoriza por escrito mediante oficio",
+      "Sí, el Programa Analítico permite incorporar contenidos de relevancia local que complementen los contenidos nacionales"
+    ],
+    "respuesta": 2,
+    "explicacion": "El Programa Analítico permite enriquecer el currículo con contenidos locales pertinentes que complementen la propuesta nacional.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023, p. 8."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Ana, alumna de primer grado de telesecundaria (12 años), se muestra muy preocupada por lo que piensan sus compañeras de ella. Cambia constantemente de peinado intentando 'encajar' en el grupo.",
+    "pregunta": "¿Qué proceso de desarrollo adolescente refleja esta conducta?",
+    "opciones": [
+      "Un trastorno de personalidad que requiere atención clínica inmediata",
+      "Un comportamiento regresivo a etapas preescolares",
+      "La necesidad de pertenencia al grupo de pares y la construcción de identidad"
+    ],
+    "respuesta": 2,
+    "explicacion": "La preocupación por la aceptación del grupo de pares y la experimentación con la imagen son conductas normativas de la adolescencia temprana.",
+    "cita": "Papalia, D. (2012). Desarrollo Humano, cap. 11."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "En el campo Ética, Naturaleza y Sociedades de Fase 6, ¿qué tipo de contenidos se abordan?",
+    "opciones": [
+      "Exclusivamente historia universal y geografía física",
+      "Contenidos que integran historia, geografía y formación cívica desde una perspectiva crítica y situada",
+      "Solo contenidos de educación religiosa y moral"
+    ],
+    "respuesta": 1,
+    "explicacion": "Este campo integra las perspectivas históricas, geográficas y éticas para comprender la relación entre sociedades, naturaleza y ciudadanía.",
+    "cita": "SEP, Programa Sintético Fase 6, Ética, Naturaleza y Sociedades, 2023."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordene el proceso de evaluación formativa: 1) Retroalimentar al alumno, 2) Recoger evidencias de aprendizaje, 3) Analizar las evidencias con criterios claros.",
+    "opciones": [
+      "1, 2, 3",
+      "3, 1, 2",
+      "2, 3, 1"
+    ],
+    "respuesta": 2,
+    "explicacion": "El proceso formativo sigue la secuencia: recoger evidencias, analizarlas con criterios y luego retroalimentar para orientar la mejora.",
+    "cita": "Anijovich, R. (2017). La evaluación como oportunidad."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué papel juegan las familias y la comunidad en el PEMC de una telesecundaria rural?",
+    "opciones": [
+      "Participan en el diagnóstico, aportan saberes locales y colaboran en acciones de mejora como corresponsables educativos",
+      "Ninguno; el PEMC es un documento exclusivamente técnico-docente",
+      "Solo participan firmando la boleta de calificaciones"
+    ],
+    "respuesta": 0,
+    "explicacion": "El PEMC promueve la participación de familias y comunidad como corresponsables de la mejora escolar.",
+    "cita": "SEP, Lineamientos CTE y PEMC, 2023-2024."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "El docente Jorge trabaja en una telesecundaria que recibió tabletas electrónicas. Los alumnos las usan solo para juegos y redes sociales.",
+    "pregunta": "¿Qué debe hacer Jorge como mediador tecnológico?",
+    "opciones": [
+      "Retirar las tabletas y guardarlas bajo llave permanentemente",
+      "Dejar que los alumnos usen las tabletas libremente sin intervenir",
+      "Diseñar actividades de aprendizaje que integren el uso pedagógico de las tabletas y establecer acuerdos de uso"
+    ],
+    "respuesta": 2,
+    "explicacion": "La mediación tecnológica implica dar sentido pedagógico al uso de dispositivos mediante actividades planeadas y acuerdos claros.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuál es una fortaleza pedagógica del contexto rural para el aprendizaje en telesecundaria?",
+    "opciones": [
+      "No existe ninguna fortaleza; el contexto rural solo representa carencias",
+      "La abundancia de recursos tecnológicos de última generación",
+      "La riqueza de saberes comunitarios, el vínculo con la naturaleza y la posibilidad de aprendizajes situados"
+    ],
+    "respuesta": 2,
+    "explicacion": "El entorno rural ofrece oportunidades de aprendizaje situado vinculado con la naturaleza, prácticas productivas y saberes tradicionales.",
+    "cita": "SEP, Plan de Estudio 2022, principios de la NEM; enfoque comunitario."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué cambios cerebrales explican la impulsividad y la toma de riesgos en adolescentes de 12 a 15 años?",
+    "opciones": [
+      "El cerebro adolescente está completamente desarrollado y las conductas de riesgo son intencionales",
+      "La corteza prefrontal aún está en maduración mientras el sistema límbico es altamente reactivo",
+      "Los adolescentes carecen de inteligencia suficiente para evaluar riesgos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La asimetría entre un sistema límbico reactivo y una corteza prefrontal inmadura explica la tendencia al riesgo adolescente.",
+    "cita": "Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué diferencia fundamental existe entre evaluación formativa y evaluación sumativa?",
+    "opciones": [
+      "La formativa se realiza durante el proceso para mejorar el aprendizaje; la sumativa certifica resultados al final",
+      "No hay diferencia; son sinónimos",
+      "La formativa solo usa exámenes escritos; la sumativa usa proyectos"
+    ],
+    "respuesta": 0,
+    "explicacion": "La evaluación formativa es procesual y orientada a la mejora; la sumativa es final y orientada a la certificación.",
+    "cita": "SEP, Plan de Estudio 2022, enfoque de evaluación."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "En la telesecundaria se detecta que un grupo de alumnos de tercer grado intimida a los de primer ingreso pidiéndoles dinero y comida.",
+    "pregunta": "¿Cuál es la estrategia más integral para atender esta situación?",
+    "opciones": [
+      "Llamar a la policía y denunciar penalmente a los alumnos de tercer grado",
+      "Aplicar un castigo grupal a todo tercer grado sin investigar quiénes están involucrados",
+      "Activar el protocolo: documentar, intervenir con involucrados, implementar acciones de restauración y prevención"
+    ],
+    "respuesta": 2,
+    "explicacion": "La atención integral incluye documentación, intervención con involucrados, prácticas restaurativas y prevención comunitaria.",
+    "cita": "SEP, Protocolo para la prevención y atención de la violencia escolar, 2023."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La telesecundaria de San Miguel tiene solo dos docentes. El supervisor sugiere que se integren al CTE de zona junto con otras telesecundarias cercanas.",
+    "pregunta": "¿Qué beneficio tiene el CTE ampliado o de zona para telesecundarias bidocentes?",
+    "opciones": [
+      "Ninguno, porque cada escuela debe trabajar aisladamente su propio PEMC",
+      "Permite el intercambio de experiencias, reduce el aislamiento profesional y fortalece la formación entre pares",
+      "Solo sirve para cumplir un requisito administrativo de la supervisión"
+    ],
+    "respuesta": 1,
+    "explicacion": "El CTE ampliado rompe el aislamiento de escuelas pequeñas al generar comunidad profesional de aprendizaje entre docentes de distintos planteles.",
+    "cita": "SEP, Lineamientos CTE, 2023-2024."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué tipo de proyectos promueve el Programa Sintético Fase 6 como metodología central?",
+    "opciones": [
+      "Proyectos de inversión empresarial para generar ingresos escolares",
+      "Proyectos comunitarios, integradores o de servicio que articulen contenidos de distintos campos formativos",
+      "Proyectos individuales de investigación bibliográfica exclusivamente"
+    ],
+    "respuesta": 1,
+    "explicacion": "El Plan 2022 promueve metodologías como proyectos comunitarios que integran campos formativos y vinculan con la realidad local.",
+    "cita": "SEP, Programa Sintético Fase 6, metodologías, 2023."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En clase de Ética, Naturaleza y Sociedades, el docente propone un debate sobre si debería permitirse la minería en la región. Los alumnos de tercer grado argumentan posiciones diferentes con evidencias.",
+    "pregunta": "¿Qué capacidad cognitiva formal están ejerciendo los alumnos?",
+    "opciones": [
+      "Pensamiento combinatorio y argumentación con consideración de múltiples perspectivas",
+      "Pensamiento mágico y animista propio de la etapa preoperacional",
+      "Memorización de datos sin comprensión"
+    ],
+    "respuesta": 0,
+    "explicacion": "El debate argumentado con múltiples perspectivas refleja el pensamiento combinatorio propio de las operaciones formales.",
+    "cita": "Piaget, J. (1972). Intellectual Evolution from Adolescence to Adulthood."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué competencia profesional es particularmente necesaria para el docente de telesecundaria en contextos rurales?",
+    "opciones": [
+      "Especialización en una sola disciplina académica a nivel de posgrado",
+      "Dominio avanzado de idiomas extranjeros para comunicarse con la comunidad",
+      "Capacidad de adaptación, creatividad con recursos del entorno y sensibilidad intercultural"
+    ],
+    "respuesta": 2,
+    "explicacion": "El docente rural requiere versatilidad, creatividad con recursos limitados y sensibilidad ante la diversidad cultural del entorno.",
+    "cita": "INEE (2019). Políticas para mejorar la educación en contextos rurales."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué factor de riesgo para la violencia escolar es particularmente relevante en la etapa adolescente?",
+    "opciones": [
+      "La necesidad de pertenencia que puede llevar a conductas de exclusión grupal y presión de pares",
+      "La incapacidad total de los adolescentes para resolver conflictos",
+      "La ausencia completa de empatía en todos los adolescentes"
+    ],
+    "respuesta": 0,
+    "explicacion": "La fuerte necesidad de pertenencia puede generar dinámicas de exclusión, presión y acoso entre pares.",
+    "cita": "SEP, Marco para la Convivencia Escolar; Olweus, D. (1993). Bullying at School."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordene los pasos para la elaboración del Programa Analítico: 1) Contextualizar contenidos con la realidad local, 2) Realizar diagnóstico del contexto, 3) Analizar el Programa Sintético.",
+    "opciones": [
+      "2, 3, 1",
+      "1, 3, 2",
+      "3, 2, 1"
+    ],
+    "respuesta": 0,
+    "explicacion": "Primero se diagnostica el contexto, luego se analiza el Programa Sintético y finalmente se contextualiza incorporando la realidad local.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué la formación continua es un desafío particular para docentes de telesecundaria en zonas rurales?",
+    "opciones": [
+      "Porque la distancia geográfica, la falta de conectividad y el aislamiento dificultan el acceso a formación y acompañamiento",
+      "Porque los docentes rurales no tienen interés en formarse",
+      "Porque no existen programas de formación para docentes de telesecundaria"
+    ],
+    "respuesta": 0,
+    "explicacion": "Las condiciones de aislamiento y carencia de conectividad limitan las oportunidades de desarrollo profesional docente en zonas rurales.",
+    "cita": "INEE (2019). Políticas para mejorar la educación en contextos rurales."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La profesora Martha necesita abordar el PDA 'Comunica ideas y sentimientos mediante distintos lenguajes artísticos' en su telesecundaria rural que carece de instrumentos musicales.",
+    "pregunta": "¿Qué estrategia puede implementar?",
+    "opciones": [
+      "Omitir el PDA por falta de materiales convencionales",
+      "Solicitar que los padres compren instrumentos profesionales",
+      "Aprovechar cantos tradicionales de la comunidad, materiales naturales para crear arte y danza regional"
+    ],
+    "respuesta": 2,
+    "explicacion": "Los saberes artísticos comunitarios y los recursos naturales son alternativas pedagógicas legítimas para desarrollar la expresión artística.",
+    "cita": "SEP, Programa Sintético Fase 6, campo Lenguajes, 2023."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué tipo de retroalimentación es más efectiva para que los adolescentes mejoren su desempeño?",
+    "opciones": [
+      "Retroalimentación que solo indica 'bien' o 'mal' sin más detalle",
+      "Retroalimentación comparativa que señale quién es el mejor y el peor del grupo",
+      "Retroalimentación específica, oportuna y orientada a la acción, que señale fortalezas y ofrezca pistas para mejorar"
+    ],
+    "respuesta": 2,
+    "explicacion": "La retroalimentación efectiva es específica, oportuna y da al alumno información accionable para mejorar su trabajo.",
+    "cita": "Hattie, J. y Timperley, H. (2007). The Power of Feedback."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El PEMC se elabora a partir del ________ de la escuela y su entorno, identificando necesidades y fortalezas.",
+    "opciones": [
+      "presupuesto anual",
+      "diagnóstico integral",
+      "ranking de calificaciones"
+    ],
+    "respuesta": 1,
+    "explicacion": "El PEMC parte de un diagnóstico integral que identifica las necesidades, problemáticas y fortalezas de la comunidad escolar.",
+    "cita": "SEP, Lineamientos CTE y PEMC, 2023-2024."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Pedro, alumno de telesecundaria de 14 años, cuestiona constantemente las reglas de la escuela y pregunta '¿por qué?' ante cada indicación del docente.",
+    "pregunta": "Desde el desarrollo cognitivo, ¿cómo se interpreta esta conducta?",
+    "opciones": [
+      "Como un trastorno oposicionista desafiante que requiere medicación",
+      "Como una conducta aprendida de los medios sin relación con el desarrollo",
+      "Como una manifestación normal del pensamiento crítico propio de las operaciones formales"
+    ],
+    "respuesta": 2,
+    "explicacion": "El cuestionamiento de normas y la búsqueda de razones son manifestaciones normales del pensamiento formal.",
+    "cita": "Piaget, J. (1972); Papalia, D. (2012), cap. 11."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La telesecundaria de 'El Porvenir' identifica que el 60% de las familias habla náhuatl además del español. El colectivo docente quiere responder a esta realidad.",
+    "pregunta": "¿Qué acción es más pertinente desde el enfoque intercultural del Plan 2022?",
+    "opciones": [
+      "Prohibir el uso de la lengua originaria en la escuela",
+      "Reconocer y valorar la lengua originaria, incorporarla como recurso de aprendizaje y promover prácticas bilingües",
+      "Derivar a los alumnos a escuelas indígenas porque telesecundaria no atiende esa diversidad"
+    ],
+    "respuesta": 1,
+    "explicacion": "El enfoque intercultural crítico del Plan 2022 promueve el reconocimiento, valoración y uso pedagógico de las lenguas originarias.",
+    "cita": "SEP, Plan de Estudio 2022, eje articulador Interculturalidad crítica."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué papel juega la educación socioemocional en la prevención de la violencia entre adolescentes?",
+    "opciones": [
+      "Ninguno; la violencia solo se previene con castigos severos",
+      "Desarrolla habilidades de autoconocimiento, autorregulación, empatía y resolución de conflictos que reducen conductas agresivas",
+      "Solo es útil para niños pequeños; los adolescentes ya no la necesitan"
+    ],
+    "respuesta": 1,
+    "explicacion": "La educación socioemocional fortalece competencias protectoras que disminuyen la probabilidad de conductas violentas en adolescentes.",
+    "cita": "CASEL (2020); SEP, campo De lo Humano y lo Comunitario, Fase 6."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "caso",
+    "caso": "En la telesecundaria 'Tierra y Libertad', el docente organiza un huerto escolar. Los alumnos miden parcelas (Saberes y Pensamiento Científico), investigan sobre soberanía alimentaria (Ética, Naturaleza y Sociedades) y elaboran un manual ilustrado (Lenguajes).",
+    "pregunta": "¿Qué enfoque metodológico del Plan 2022 se refleja en esta actividad?",
+    "opciones": [
+      "El aprendizaje basado en la memorización de contenidos aislados",
+      "El aprendizaje basado en proyectos comunitarios que integra campos formativos y vincula con el contexto",
+      "El enfoque conductista de estímulo-respuesta"
+    ],
+    "respuesta": 1,
+    "explicacion": "El proyecto integrador vincula campos formativos y conecta con la realidad comunitaria, reflejando el enfoque de proyectos del Plan 2022.",
+    "cita": "SEP, Plan de Estudio 2022, metodologías sugeridas."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué papel juega el diagnóstico comunitario en la elaboración del Programa Analítico para telesecundaria?",
+    "opciones": [
+      "Es un trámite burocrático que no impacta la planeación",
+      "Permite identificar saberes locales, necesidades, recursos y características de los estudiantes para contextualizar el currículo",
+      "Solo sirve para documentar las carencias ante las autoridades"
+    ],
+    "respuesta": 1,
+    "explicacion": "El diagnóstico comunitario es el insumo fundamental para que la contextualización curricular sea pertinente y significativa.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La profesora Lucía observa que sus alumnos de primer grado se desmotivan cuando reciben calificaciones bajas. Decide cambiar su práctica evaluativa.",
+    "pregunta": "¿Qué cambio sería más coherente con la evaluación formativa?",
+    "opciones": [
+      "Sustituir las calificaciones numéricas durante el proceso por retroalimentación descriptiva que señale avances y siguientes pasos",
+      "Subir las calificaciones de todos para que nadie se desmotive",
+      "Dejar de evaluar completamente para no generar estrés"
+    ],
+    "respuesta": 0,
+    "explicacion": "La retroalimentación descriptiva durante el proceso enfoca al alumno en la mejora, favoreciendo la motivación intrínseca.",
+    "cita": "Hattie, J. y Timperley, H. (2007). The Power of Feedback."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué papel tiene el docente de telesecundaria respecto a la metodología de proyectos en el Plan 2022?",
+    "opciones": [
+      "Ser transmisor de información mientras los alumnos escuchan pasivamente",
+      "Ser diseñador, mediador y acompañante del proceso de aprendizaje del estudiante",
+      "Ser solo evaluador al final del proyecto sin participar en el proceso"
+    ],
+    "respuesta": 1,
+    "explicacion": "El docente diseña situaciones de aprendizaje, media el proceso y acompaña al estudiante en la construcción de conocimiento.",
+    "cita": "SEP, Plan de Estudio 2022, rol del docente."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "En la telesecundaria de una comunidad pesquera, varios alumnos faltan los lunes porque salen con sus padres a pescar desde el domingo.",
+    "pregunta": "¿Qué implica para el docente conocer este contexto?",
+    "opciones": [
+      "Reportar a los padres por negligencia y exigir asistencia perfecta",
+      "Reducir los contenidos para que se cubran solo de martes a viernes",
+      "Reconocer las actividades productivas familiares y diseñar estrategias que compensen las inasistencias sin penalizar"
+    ],
+    "respuesta": 2,
+    "explicacion": "Conocer el contexto productivo permite al docente diseñar estrategias de recuperación y flexibilización sin excluir a los alumnos.",
+    "cita": "SEP, Plan de Estudio 2022, vínculo escuela-comunidad."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "El docente detecta que en WhatsApp circulan mensajes ofensivos entre alumnos de segundo grado que generan tensión en el aula.",
+    "pregunta": "¿Cuál es la intervención más adecuada?",
+    "opciones": [
+      "Confiscar todos los celulares permanentemente y no abordar el tema",
+      "Abrir un espacio de diálogo sobre uso responsable de redes sociales, ciberconvivencia y el impacto de las palabras",
+      "Ignorar la situación porque ocurre fuera del horario escolar"
+    ],
+    "respuesta": 1,
+    "explicacion": "La violencia digital impacta la convivencia escolar y requiere abordaje formativo que desarrolle ciudadanía digital y empatía.",
+    "cita": "SEP, Marco para la Convivencia Escolar, 2023."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "En telesecundaria, las sesiones integran tres componentes: programa televisivo, guía de aprendizaje y ________.",
+    "opciones": [
+      "mediación del docente",
+      "examen estandarizado",
+      "tarea domiciliaria calificada"
+    ],
+    "respuesta": 0,
+    "explicacion": "La triada del modelo es: programa audiovisual, guía de aprendizaje y mediación docente como elemento articulador.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria, 2011."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué el campo De lo Humano y lo Comunitario incluye contenidos de educación socioemocional en Fase 6?",
+    "opciones": [
+      "Porque los adolescentes ya no necesitan apoyo emocional y solo es contenido teórico",
+      "Porque la adolescencia es una etapa de intensas transformaciones emocionales que requieren acompañamiento educativo intencionado",
+      "Porque sustituye completamente la función de orientación vocacional"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los contenidos socioemocionales responden a las necesidades propias de la adolescencia: regulación emocional, identidad y relaciones.",
+    "cita": "SEP, Programa Sintético Fase 6, De lo Humano y lo Comunitario, 2023."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "La docente Verónica llega a su primer año de servicio en una telesecundaria unitaria (ella es la única maestra). Atiende los tres grados y también funciones directivas.",
+    "pregunta": "¿Qué desafío profesional enfrenta prioritariamente?",
+    "opciones": [
+      "La necesidad de planificar para tres grados, gestionar la escuela y atender la diversidad con recursos limitados",
+      "El exceso de personal de apoyo que interfiere con su trabajo",
+      "La presión de los padres para que solo enseñe contenidos de preparatoria"
+    ],
+    "respuesta": 0,
+    "explicacion": "En telesecundarias unitarias el docente asume funciones pedagógicas y administrativas para múltiples grados, un reto de alta complejidad.",
+    "cita": "INEE (2019). La educación obligatoria en México."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué elementos del contexto debe considerar el Programa Analítico de una telesecundaria?",
+    "opciones": [
+      "Solo los resultados de exámenes estandarizados nacionales",
+      "Las características socioculturales, lingüísticas, económicas y geográficas de la comunidad y las necesidades de los adolescentes",
+      "Exclusivamente el presupuesto disponible para materiales didácticos"
+    ],
+    "respuesta": 1,
+    "explicacion": "El Programa Analítico requiere un diagnóstico amplio que considere múltiples dimensiones del contexto.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "secuencia",
+    "caso": null,
+    "pregunta": "Ordene los niveles de intervención en convivencia escolar: 1) Atención a situaciones de violencia ya ocurridas, 2) Promoción de ambientes positivos para todos, 3) Prevención focalizada con grupos en riesgo.",
+    "opciones": [
+      "2, 3, 1",
+      "1, 2, 3",
+      "3, 1, 2"
+    ],
+    "respuesta": 0,
+    "explicacion": "La intervención va de lo universal (promoción), a lo focalizado (prevención con grupos en riesgo) y finalmente a la atención de casos.",
+    "cita": "SEP, Marco para la Convivencia Escolar, 2023."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué es importante que el docente de telesecundaria diferencie entre conductas propias del desarrollo y señales de alerta?",
+    "opciones": [
+      "Para no patologizar conductas normativas y, al mismo tiempo, identificar situaciones que requieran canalización a especialistas",
+      "Para poder diagnosticar patologías mentales desde el aula",
+      "Para ignorar todas las conductas problemáticas asumiendo que son 'normales'"
+    ],
+    "respuesta": 0,
+    "explicacion": "Diferenciar lo normativo de lo patológico permite acompañar el desarrollo normal y canalizar situaciones de riesgo.",
+    "cita": "Papalia, D. (2012). Desarrollo Humano; SEP, orientaciones para tutoría."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "En el CTE de enero, los docentes analizan los avances del PEMC. Identifican que la estrategia para mejorar la comprensión lectora no ha dado resultados.",
+    "pregunta": "¿Cuál es la acción más adecuada del colectivo docente?",
+    "opciones": [
+      "Abandonar completamente el PEMC y empezar uno nuevo",
+      "Culpar a los alumnos por no esforzarse y mantener las mismas acciones",
+      "Analizar por qué no funcionó, hacer ajustes basados en evidencia y definir nuevas acciones"
+    ],
+    "respuesta": 2,
+    "explicacion": "El seguimiento del PEMC implica analizar resultados, identificar causas y ajustar estrategias en un ciclo de mejora continua.",
+    "cita": "SEP, Lineamientos CTE y PEMC, 2023-2024."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué desafío particular tiene la evaluación formativa cuando un solo docente atiende todas las áreas?",
+    "opciones": [
+      "No existe ningún desafío; es igual que en secundaria general",
+      "La carga evaluativa es mayor, lo que requiere instrumentos eficientes como rúbricas y portafolios",
+      "El docente no tiene obligación de evaluar porque es telesecundaria"
+    ],
+    "respuesta": 1,
+    "explicacion": "Al atender todos los campos, el docente necesita instrumentos eficientes que permitan seguimiento integral sin sobrecarga.",
+    "cita": "SEP, Modelo Educativo para el Fortalecimiento de Telesecundaria; lineamientos de evaluación."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué implica el concepto de 'equidad educativa' para las telesecundarias en comunidades dispersas?",
+    "opciones": [
+      "Dar exactamente los mismos recursos que a las escuelas urbanas sin considerar el contexto",
+      "Aceptar que estas escuelas siempre tendrán resultados inferiores y reducir expectativas",
+      "Proporcionar condiciones diferenciadas que compensen las desventajas del contexto para garantizar aprendizajes equivalentes"
+    ],
+    "respuesta": 2,
+    "explicacion": "La equidad implica dar más a quien más lo necesita para lograr condiciones de aprendizaje equivalentes.",
+    "cita": "INEE (2019). La educación obligatoria en México."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "Según Erikson, la resolución positiva de la crisis de identidad produce ________, que es la capacidad de comprometerse con valores y roles.",
+    "opciones": [
+      "voluntad",
+      "fidelidad",
+      "competencia"
+    ],
+    "respuesta": 1,
+    "explicacion": "La virtud que emerge de la resolución exitosa de identidad vs. confusión es la fidelidad: comprometerse lealmente con ideales.",
+    "cita": "Erikson, E. (1968). Identity: Youth and Crisis."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La asamblea comunitaria de 'San Andrés' ofrece a la telesecundaria el uso de una parcela para proyecto escolar.",
+    "pregunta": "¿Cómo puede el CTE integrar esta oferta comunitaria al PEMC?",
+    "opciones": [
+      "Rechazar la oferta porque no corresponde a actividades escolares",
+      "Aceptar la parcela solo para generar ingresos económicos",
+      "Incorporarla como espacio de aprendizaje para proyectos integradores vinculados con los campos formativos"
+    ],
+    "respuesta": 2,
+    "explicacion": "Los espacios comunitarios pueden integrarse como ambientes de aprendizaje que enriquecen los proyectos curriculares del PEMC.",
+    "cita": "SEP, Plan de Estudio 2022; Lineamientos CTE, vínculo escuela-comunidad."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué son las prácticas restaurativas en el contexto de la convivencia escolar con adolescentes?",
+    "opciones": [
+      "Castigos físicos que buscan restaurar la disciplina por la fuerza",
+      "Técnicas de limpieza y mantenimiento del edificio escolar",
+      "Procesos que buscan reparar el daño, restaurar relaciones y reintegrar a los involucrados mediante diálogo"
+    ],
+    "respuesta": 2,
+    "explicacion": "Las prácticas restaurativas se centran en reparar relaciones y responsabilizar al agresor mediante el diálogo, no el castigo.",
+    "cita": "SEP, Marco para la Convivencia Escolar, 2023."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cuántos alumnos atiende en promedio un grupo de telesecundaria comparado con secundaria general?",
+    "opciones": [
+      "Más de 50 alumnos, superando a la secundaria general",
+      "Exactamente el mismo número que las secundarias generales (40-45 alumnos)",
+      "Generalmente grupos más pequeños (15-25 alumnos), lo que permite mayor personalización"
+    ],
+    "respuesta": 2,
+    "explicacion": "Los grupos de telesecundaria tienden a ser menores por estar en comunidades pequeñas, una ventaja para la atención personalizada.",
+    "cita": "INEE (2019). La educación obligatoria en México."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "El docente trabaja el eje 'Igualdad de género' con alumnos de una comunidad donde persisten roles de género muy marcados. Algunos padres expresan incomodidad.",
+    "pregunta": "¿Cómo debe proceder el docente?",
+    "opciones": [
+      "Eliminar el contenido para no generar conflicto con las familias",
+      "Imponer los contenidos sin considerar las preocupaciones de la comunidad",
+      "Abordar el tema con sensibilidad intercultural, dialogando con las familias sobre su importancia como contenido curricular obligatorio"
+    ],
+    "respuesta": 2,
+    "explicacion": "Los ejes articuladores son obligatorios pero deben abordarse con sensibilidad cultural, construyendo puentes de diálogo con la comunidad.",
+    "cita": "SEP, Plan de Estudio 2022, eje Igualdad de género."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "El docente nota que un alumno de 14 años que antes era participativo ahora se aísla, ha bajado su rendimiento y se muestra triste constantemente desde hace semanas.",
+    "pregunta": "¿Cuál es la acción más apropiada del docente?",
+    "opciones": [
+      "Ignorar la situación porque es 'cosa de adolescentes'",
+      "Acercarse con empatía, escucharlo y, si detecta señales de riesgo, canalizar con servicio de apoyo o la familia",
+      "Regañarlo frente al grupo para que reaccione y mejore su actitud"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los cambios conductuales prolongados pueden ser señales de alerta que requieren escucha empática y posible canalización.",
+    "cita": "SEP, orientaciones para la tutoría y acompañamiento de adolescentes."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La telesecundaria se ubica en zona fronteriza con alta migración. Muchos alumnos tienen familiares en EE.UU. y viven separación familiar.",
+    "pregunta": "¿Cómo puede incorporarse esta realidad al Programa Analítico?",
+    "opciones": [
+      "Integrar la migración como tema transversal en varios campos formativos: movimientos poblacionales, narrativas de migración y acompañamiento socioemocional",
+      "Ignorar la migración porque no es un tema curricular",
+      "Enseñar únicamente inglés como respuesta a la migración"
+    ],
+    "respuesta": 0,
+    "explicacion": "El contexto migratorio puede abordarse transversalmente en varios campos, dando sentido y pertinencia al currículo.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué característica tiene una rúbrica analítica que la distingue de una rúbrica holística?",
+    "opciones": [
+      "La analítica evalúa cada criterio de manera independiente; la holística emite un juicio global",
+      "La analítica solo usa números; la holística solo usa letras",
+      "No hay diferencia entre ambas"
+    ],
+    "respuesta": 0,
+    "explicacion": "La rúbrica analítica desglosa el desempeño en criterios separados; la holística valora el trabajo como un todo integrado.",
+    "cita": "Anijovich, R. (2017). La evaluación como oportunidad."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué función cumple el seguimiento a los acuerdos del CTE entre sesiones?",
+    "opciones": [
+      "Solo es un requisito burocrático para el informe a supervisión",
+      "Sirve exclusivamente para sancionar a los docentes que no cumplieron",
+      "Permite verificar la implementación, valorar su impacto y tomar decisiones informadas"
+    ],
+    "respuesta": 2,
+    "explicacion": "El seguimiento permite verificar avances, identificar obstáculos y ajustar estrategias en un ciclo de mejora continua.",
+    "cita": "SEP, Lineamientos CTE, 2023-2024."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Por qué los adolescentes de telesecundaria en contextos rurales pueden ser particularmente vulnerables a situaciones de violencia?",
+    "opciones": [
+      "Porque son inherentemente más violentos que los adolescentes urbanos",
+      "Por factores como aislamiento geográfico, menores redes de apoyo institucional y limitado acceso a servicios de protección",
+      "Porque la telesecundaria genera violencia por su modelo pedagógico"
+    ],
+    "respuesta": 1,
+    "explicacion": "La vulnerabilidad se relaciona con factores contextuales como aislamiento y acceso limitado a servicios de protección.",
+    "cita": "UNICEF (2019). Violencia contra niños y adolescentes en México."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "En el Plan 2022, el docente es concebido como un profesional con ________ para tomar decisiones curriculares contextualizadas.",
+    "opciones": [
+      "restricción total",
+      "autonomía profesional",
+      "indiferencia institucional"
+    ],
+    "respuesta": 1,
+    "explicacion": "El Plan 2022 reconoce la autonomía profesional del docente para contextualizar el currículo y tomar decisiones pedagógicas pertinentes.",
+    "cita": "SEP, Plan de Estudio 2022, perfil y rol del docente."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "La docente propone que los alumnos de tercer grado elaboren su 'proyecto de vida' considerando intereses, habilidades y opciones de la región.",
+    "pregunta": "¿Qué proceso del desarrollo adolescente está fortaleciendo esta actividad?",
+    "opciones": [
+      "La dependencia total hacia los padres para tomar decisiones",
+      "La construcción de identidad vocacional vinculada con la crisis identidad vs. confusión",
+      "La consolidación del pensamiento preoperacional"
+    ],
+    "respuesta": 1,
+    "explicacion": "Elaborar un proyecto de vida apoya la exploración identitaria al invitar al adolescente a imaginarse en el futuro con metas.",
+    "cita": "Erikson, E. (1968); SEP, De lo Humano y lo Comunitario, Fase 6."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Qué significa que el CTE sea un espacio de 'formación entre pares' para docentes de telesecundaria?",
+    "opciones": [
+      "Que los docentes se evalúan mutuamente para reportar a las autoridades",
+      "Que solo los docentes con más antigüedad enseñan a los nuevos",
+      "Que comparten experiencias y resuelven problemáticas colectivamente, aprendiendo unos de otros"
+    ],
+    "respuesta": 2,
+    "explicacion": "La formación entre pares implica aprendizaje colaborativo horizontal donde todos contribuyen con su experiencia.",
+    "cita": "SEP, Lineamientos CTE, 2023-2024."
+  },
+  {
+    "fuente": "Convivencia escolar",
+    "categoria": "Convivencia escolar y prevención de violencia",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La telesecundaria decide crear un 'comité de convivencia' integrado por alumnos representantes de cada grado, el docente y un padre de familia.",
+    "pregunta": "¿Qué principio de la convivencia democrática se está implementando?",
+    "opciones": [
+      "La participación estudiantil como pilar de la convivencia democrática y la corresponsabilidad",
+      "La exclusión de los adolescentes en las decisiones que les afectan",
+      "La centralización de todas las decisiones en el director"
+    ],
+    "respuesta": 0,
+    "explicacion": "Involucrar a los estudiantes en la gestión de la convivencia promueve la participación democrática y la corresponsabilidad.",
+    "cita": "SEP, Marco para la Convivencia Escolar, 2023."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "caso",
+    "caso": "Algunos alumnos caminan más de una hora para llegar a la telesecundaria. Llegan cansados y con hambre, afectando su concentración.",
+    "pregunta": "¿Qué acción integral puede tomar la escuela?",
+    "opciones": [
+      "Sancionar a los alumnos por su bajo rendimiento en las primeras horas",
+      "Gestionar desayunos escolares, ajustar la organización de la jornada y comunicar a las familias estrategias de alimentación",
+      "Reducir el horario a solo dos horas para que no se cansen"
+    ],
+    "respuesta": 1,
+    "explicacion": "Una respuesta integral considera alimentación, organización de la jornada y comunicación con familias para atender necesidades básicas.",
+    "cita": "SEP, lineamientos de operación de programas de alimentación escolar."
+  },
+  {
+    "fuente": "Programa Sintético Fase 6",
+    "categoria": "Programa Sintético Fase 6",
+    "subcategoria": null,
+    "dimension": "pensamiento_didactico",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cuál es la ventaja de organizar el currículo por campos formativos en lugar de asignaturas para telesecundaria?",
+    "opciones": [
+      "Facilita la integración de contenidos, reduce la fragmentación y se adapta mejor al modelo de un docente generalista",
+      "No tiene ninguna ventaja; es más difícil para el docente",
+      "Permite que cada campo sea impartido por un especialista diferente"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los campos formativos facilitan la integración curricular, lo que resulta especialmente funcional para un docente que atiende todas las áreas.",
+    "cita": "SEP, Plan de Estudio 2022; Programa Sintético Fase 6."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "La telesecundaria fue creada para llevar educación secundaria a comunidades donde no era viable establecer una secundaria ________.",
+    "opciones": [
+      "general o técnica",
+      "privada",
+      "universitaria"
+    ],
+    "respuesta": 0,
+    "explicacion": "La telesecundaria surgió como alternativa para comunidades donde no era factible instalar una secundaria general o técnica.",
+    "cita": "SEP, Historia de la Telesecundaria en México."
+  },
+  {
+    "fuente": "Evaluación formativa",
+    "categoria": "Evaluación formativa con adolescentes",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Cómo influye la autoestima del adolescente en su respuesta a la evaluación?",
+    "opciones": [
+      "No tiene ninguna influencia; la evaluación es un proceso puramente cognitivo",
+      "Solo los adolescentes con alta autoestima se benefician de la evaluación",
+      "Los adolescentes con baja autoestima pueden interpretar la evaluación como amenaza, por lo que la retroalimentación debe centrarse en la tarea"
+    ],
+    "respuesta": 2,
+    "explicacion": "La autoestima media la respuesta ante la evaluación; una retroalimentación respetuosa y centrada en la tarea protege la motivación.",
+    "cita": "Hattie, J. y Timperley, H. (2007). The Power of Feedback."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "completamiento",
+    "caso": null,
+    "pregunta": "El Taller intensivo de formación continua al inicio de cada periodo está dirigido a los ________.",
+    "opciones": [
+      "padres de familia",
+      "docentes",
+      "supervisores"
+    ],
+    "respuesta": 1,
+    "explicacion": "El Taller intensivo es el espacio de formación continua del CTE dirigido a los docentes al inicio de cada periodo.",
+    "cita": "SEP, Lineamientos CTE, 2023-2024."
+  },
+  {
+    "fuente": "Modelo de Telesecundaria",
+    "categoria": "Modalidad telesecundaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La telesecundaria de 'Las Margaritas' no cuenta con laboratorio de ciencias. El docente necesita abordar contenidos experimentales de Saberes y Pensamiento Científico.",
+    "pregunta": "¿Qué alternativa pedagógica puede implementar?",
+    "opciones": [
+      "Omitir los contenidos experimentales por falta de laboratorio",
+      "Diseñar experimentos con materiales del entorno, usar el patio como laboratorio natural y videos para procesos no reproducibles",
+      "Pedir a los alumnos que memoricen resultados de experimentos sin realizarlos"
+    ],
+    "respuesta": 1,
+    "explicacion": "La creatividad para usar el entorno como laboratorio y los recursos audiovisuales permite abordar la experimentación sin infraestructura formal.",
+    "cita": "SEP, Programa Sintético Fase 6, Saberes y Pensamiento Científico."
+  },
+  {
+    "fuente": "Desarrollo adolescente",
+    "categoria": "Adolescencia (12-15 años)",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "directo",
+    "caso": null,
+    "pregunta": "¿Qué tipo de relación docente-alumno favorece el desarrollo positivo del adolescente en telesecundaria?",
+    "opciones": [
+      "Una relación de confianza, respeto y firmeza con límites claros y escucha empática",
+      "Una relación autoritaria donde el docente impone sin escuchar",
+      "Una relación permisiva sin ninguna norma ni estructura"
+    ],
+    "respuesta": 0,
+    "explicacion": "Los adolescentes necesitan figuras adultas que combinen cercanía empática con límites claros, ofreciendo seguridad y autonomía.",
+    "cita": "Papalia, D. (2012). Desarrollo Humano; SEP, orientaciones para tutoría."
+  },
+  {
+    "fuente": "Programa Analítico",
+    "categoria": "Programa Analítico",
+    "subcategoria": null,
+    "dimension": "agente_formativo",
+    "tipo": "caso",
+    "caso": "El colectivo docente realiza un recorrido por la comunidad para identificar recursos naturales, culturales y productivos que puedan incorporar al Programa Analítico.",
+    "pregunta": "¿Qué nombre recibe esta práctica de reconocimiento del entorno?",
+    "opciones": [
+      "Auditoría financiera escolar",
+      "Inspección sanitaria del plantel",
+      "Diagnóstico o cartografía comunitaria como insumo para la contextualización curricular"
+    ],
+    "respuesta": 2,
+    "explicacion": "El recorrido comunitario es una forma de diagnóstico que identifica recursos y saberes del entorno para enriquecer el currículo.",
+    "cita": "SEP, Avance del contenido del Programa Sintético, 2023."
+  },
+  {
+    "fuente": "Contexto rural y telesecundaria",
+    "categoria": "Contexto rural/semiurbano",
+    "subcategoria": null,
+    "dimension": "conoce_alumnos",
+    "tipo": "valoracion",
+    "caso": null,
+    "pregunta": "¿Cómo influye el contexto rural en las expectativas educativas de los adolescentes de telesecundaria?",
+    "opciones": [
+      "Los adolescentes rurales no tienen expectativas educativas en absoluto",
+      "Puede generar tensiones entre continuar estudios y la presión de incorporarse a actividades productivas; el docente debe ampliar horizontes sin menospreciar saberes locales",
+      "Todos los adolescentes rurales desean emigrar a la ciudad sin excepción"
+    ],
+    "respuesta": 1,
+    "explicacion": "Los adolescentes rurales enfrentan tensiones entre estudio y trabajo familiar; el docente debe ampliar posibilidades respetando la identidad.",
+    "cita": "SEP, Plan de Estudio 2022; INEE (2019)."
+  },
+  {
+    "fuente": "CTE y vinculación comunitaria",
+    "categoria": "CTE y vinculación comunitaria",
+    "subcategoria": null,
+    "dimension": "escuela_transformacion",
+    "tipo": "caso",
+    "caso": "La supervisora organiza una red de CTE entre cinco telesecundarias de la zona. Cada sesión abordan una problemática común y comparten estrategias.",
+    "pregunta": "¿Qué beneficio tiene esta red para las telesecundarias participantes?",
+    "opciones": [
+      "Constituye una comunidad de aprendizaje que reduce el aislamiento y genera soluciones colectivas",
+      "Solo aumenta la carga administrativa sin beneficio pedagógico",
+      "Permite que la supervisora controle a todos los docentes simultáneamente"
+    ],
+    "respuesta": 0,
+    "explicacion": "La red de CTE funciona como comunidad de aprendizaje que rompe el aislamiento y multiplica las soluciones pedagógicas compartidas.",
+    "cita": "SEP, Lineamientos CTE, 2023-2024."
+  }
+]
