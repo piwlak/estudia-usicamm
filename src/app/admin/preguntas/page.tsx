@@ -101,7 +101,7 @@ export default function AdminPreguntasPage() {
             className="border border-slate-300 dark:border-slate-600 rounded-lg px-3 py-2 text-sm bg-white dark:bg-slate-700 text-slate-900 dark:text-white focus:ring-2 focus:ring-indigo-500 focus:outline-none"
           >
             <option value="">Todos los niveles</option>
-            <option value="inicial-preescolar">Inicial/Preescolar</option>
+            <option value="inicial-preescolar">Inicial y Preescolar</option>
             <option value="primaria">Primaria</option>
             <option value="telesecundaria">Telesecundaria</option>
           </select>
