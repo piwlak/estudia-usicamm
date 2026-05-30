@@ -57,14 +57,35 @@ export default function ExamenConfigPage() {
         return;
       }
 
-      // Get user's active level
+      // Get user's active level and role
       const { data: perfil } = await supabase
         .from("perfiles")
-        .select("nivel_activo")
+        .select("nivel_activo, rol")
         .eq("id", user.id)
-        .single() as { data: { nivel_activo: string } | null };
+        .single() as { data: { nivel_activo: string; rol: Rol } | null };
 
       const nivelActivo = perfil?.nivel_activo || "inicial-preescolar";
+      const rol = (perfil?.rol || "usuario") as Rol;
+      const tierLimits = getTierLimits(rol);
+
+      // Check daily exam limit for free users
+      if (tierLimits.maxExamenesDiarios !== null) {
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
+        const { count } = await (supabase.from("historial_examenes") as any)
+          .select("id", { count: "exact", head: true })
+          .eq("user_id", user.id)
+          .gte("created_at", today.toISOString());
+
+        if (count !== null && count >= tierLimits.maxExamenesDiarios) {
+          setError(
+            `Has alcanzado el límite de ${tierLimits.maxExamenesDiarios} exámenes por día. Actualiza a Premium para exámenes ilimitados.`
+          );
+          setCargando(false);
+          return;
+        }
+      }
 
       // Build the query
       let query = supabase
