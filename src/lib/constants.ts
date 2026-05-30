@@ -35,7 +35,7 @@ export const ETIQUETAS_MODO = {
 
 export const NIVELES = {
   "inicial-preescolar": {
-    nombre: "Educación Inicial y Preescolar",
+    nombre: "Inicial y Preescolar",
     descripcion: "Fase 1 y Fase 2 del Plan de Estudio 2022",
     icono: "👶",
   },
